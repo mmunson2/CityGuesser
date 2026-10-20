@@ -1024,7 +1024,7 @@
 
   function newRun() {
     clearMarks();
-    var random = mode === 'daily' ? seededRandom('daily:' + day) : Math.random;
+    var random = mode === 'daily' ? seededRandom('daily:' + day + "1") : Math.random;
     rounds = pickCities(random).map(function (city) {
       // The hint is one of the city's facts, drawn now so it stays put.
       var facts = city.facts || [];
