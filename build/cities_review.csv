@@ -1,0 +1,3333 @@
+rank,qid,name,country,score,views,sitelinks,capital,unesco,status
+1,Q90,Paris,France,1.0877,1828885,366,1,1,kept
+2,Q84,London,United Kingdom,1.0875,2849722,357,1,1,kept
+3,Q220,Rome,Italy,1.0813,1418658,344,1,1,kept
+4,Q237,Vatican City,Vatican City,1.0805,1455733,343,1,1,kept
+5,Q64,Berlin,Germany,1.0788,1672816,334,1,1,kept
+6,Q649,Moscow,Russia,1.0744,1114127,337,1,1,kept
+7,Q1218,Jerusalem,Palestine,1.0657,1676857,298,1,1,kept
+8,Q1741,Vienna,Austria,1.0591,1165442,294,1,1,kept
+9,Q334,Singapore,Singapore,1.0398,4089068,333,1,0,kept
+10,Q270,Warsaw,Poland,1.0398,796374,288,1,1,kept
+11,Q1085,Prague,Czechia,1.0388,1219794,267,1,1,kept
+12,Q656,Saint Petersburg,Russia,1.0377,1113806,273,1,1,kept
+13,Q1489,Mexico City,Mexico,1.0367,1551402,260,1,1,kept
+14,Q1486,Buenos Aires,Argentina,1.0365,951927,276,1,1,kept
+15,Q235,Monaco,Monaco,1.0353,2516834,321,1,0,kept
+16,Q1757,Helsinki,Finland,1.0304,586400,293,1,1,kept
+17,Q1490,Tokyo,Japan,1.0293,1697117,302,1,0,kept
+18,Q61,"Washington, D.C.",United States,1.0288,2530071,299,1,0,kept
+19,Q60,New York City,United States,1.0284,4924491,325,0,1,kept
+20,Q1781,Budapest,Hungary,1.0282,1067086,259,1,1,kept
+21,Q956,Beijing,China,1.0253,1108386,305,1,0,kept
+22,Q1899,Kyiv,Ukraine,1.0246,683755,277,1,1,kept
+23,Q8684,Seoul,South Korea,1.0224,856968,260,1,1,kept
+24,Q597,Lisbon,Portugal,1.0224,737610,267,1,1,kept
+25,Q3616,Tehran,Iran,1.0131,983004,240,1,1,kept
+26,Q8678,Rio de Janeiro,Brazil,1.0103,963843,303,0,1,kept
+27,Q727,Amsterdam,Netherlands,1.0083,1123635,283,1,0,kept
+28,Q406,Istanbul,Türkiye,1.0079,1338685,290,0,1,kept
+29,Q1524,Athens,Greece,1.0064,897039,289,1,0,kept
+30,Q1754,Stockholm,Sweden,0.9909,743142,279,1,0,kept
+31,Q1861,Bangkok,Thailand,0.9884,959176,262,1,0,kept
+32,Q3630,Jakarta,Indonesia,0.9855,1126274,251,1,0,kept
+33,Q8646,Hong Kong,China,0.9828,3000316,303,0,0,kept
+34,Q2841,Bogotá,Colombia,0.9778,564578,280,1,0,kept
+35,Q1492,Barcelona,Spain,0.9732,1182686,246,0,1,kept
+36,Q1748,Copenhagen,Denmark,0.973,864659,246,1,0,kept
+37,Q1761,Dublin,Ireland,0.971,979518,238,1,0,kept
+38,Q472,Sofia,Bulgaria,0.9664,503603,228,1,1,kept
+39,Q65,Los Angeles,United States,0.9641,2561362,280,0,0,kept
+40,Q1530,Baghdad,Iraq,0.9635,644883,251,1,0,kept
+41,Q1297,Chicago,United States,0.9618,2008988,279,0,0,kept
+42,Q2887,Santiago,Chile,0.9616,494818,275,1,0,kept
+43,Q585,Oslo,Norway,0.9589,650494,245,1,0,kept
+44,Q34600,Kyoto,Japan,0.9585,627474,260,0,1,kept
+45,Q2844,Brasília,Brazil,0.9576,468143,226,1,1,kept
+46,Q1930,Ottawa,Canada,0.9552,767563,231,1,0,kept
+47,Q9248,Baku,Azerbaijan,0.9541,562135,248,1,0,kept
+48,Q14773,Macau,China,0.9521,1443233,225,0,1,kept
+49,Q490,Milan,Italy,0.9508,1126421,226,0,1,kept
+50,Q1773,Riga,Latvia,0.9502,431578,225,1,1,kept
+51,Q2868,Lima,Peru,0.9483,470883,219,1,1,kept
+52,Q3711,Belgrade,Serbia,0.9475,674284,230,1,0,kept
+53,Q1410,Gibraltar,United Kingdom,0.9463,1318932,222,0,1,kept
+54,Q3130,Sydney,Australia,0.9461,1169161,266,0,0,kept
+55,Q987,New Delhi,India,0.9395,779595,221,1,0,kept
+56,Q3640,Ankara,Türkiye,0.9386,480643,241,1,0,kept
+57,Q8686,Shanghai,China,0.9367,1190735,251,0,0,kept
+58,Q5465,Cape Town,South Africa,0.9349,795316,217,1,0,kept
+59,Q3870,Nairobi,Kenya,0.9338,473937,238,1,0,kept
+60,Q1858,Hanoi,Vietnam,0.9332,536601,202,1,1,kept
+61,Q239,Brussels,Belgium,0.9331,304496,240,1,1,kept
+62,Q11194,Sarajevo,Bosnia and Herzegovina,0.9322,711433,218,1,0,kept
+63,Q994,Tbilisi,Georgia,0.932,558145,227,1,0,kept
+64,Q1354,Dhaka,Bangladesh,0.9309,634249,222,1,0,kept
+65,Q1854,Ho Chi Minh City,Vietnam,0.9309,883986,257,0,0,kept
+66,Q19689,Tirana,Albania,0.9294,327845,280,1,0,kept
+67,Q1865,Kuala Lumpur,Malaysia,0.9291,806719,213,1,0,kept
+68,Q62,San Francisco,United States,0.9289,1446873,238,0,0,kept
+69,Q3114,Canberra,Australia,0.928,782849,213,1,0,kept
+70,Q1770,Tallinn,Estonia,0.928,487681,230,1,0,kept
+71,Q1780,Bratislava,Slovakia,0.9278,534132,226,1,0,kept
+72,Q174,São Paulo,Brazil,0.9272,854634,256,0,0,kept
+73,Q3141,Melbourne,Australia,0.9272,1124536,210,0,1,kept
+74,Q1764,Reykjavík,Iceland,0.927,667739,217,1,0,kept
+75,Q1345,Philadelphia,United States,0.9249,1476270,205,0,1,kept
+76,Q3820,Beirut,Lebanon,0.9231,700706,213,1,0,kept
+77,Q1156,Mumbai,India,0.9218,1430890,231,0,0,kept
+78,Q1726,Munich,Germany,0.9206,879247,241,0,0,kept
+79,Q5806,Mecca,Saudi Arabia,0.9204,1073253,234,0,0,kept
+80,Q269,Tashkent,Uzbekistan,0.9199,524548,194,1,1,kept
+81,Q1533,Caracas,Venezuela,0.9193,587588,216,1,0,kept
+82,Q2280,Minsk,Belarus,0.9191,424278,232,1,0,kept
+83,Q3838,Kinshasa,Dem. Rep. of the Congo,0.9185,724583,207,1,0,kept
+84,Q216,Vilnius,Lithuania,0.918,437921,229,1,0,kept
+85,Q2044,Florence,Italy,0.9151,703761,214,0,1,kept
+86,Q1353,Delhi,India,0.9147,979787,204,0,1,kept
+87,Q641,Venice,Italy,0.9141,1039850,230,0,0,kept
+88,Q1461,Manila,Philippines,0.9129,674794,206,1,0,kept
+89,Q172,Toronto,Canada,0.9121,1581921,224,0,0,kept
+90,Q2634,Naples,Italy,0.91,757864,207,0,1,kept
+91,Q5838,Kabul,Afghanistan,0.9089,445561,223,1,0,kept
+92,Q70,Bern,Switzerland,0.9085,355337,207,1,1,kept
+93,Q31487,Kraków,Poland,0.9073,544616,185,1,1,kept
+94,Q612,Dubai,United Arab Emirates,0.9069,1898378,219,0,0,kept
+95,Q3894,Kampala,Uganda,0.9064,562716,183,1,1,kept
+96,Q1520,Astana,Kazakhstan,0.9052,479741,216,1,0,kept
+97,Q1055,Hamburg,Germany,0.9029,747326,230,0,0,kept
+98,Q3692,Riyadh,Saudi Arabia,0.9028,778556,195,1,0,kept
+99,Q100,Boston,United States,0.8996,1469485,216,0,0,kept
+100,Q1563,Havana,Cuba,0.8995,377327,199,1,1,kept
+101,Q1435,Zagreb,Croatia,0.8988,426555,218,1,0,kept
+102,Q1867,Taipei,Taiwan,0.8978,650914,197,1,0,kept
+103,Q3624,Addis Ababa,Ethiopia,0.8969,596749,200,1,0,kept
+104,Q437,Ljubljana,Slovenia,0.8957,512052,206,1,0,kept
+105,Q1953,Yerevan,Armenia,0.8944,446765,213,1,0,kept
+106,Q1519,Abu Dhabi,United Arab Emirates,0.8932,928292,185,1,0,kept
+107,Q33935,Tel Aviv,Israel,0.8921,903491,191,0,1,kept
+108,Q18808,Pyongyang,North Korea,0.889,526046,200,1,0,kept
+109,Q23556,Atlanta,United States,0.8878,1295523,209,0,0,kept
+110,Q3561,Algiers,Algeria,0.8876,405104,214,1,0,kept
+111,Q1362,Islamabad,Pakistan,0.8843,553859,195,1,0,kept
+112,Q3037,Kathmandu,Nepal,0.8816,516530,196,1,0,kept
+113,Q365,Cologne,Germany,0.8816,722150,190,0,1,kept
+114,Q23430,Ulaanbaatar,Mongolia,0.8795,571987,190,1,0,kept
+115,Q1335,Montevideo,Uruguay,0.8795,424314,205,1,0,kept
+116,Q6602,Strasbourg,France,0.8795,613203,194,0,1,kept
+117,Q3551,Rabat,Morocco,0.8784,349690,189,1,1,kept
+118,Q8652,Miami,United States,0.876,1109317,203,0,0,kept
+119,Q456,Lyon,France,0.8741,520012,197,0,1,kept
+120,Q1348,Kolkata,India,0.8739,851000,207,0,0,kept
+121,Q3926,Pretoria,South Africa,0.8693,474508,192,1,0,kept
+122,Q8660,Karachi,Pakistan,0.8689,806669,205,0,0,kept
+123,Q23768,Las Vegas,United States,0.8679,1113351,197,0,0,kept
+124,Q3579,Tripoli,Libya,0.8651,328098,187,1,1,kept
+125,Q340,Montreal,Canada,0.865,1179063,194,0,0,kept
+126,Q1794,Frankfurt,Germany,0.8646,615695,212,0,0,kept
+127,Q23661,Wellington,New Zealand,0.8637,509534,186,1,0,kept
+128,Q3861,Doha,Qatar,0.8631,486837,187,1,0,kept
+129,Q5083,Seattle,United States,0.8596,1467828,189,0,0,kept
+130,Q87,Alexandria,Egypt,0.8596,714575,177,0,1,kept
+131,Q3856,Nicosia,Cyprus,0.8595,344508,204,1,0,kept
+132,Q23436,Edinburgh,United Kingdom,0.858,1046373,192,0,0,kept
+133,Q2900,Quito,Ecuador,0.8576,335895,180,1,1,kept
+134,Q16555,Houston,United States,0.8575,1031640,192,0,0,kept
+135,Q9022,Guadalajara,Mexico,0.8552,557072,183,0,1,kept
+136,Q495,Turin,Italy,0.8548,590692,180,0,1,kept
+137,Q43387,Edirne,Türkiye,0.8536,195280,284,0,1,kept
+138,Q1449,Genoa,Italy,0.8535,595987,179,0,1,kept
+139,Q384,Skopje,North Macedonia,0.8531,354755,197,1,0,kept
+140,Q23800,Valletta,Malta,0.852,318883,181,1,1,kept
+141,Q71,Geneva,Switzerland,0.849,628484,200,0,0,kept
+142,Q3761,Accra,Ghana,0.8483,332557,201,1,0,kept
+143,Q23438,Ashgabat,Turkmenistan,0.8462,273894,187,1,1,kept
+144,Q18125,Manchester,United Kingdom,0.8457,1021485,185,0,0,kept
+145,Q35765,Osaka,Japan,0.8453,624782,197,0,0,kept
+146,Q24639,Vancouver,Canada,0.8441,1212881,181,0,0,kept
+147,Q3787,Abuja,Nigeria,0.8429,327469,199,1,0,kept
+148,Q3805,Amman,Jordan,0.8411,336586,194,1,0,kept
+149,Q1479,Bordeaux,France,0.8402,438134,184,0,1,kept
+150,Q8673,Lagos,Nigeria,0.8397,717262,189,0,0,kept
+151,Q2471,Sanaa,Yemen,0.8394,320123,173,1,1,kept
+152,Q36600,The Hague,Netherlands,0.8393,922145,183,0,0,kept
+153,Q83285,Durrës,Albania,0.8387,1479175,176,0,0,kept
+154,Q16554,Denver,United States,0.8378,807707,185,0,0,kept
+155,Q24826,Liverpool,United Kingdom,0.8374,879158,183,0,0,kept
+156,Q3572,Tunis,Tunisia,0.8367,272766,182,1,1,kept
+157,Q18094,Honolulu,United States,0.8366,637614,191,0,0,kept
+158,Q72,Zurich,Switzerland,0.8363,524134,199,0,0,kept
+159,Q34647,Johannesburg,South Africa,0.8345,698540,187,0,0,kept
+160,Q33959,Nice,France,0.8344,503194,175,0,1,kept
+161,Q5776,Bethlehem,Palestine,0.8322,583676,166,0,1,kept
+162,Q16556,Phoenix,United States,0.8316,858770,180,0,0,kept
+163,Q2449,Mogadishu,Somalia,0.8316,470204,170,1,0,kept
+164,Q34404,New Orleans,United States,0.8306,1072749,175,0,0,kept
+165,Q12439,Detroit,United States,0.8289,1008797,175,0,0,kept
+166,Q21197,Chișinău,Moldova,0.8253,292115,194,1,0,kept
+167,Q16557,Dallas,United States,0.8248,818953,177,0,0,kept
+168,Q1850,Phnom Penh,Cambodia,0.8239,351870,180,1,0,kept
+169,Q4093,Glasgow,United Kingdom,0.8231,858371,175,0,0,kept
+170,Q34820,Santo Domingo,Dominican Republic,0.8224,363943,152,1,1,kept
+171,Q16572,Guangzhou,China,0.8221,989648,171,0,0,kept
+172,Q1963,Khartoum,Sudan,0.8216,334688,183,1,0,kept
+173,Q3183,Perth,Australia,0.8194,712034,177,0,0,kept
+174,Q3921,Harare,Zimbabwe,0.8191,373772,174,1,0,kept
+175,Q1842,Luxembourg,Luxembourg,0.8178,255875,175,1,1,kept
+176,Q803,Utrecht,Netherlands,0.8163,1632689,137,0,1,kept
+177,Q5823,Ceuta,Spain,0.8155,1881346,160,0,0,kept
+178,Q16559,Austin,United States,0.8152,896397,169,0,0,kept
+179,Q7880,Toulouse,France,0.8149,399738,174,0,1,kept
+180,Q2256,Birmingham,United Kingdom,0.8134,1052462,164,0,0,kept
+181,Q3718,Dakar,Senegal,0.8125,335817,177,1,0,kept
+182,Q3306,Panama City,Panama,0.8122,302694,159,1,1,kept
+183,Q12892,Antwerp,Belgium,0.8102,470578,162,0,1,kept
+184,Q1355,Bengaluru,India,0.8096,881623,165,0,0,kept
+185,Q9361,Bishkek,Kyrgyzstan,0.8085,282615,186,1,0,kept
+186,Q1799,Wrocław,Poland,0.8081,483660,159,0,1,kept
+187,Q18013,Sacramento,United States,0.8057,601125,174,0,0,kept
+188,Q5831,Melilla,Spain,0.8052,565084,176,0,0,kept
+189,Q16552,San Diego,United States,0.8051,826241,164,0,0,kept
+190,Q3826,Muscat,Oman,0.805,417994,159,1,0,kept
+191,Q34932,Brisbane,Australia,0.804,705811,167,0,0,kept
+192,Q1731,Dresden,Germany,0.804,472694,183,0,0,kept
+193,Q374365,Jeddah,Saudi Arabia,0.8037,431117,162,0,1,kept
+194,Q36036,Lviv,Ukraine,0.801,333265,177,0,1,kept
+195,Q3897,Luanda,Angola,0.8002,265683,186,1,0,kept
+196,Q11725,Chongqing,China,0.7997,1244451,153,0,0,kept
+197,Q34713,Salzburg,Austria,0.7992,420275,161,0,1,kept
+198,Q5092,Baltimore,United States,0.7991,873491,159,0,0,kept
+199,Q10686,Belfast,United Kingdom,0.7978,730527,162,0,0,kept
+200,Q1352,Chennai,India,0.7976,773366,161,0,0,kept
+201,Q23337,Salt Lake City,United States,0.7974,796609,160,0,0,kept
+202,Q1022,Stuttgart,Germany,0.7973,445558,182,0,0,kept
+203,Q2933,Asunción,Paraguay,0.7973,292231,177,1,0,kept
+204,Q23197,Nashville,United States,0.7947,972312,154,0,0,kept
+205,Q2090,Nuremberg,Germany,0.7937,830125,157,0,0,kept
+206,Q1792,Gdańsk,Poland,0.7924,519762,172,0,0,kept
+207,Q11739,Lahore,Pakistan,0.7909,570822,142,0,1,kept
+208,Q6346,Indianapolis,United States,0.7903,623838,163,0,0,kept
+209,Q5753,Samarkand,Uzbekistan,0.7899,474542,149,0,1,kept
+210,Q900,Kazan,Russia,0.7896,354476,164,0,1,kept
+211,Q1070,Ahmedabad,India,0.7884,516213,145,0,1,kept
+212,Q16567,Columbus,United States,0.7872,685234,158,0,0,kept
+213,Q17151,Thessaloniki,Greece,0.787,665277,159,0,0,kept
+214,Q3935,Windhoek,Namibia,0.7867,276573,174,1,0,kept
+215,Q1829,Kaliningrad,Russia,0.7866,700428,157,0,0,kept
+216,Q35381,Colombo,Sri Lanka,0.7864,375944,153,1,0,kept
+217,Q5112,Adelaide,Australia,0.7862,611690,161,0,0,kept
+218,Q23564,Podgorica,Montenegro,0.7852,218170,192,1,0,kept
+219,Q37100,Auckland,New Zealand,0.7851,617450,160,0,0,kept
+220,Q36091,Minneapolis,United States,0.7837,1062418,146,0,0,kept
+221,Q1342,Pittsburgh,United States,0.7835,893914,149,0,0,kept
+222,Q2656,Palermo,Italy,0.7832,429329,175,0,0,kept
+223,Q1491,La Paz,Bolivia,0.782,334731,158,1,0,kept
+224,Q1361,Hyderabad,India,0.781,906285,147,0,0,kept
+225,Q7903,Casablanca,Morocco,0.7796,697430,153,0,0,kept
+226,Q10690,Cardiff,United Kingdom,0.7795,527757,162,0,0,kept
+227,Q2079,Leipzig,Germany,0.7787,449130,170,0,0,kept
+228,Q34692,Kingston,Jamaica,0.7784,321555,159,1,0,kept
+229,Q4361,Curitiba,Brazil,0.7783,179702,260,0,0,kept
+230,Q1718,Düsseldorf,Germany,0.7772,410162,174,0,0,kept
+231,Q34664,Hiroshima,Japan,0.7768,554652,159,0,0,kept
+232,Q1874,Odesa,Ukraine,0.7751,372823,178,0,0,kept
+233,Q959,Vladivostok,Russia,0.7737,493437,162,0,0,kept
+234,Q11746,Wuhan,China,0.7733,349634,180,0,0,kept
+235,Q975,San Antonio,United States,0.7723,644114,151,0,0,kept
+236,Q6106,Portland,United States,0.7721,937798,141,0,0,kept
+237,Q101625,Marrakech,Morocco,0.7718,436208,142,0,1,kept
+238,Q33986,Valparaíso,Chile,0.7716,151695,238,0,1,kept
+239,Q35484,Medina,Saudi Arabia,0.7708,465929,163,0,0,kept
+240,Q36312,Calgary,Canada,0.7704,722157,146,0,0,kept
+241,Q7525,Sevastopol,Ukraine,0.7695,352646,152,0,1,kept
+242,Q35493,Almaty,Kazakhstan,0.769,543904,155,0,0,kept
+243,Q25270,Pristina,Kosovo,0.7677,292835,158,1,0,kept
+244,Q37836,Milwaukee,United States,0.7675,844748,141,0,0,kept
+245,Q2467,Nassau,Bahamas,0.7671,361100,143,1,0,kept
+246,Q3859,Kigali,Rwanda,0.7669,202564,164,1,1,kept
+247,Q16553,San Jose,United States,0.7667,574983,151,0,0,kept
+248,Q38022,St. Louis,United States,0.7665,923675,138,0,0,kept
+249,Q3777,Ouagadougou,Burkina Faso,0.766,251187,169,1,0,kept
+250,Q3751,Praia,Cabo Verde,0.7656,287356,158,1,0,kept
+251,Q34370,Rotterdam,Netherlands,0.7654,385642,170,0,0,kept
+252,Q9427,Timbuktu,Mali,0.7648,520383,130,0,1,kept
+253,Q66485,Jaipur,India,0.7643,380151,145,0,1,kept
+254,Q25287,Gothenburg,Sweden,0.7642,453200,160,0,0,kept
+255,Q23154,Bristol,United Kingdom,0.764,667311,145,0,0,kept
+256,Q34863,Oklahoma City,United States,0.764,517695,154,0,0,kept
+257,Q3915,Antananarivo,Madagascar,0.7637,256571,165,1,0,kept
+258,Q3882,Manama,Bahrain,0.7634,193355,169,1,1,kept
+259,Q37701,Bloemfontein,South Africa,0.7621,345135,143,1,0,kept
+260,Q38283,Yokohama,Japan,0.7616,370480,170,0,0,kept
+261,Q3642,Asmara,Eritrea,0.7611,195307,165,1,1,kept
+262,Q34804,Albuquerque,United States,0.7597,773654,138,0,0,kept
+263,Q914,Volgograd,Russia,0.7596,433143,159,0,0,kept
+264,Q1017,Aachen,Germany,0.7589,373128,143,0,1,kept
+265,Q3748,Monrovia,Liberia,0.7589,256754,162,1,0,kept
+266,Q9326,Vientiane,Laos,0.7579,219149,175,1,0,kept
+267,Q16563,Memphis,United States,0.7561,689861,139,0,0,kept
+268,Q16568,Jacksonville,United States,0.7559,685953,139,0,0,kept
+269,Q1715,Hanover,Germany,0.7552,337086,172,0,0,kept
+270,Q29445,Juneau,United States,0.7546,482155,151,0,0,kept
+271,Q37951,Sapporo,Japan,0.7546,399424,161,0,0,kept
+272,Q39450,Anchorage,United States,0.7545,669708,139,0,0,kept
+273,Q15174,Shenzhen,China,0.7543,724807,136,0,0,kept
+274,Q586,Bonn,Germany,0.7536,378549,163,0,0,kept
+275,Q37320,Cleveland,United States,0.7534,652271,139,0,0,kept
+276,Q36526,Port Moresby,Papua New Guinea,0.7533,276451,153,1,0,kept
+277,Q2145,Quebec City,Canada,0.7528,498362,149,0,0,kept
+278,Q34217,Oxford,United Kingdom,0.7528,481985,150,0,0,kept
+279,Q34261,Port-au-Prince,Haiti,0.7515,259012,157,1,0,kept
+280,Q883,Novosibirsk,Russia,0.75,393313,159,0,0,kept
+281,Q9365,Dushanbe,Tajikistan,0.7497,202527,179,1,0,kept
+282,Q49233,Orlando,United States,0.7495,727811,133,0,0,kept
+283,Q9347,Malé,Maldives,0.7494,262894,155,1,0,kept
+284,Q25282,Da Nang,Vietnam,0.749,346600,141,0,1,kept
+285,Q11751,Nagoya,Japan,0.7463,368755,160,0,0,kept
+286,Q43196,Cincinnati,United States,0.7462,649974,135,0,0,kept
+287,Q2096,Edmonton,Canada,0.7462,606671,137,0,0,kept
+288,Q16666,Nanjing,China,0.7459,525762,142,0,0,kept
+289,Q3001,Paramaribo,Suriname,0.7456,186745,161,1,1,kept
+290,Q48278,Medellín,Colombia,0.7449,429082,151,0,0,kept
+291,Q16565,Charlotte,United States,0.7441,841331,127,0,0,kept
+292,Q887,Yekaterinburg,Russia,0.744,443208,149,0,0,kept
+293,Q8851,Málaga,Spain,0.7436,446965,148,0,0,kept
+294,Q2028,Verona,Italy,0.7432,330658,142,0,1,kept
+295,Q3646,Krasnodar,Russia,0.7424,174288,226,0,0,kept
+296,Q22889,Bath,United Kingdom,0.7424,578736,112,0,1,kept
+297,Q41819,Kansas City,United States,0.7418,926115,123,0,0,kept
+298,Q11736,Tianjin,China,0.7417,377588,156,0,0,kept
+299,Q6610,Yakutsk,Russia,0.7408,872750,124,0,0,kept
+300,Q39121,Leeds,United Kingdom,0.7408,569035,136,0,0,kept
+301,Q43433,Chandigarh,India,0.7391,463359,120,0,1,kept
+302,Q41183,Aleppo,Syria,0.7382,285341,148,0,1,kept
+303,Q3844,Brazzaville,Republic of the Congo,0.7377,200378,173,1,0,kept
+304,Q35178,Kuwait City,Kuwait,0.7375,205856,169,1,0,kept
+305,Q78,Basel,Switzerland,0.7372,402425,150,0,0,kept
+306,Q39420,Sochi,Russia,0.7369,254349,181,0,0,kept
+307,Q47492,Gaza City,Palestine,0.7364,672204,128,0,0,kept
+308,Q3703,Bamako,Mali,0.7352,191501,177,1,0,kept
+309,Q42941,Agra,India,0.7342,319382,139,0,1,kept
+310,Q79980,Varanasi,India,0.7339,541269,134,0,0,kept
+311,Q43421,Richmond,United States,0.7335,554424,133,0,0,kept
+312,Q38555,Santa Fe,United States,0.7335,503550,137,0,0,kept
+313,Q41087,Raleigh,United States,0.7333,522392,135,0,0,kept
+314,Q350,Cambridge,United Kingdom,0.7333,417789,146,0,0,kept
+315,Q13298,Graz,Austria,0.7332,248060,155,0,1,kept
+316,Q30002,Chengdu,China,0.7329,552008,133,0,0,kept
+317,Q39709,Des Moines,United States,0.732,424874,144,0,0,kept
+318,Q2135,Winnipeg,Canada,0.7314,559809,131,0,0,kept
+319,Q1722,Dubrovnik,Croatia,0.7312,387182,124,0,1,kept
+320,Q41211,San Juan,United States,0.7297,432000,117,0,1,kept
+321,Q37400,Naypyidaw,Myanmar,0.7294,218769,157,1,0,kept
+322,Q2141,Halifax,Canada,0.729,639304,125,0,0,kept
+323,Q18383,Providence,United States,0.7281,513233,133,0,0,kept
+324,Q40435,Buffalo,United States,0.7271,678620,122,0,0,kept
+325,Q2807,Madrid,Spain,0.7267,960274,0,1,1,kept
+326,Q1515,Abidjan,Côte d'Ivoire,0.726,319604,158,0,0,kept
+327,Q16520,Busan,South Korea,0.7258,386876,145,0,0,kept
+328,Q17042,Oakland,United States,0.7256,516945,131,0,0,kept
+329,Q35775,Boise,United States,0.7252,424862,140,0,0,kept
+330,Q24861,Albany,United States,0.7248,467666,135,0,0,kept
+331,Q1425428,Newcastle upon Tyne,United Kingdom,0.724,700973,119,0,0,kept
+332,Q42308,Kharkiv,Ukraine,0.7236,260375,171,0,0,kept
+333,Q12994,Bruges,Belgium,0.7235,390636,119,0,1,kept
+334,Q546,Trieste,Italy,0.7233,435673,137,0,0,kept
+335,Q1844,Vaduz,Liechtenstein,0.7231,161312,188,1,0,kept
+336,Q36433,Porto,Portugal,0.7231,414455,140,0,0,kept
+337,Q10717,Georgetown,Guyana,0.723,241530,145,1,0,kept
+338,Q18575,Tucson,United States,0.7227,585203,124,0,0,kept
+339,Q430776,Nazareth,Israel,0.7219,446959,135,0,0,kept
+340,Q43199,Omaha,United States,0.72,528981,126,0,0,kept
+341,Q648,Lille,France,0.7199,281213,162,0,0,kept
+342,Q42462,York,United Kingdom,0.7194,498311,129,0,0,kept
+343,Q16558,Fort Worth,United States,0.7186,475600,130,0,0,kept
+344,Q35997,İzmir,Türkiye,0.7185,269486,165,0,0,kept
+345,Q1663,Split,Croatia,0.7181,399235,115,0,1,kept
+346,Q39178,Port of Spain,Trinidad and Tobago,0.7181,247723,140,1,0,kept
+347,Q49255,Tampa,United States,0.7173,506739,127,0,0,kept
+348,Q1960,Dar es Salaam,Tanzania,0.7167,369094,142,0,0,kept
+349,Q11568,Darwin,Australia,0.7163,422030,135,0,0,kept
+350,Q1555,Guatemala City,Guatemala,0.7157,205742,155,1,0,kept
+351,Q33405,Little Rock,United States,0.7152,340561,146,0,0,kept
+352,Q24879,Bremen,Germany,0.7149,264622,164,0,0,kept
+353,Q158119,Ramallah,Palestine,0.7141,277549,129,1,0,kept
+354,Q16562,El Paso,United States,0.7126,525191,122,0,0,kept
+355,Q42956,Harbin,China,0.7121,409129,134,0,0,kept
+356,Q5687,Jericho,Palestine,0.7113,509688,99,0,1,kept
+357,Q13375,Pisa,Italy,0.7107,210483,156,0,1,kept
+358,Q28218,Baton Rouge,United States,0.7104,400071,134,0,0,kept
+359,Q2211,Malmö,Sweden,0.7102,317422,149,0,0,kept
+360,Q13670,Syracuse,Italy,0.7102,336802,120,0,1,kept
+361,Q41621,Haifa,Israel,0.71,399479,134,0,0,kept
+362,Q13364,Ravenna,Italy,0.7083,300129,127,0,1,kept
+363,Q4970,Hangzhou,China,0.708,414329,131,0,0,kept
+364,Q43668,Louisville,United States,0.7076,557969,117,0,0,kept
+365,Q131694,Aden,Yemen,0.7065,342768,110,1,0,kept
+366,Q26793,Bergen,Norway,0.7065,304183,149,0,0,kept
+367,Q1538,Pune,India,0.7059,425789,128,0,0,kept
+368,Q38234,Nagasaki,Japan,0.7054,313303,147,0,0,kept
+369,Q42053,Isfahan,Iran,0.7052,337048,141,0,0,kept
+370,Q37995,Yangon,Myanmar,0.7052,291785,151,0,0,kept
+371,Q37043,Tallahassee,United States,0.705,334509,142,0,0,kept
+372,Q29364,Montgomery,United States,0.705,320537,145,0,0,kept
+373,Q1711,Potsdam,Germany,0.7049,211263,152,0,1,kept
+374,Q28848,Saint Paul,United States,0.7044,366426,135,0,0,kept
+375,Q33486,Hartford,United States,0.7044,338590,140,0,0,kept
+376,Q1296,Ghent,Belgium,0.704,313678,146,0,0,kept
+377,Q43788,Madison,United States,0.7028,412905,128,0,0,kept
+378,Q5582862,Cusco,Peru,0.7027,335610,116,0,1,kept
+379,Q42448,Sheffield,United Kingdom,0.7022,461576,122,0,0,kept
+380,Q25395,Newark,United States,0.7001,513813,116,0,0,kept
+381,Q30974,Rouen,France,0.7,259413,156,0,0,kept
+382,Q79990,Christchurch,New Zealand,0.6992,396539,128,0,0,kept
+383,Q2966,Heidelberg,Germany,0.6988,296052,146,0,0,kept
+384,Q40191,Hobart,Australia,0.6982,344401,135,0,0,kept
+385,Q47916,Lucknow,India,0.698,404923,126,0,0,kept
+386,Q42800,Belo Horizonte,Brazil,0.6975,235566,138,0,1,kept
+387,Q40236,Manaus,Brazil,0.6965,263221,129,0,1,kept
+388,Q79848,Southampton,United Kingdom,0.6964,466350,118,0,0,kept
+389,Q81033,Monterrey,Mexico,0.6964,427453,122,0,0,kept
+390,Q28198,Jackson,United States,0.6943,342070,133,0,0,kept
+391,Q3688,Nouakchott,Mauritania,0.6939,185509,155,1,0,kept
+392,Q43070,Donetsk,Ukraine,0.6925,271012,149,0,0,kept
+393,Q40738,Bursa,Türkiye,0.6925,231446,137,0,1,kept
+394,Q5468,Durban,South Africa,0.6924,332626,135,0,0,kept
+395,Q2132,Victoria,Canada,0.6916,455578,116,0,0,kept
+396,Q126148,Tangier,Morocco,0.6916,383521,125,0,0,kept
+397,Q9270,Thimphu,Bhutan,0.6912,160276,170,1,0,kept
+398,Q79867,Birmingham,United States,0.6906,430325,118,0,0,kept
+399,Q3238,Tegucigalpa,Honduras,0.6902,177607,158,1,0,kept
+400,Q39042,Cheyenne,United States,0.6882,348268,128,0,0,kept
+401,Q41158,Cortina d'Ampezzo,Italy,0.6877,764431,95,0,0,kept
+402,Q3919,Gaborone,Botswana,0.6875,164603,163,1,0,kept
+403,Q657461,Cartagena,Colombia,0.6872,285656,117,0,1,kept
+404,Q3889,Maputo,Mozambique,0.6852,161624,164,1,0,kept
+405,Q41262,Nottingham,United Kingdom,0.6843,373175,122,0,0,kept
+406,Q43048,Rhodes,Greece,0.6841,418799,116,0,0,kept
+407,Q36947,Salvador,Brazil,0.684,213544,138,0,1,kept
+408,Q3110,San Salvador,El Salvador,0.6838,185431,149,1,0,kept
+409,Q891,Nizhny Novgorod,Russia,0.6834,256132,147,0,0,kept
+410,Q36647,Cork,Ireland,0.6833,428803,114,0,0,kept
+411,Q1863,Andorra la Vella,Andorra,0.6828,127890,193,1,0,kept
+412,Q44989,Tulsa,United States,0.6827,464698,110,0,0,kept
+413,Q1735,Innsbruck,Austria,0.682,242231,150,0,0,kept
+414,Q14960,Brno,Czechia,0.6813,252427,147,0,0,kept
+415,Q3808,Yaoundé,Cameroon,0.6812,155702,166,1,0,kept
+416,Q49266,Wichita,United States,0.6812,431932,112,0,0,kept
+417,Q23311,City of London,United Kingdom,0.6806,665138,95,0,0,kept
+418,Q807,Lausanne,Switzerland,0.6797,273753,140,0,0,kept
+419,Q36405,Aberdeen,United Kingdom,0.6793,323876,129,0,0,kept
+420,Q3070,San José,Costa Rica,0.6786,178955,150,1,0,kept
+421,Q47265,Palo Alto,United States,0.6784,571948,98,0,0,kept
+422,Q41876,Reims,France,0.6774,240445,124,0,1,kept
+423,Q6441,Montpellier,France,0.6768,241783,147,0,0,kept
+424,Q121157,Mashhad,Iran,0.6764,347367,121,0,0,kept
+425,Q1295,Dortmund,Germany,0.6759,226510,153,0,0,kept
+426,Q3832,Bangui,Central African Republic,0.6759,161977,158,1,0,kept
+427,Q268,Poznań,Poland,0.6749,255928,142,0,0,kept
+428,Q52535,Rosario,Argentina,0.6748,380799,115,0,0,kept
+429,Q6397,Avignon,France,0.6738,239725,122,0,1,kept
+430,Q5764,Bukhara,Uzbekistan,0.673,222843,128,0,1,kept
+431,Q225641,Mombasa,Kenya,0.6728,251142,118,0,1,kept
+432,Q617,Padua,Italy,0.6728,208264,134,0,1,kept
+433,Q26600,Fukuoka,Japan,0.6712,309926,127,0,0,kept
+434,Q80053,Tabriz,Iran,0.6699,206651,133,0,1,kept
+435,Q2751,Siena,Italy,0.6695,213717,129,0,1,kept
+436,Q38453,Columbia,United States,0.6691,297688,128,0,0,kept
+437,Q6487,Antalya,Türkiye,0.6691,265742,136,0,0,kept
+438,Q1947,Juba,South Sudan,0.6686,170146,149,1,0,kept
+439,Q3780,Freetown,Sierra Leone,0.6682,158702,156,1,0,kept
+440,Q49258,Colorado Springs,United States,0.6679,346858,116,0,0,kept
+441,Q47716,Charleston,United States,0.6665,571763,91,0,0,kept
+442,Q36168,Bridgetown,Barbados,0.6644,141161,145,1,1,kept
+443,Q8969,Cancun,Mexico,0.6642,409613,105,0,0,kept
+444,Q43301,Fresno,United States,0.6642,323646,120,0,0,kept
+445,Q6225,Coventry,United Kingdom,0.6638,406277,105,0,0,kept
+446,Q131491,Brighton,United Kingdom,0.6628,450269,99,0,0,kept
+447,Q1720,Mainz,Germany,0.6626,212477,150,0,0,kept
+448,Q83065,Leicester,United Kingdom,0.6623,341403,114,0,0,kept
+449,Q19660,Bucharest,Romania,0.6618,558441,0,1,0,kept
+450,Q17943,Arlington,United States,0.6615,454768,98,0,0,kept
+451,Q588,Katowice,Poland,0.6614,188372,163,0,0,kept
+452,Q47164,Santa Monica,United States,0.6613,403425,104,0,0,kept
+453,Q16739,Long Beach,United States,0.6613,342094,113,0,0,kept
+454,Q1289,Grenoble,France,0.6612,226756,144,0,0,kept
+455,Q205047,Kurdistan Region of Iraq,Iraq,0.6611,419892,102,0,0,kept
+456,Q49218,Rochester,United States,0.6609,424906,101,0,0,kept
+457,Q16959,Ürümqi,China,0.6604,301452,122,0,0,kept
+458,Q3659,N'Djamena,Chad,0.6601,144148,164,1,0,kept
+459,Q3733,Conakry,Guinea,0.6599,145259,163,1,0,kept
+460,Q2907,Sucre,Bolivia,0.6596,129820,152,1,1,kept
+461,Q165972,Fort Lauderdale,United States,0.6594,379982,106,0,0,kept
+462,Q132754,Erbil,Iraq,0.6591,273070,104,0,1,kept
+463,Q580,Łódź,Poland,0.6587,236535,138,0,0,kept
+464,Q167715,Thiruvananthapuram,India,0.6586,349425,110,0,0,kept
+465,Q184116,Gary,United States,0.6585,629444,83,0,0,kept
+466,Q83813,Savannah,United States,0.6576,525124,89,0,0,kept
+467,Q49247,Anaheim,United States,0.6575,337199,112,0,0,kept
+468,Q25280,Harrisburg,United States,0.6575,254861,132,0,0,kept
+469,Q79638,Fairbanks,United States,0.657,405674,101,0,0,kept
+470,Q3881,Lusaka,Zambia,0.6569,140878,165,1,0,kept
+471,Q4115712,Kaunas,Lithuania,0.6568,177400,144,0,1,kept
+472,Q49201,Portland,United States,0.6557,418418,99,0,0,kept
+473,Q3992,Liège,Belgium,0.6554,202543,127,0,1,kept
+474,Q80985,Fez,Morocco,0.6552,206735,124,0,1,kept
+475,Q127856,Beverly Hills,United States,0.6544,356146,106,0,0,kept
+476,Q124739,Tijuana,Mexico,0.6532,304147,117,0,0,kept
+477,Q9279,Bandar Seri Begawan,Brunei,0.6524,141104,162,1,0,kept
+478,Q48320,Kobe,Japan,0.6515,235959,134,0,0,kept
+479,Q187805,Spokane,United States,0.6512,471969,90,0,0,kept
+480,Q485176,Pasadena,United States,0.6509,379668,101,0,0,kept
+481,Q49111,Cambridge,United States,0.6509,363215,103,0,0,kept
+482,Q163584,Derry,United Kingdom,0.6508,477256,89,0,0,kept
+483,Q393,Szczecin,Poland,0.6506,205619,146,0,0,kept
+484,Q162442,Prayagraj,India,0.6501,311731,114,0,0,kept
+485,Q25804,Trondheim,Norway,0.6498,257886,126,0,0,kept
+486,Q28271,Annapolis,United States,0.6496,255666,127,0,0,kept
+487,Q40840,Tampere,Finland,0.6489,168840,169,0,0,kept
+488,Q38733,Helena,United States,0.6484,241636,130,0,0,kept
+489,Q2843,Lübeck,Germany,0.6483,182854,135,0,1,kept
+490,Q2082,St. John's,Canada,0.648,397347,97,0,0,kept
+491,Q1903,Catania,Italy,0.6475,215310,139,0,0,kept
+492,Q2833,Freiburg im Breisgau,Germany,0.6471,249484,127,0,0,kept
+493,Q126084,Acre,Israel,0.6471,249180,103,0,1,kept
+494,Q49225,Reno,United States,0.647,384133,98,0,0,kept
+495,Q2978,Regensburg,Germany,0.6469,205391,120,0,1,kept
+496,Q5168,Makhachkala,Russia,0.6465,280262,118,0,0,kept
+497,Q49145,New Haven,United States,0.6441,322638,108,0,0,kept
+498,Q3866,Dodoma,Tanzania,0.6426,137946,159,1,0,kept
+499,Q168225,Hebron,Palestine,0.6425,250426,100,0,1,kept
+500,Q1763,Murmansk,Russia,0.6417,264073,120,0,0,kept
+501,Q8826,Palma,Spain,0.6411,266725,119,0,0,kept
+502,Q1733,Magdeburg,Germany,0.6411,204736,141,0,0,kept
+503,Q140075,Gold Coast,Australia,0.6408,394407,93,0,0,kept
+504,Q20934,Incheon,South Korea,0.6406,197670,121,0,1,kept
+505,Q376749,Chittagong,Bangladesh,0.6404,201155,143,0,0,kept
+506,Q1113311,Peshawar,Pakistan,0.6403,312829,108,0,0,kept
+507,Q44564,Charleston,United States,0.6403,272591,117,0,0,kept
+508,Q72259,Portsmouth,United Kingdom,0.6395,302903,109,0,0,kept
+509,Q100188,Cluj-Napoca,Romania,0.6395,246478,123,0,0,kept
+510,Q22690,Metz,France,0.6394,193878,123,0,1,kept
+511,Q322,Llanfairpwllgwyngyll,United Kingdom,0.6389,384403,93,0,0,kept
+512,Q23157,Somerset,United Kingdom,0.6389,359147,96,0,0,kept
+513,Q45301,Trabzon,Türkiye,0.6388,254017,121,0,0,kept
+514,Q159260,Santa Clara,United States,0.6387,458116,84,0,0,kept
+515,Q28515,Springfield,United States,0.6371,210271,136,0,0,kept
+516,Q28260,Lincoln,United States,0.6365,230572,128,0,0,kept
+517,Q9310,Dili,Timor-Leste,0.6364,133478,159,1,0,kept
+518,Q11959,Alicante,Spain,0.6362,284295,111,0,0,kept
+519,Q45604,Kandahar,Afghanistan,0.6355,282062,111,0,0,kept
+520,Q42622,Suzhou,China,0.6353,236056,100,0,1,kept
+521,Q79860,Huntsville,United States,0.6352,357230,94,0,0,kept
+522,Q128147,Kingston upon Hull,United Kingdom,0.635,389007,90,0,0,kept
+523,Q170322,Qingdao,China,0.6341,286306,109,0,0,kept
+524,Q628,Bergamo,Italy,0.6338,213440,132,0,0,kept
+525,Q49256,Bakersfield,United States,0.6337,316714,103,0,0,kept
+526,Q185582,Knoxville,United States,0.6333,374092,91,0,0,kept
+527,Q3768,Yamoussoukro,Côte d'Ivoire,0.6331,134029,156,1,0,kept
+528,Q49242,Corpus Christi,United States,0.6327,350361,94,0,0,kept
+529,Q159288,Santa Barbara,United States,0.6322,313016,103,0,0,kept
+530,Q42810,Le Havre,France,0.6321,185380,124,0,1,kept
+531,Q187471,Ithaca,Greece,0.6321,503359,76,0,0,kept
+532,Q1308,Como,Italy,0.6318,244692,119,0,0,kept
+533,Q1800,Kochi,India,0.6314,271895,112,0,0,kept
+534,Q2061,Yellowknife,Canada,0.631,341927,95,0,0,kept
+535,Q40881,Carson City,United States,0.6309,222640,127,0,0,kept
+536,Q49241,Lexington,United States,0.6308,318471,101,0,0,kept
+537,Q25286,Uppsala,Sweden,0.6307,199453,138,0,0,kept
+538,Q79875,Mobile,United States,0.6302,333946,97,0,0,kept
+539,Q2030,Iqaluit,Canada,0.63,356973,91,0,0,kept
+540,Q128069,Syracuse,United States,0.63,338673,95,0,0,kept
+541,Q1475,Quezon City,Philippines,0.6298,333060,97,0,0,kept
+542,Q25923,Longyearbyen,Norway,0.6295,314073,101,0,0,kept
+543,Q169997,Darjeeling,India,0.6292,355059,91,0,0,kept
+544,Q160493,Inverness,United Kingdom,0.6289,344760,93,0,0,kept
+545,Q44254,Ushuaia,Argentina,0.6287,330716,97,0,0,kept
+546,Q919,Krasnoyarsk,Russia,0.6287,231077,123,0,0,kept
+547,Q2119,Mannheim,Germany,0.6284,214326,128,0,0,kept
+548,Q43382,Plymouth,United Kingdom,0.6281,273685,109,0,0,kept
+549,Q621549,Inglewood,United States,0.6277,477658,75,0,0,kept
+550,Q3955,Weimar,Germany,0.6277,178596,126,0,1,kept
+551,Q37133,Mariupol,Ukraine,0.6276,199808,136,0,0,kept
+552,Q41329,Linz,Austria,0.6276,187944,143,0,0,kept
+553,Q170478,Bournemouth,United Kingdom,0.6275,385441,86,0,0,kept
+554,Q30340,Zhengzhou,China,0.6275,156794,139,0,1,kept
+555,Q11720,Shenyang,China,0.627,239593,118,0,0,kept
+556,Q3929,Port Louis,Mauritius,0.6264,132834,154,1,0,kept
+557,Q3674,Niamey,Niger,0.6264,123986,162,1,0,kept
+558,Q488004,Palm Springs,United States,0.6263,402622,83,0,0,kept
+559,Q129610,Galway,Ireland,0.6256,332518,95,0,0,kept
+560,Q4191,Lucerne,Switzerland,0.6255,229491,122,0,0,kept
+561,Q4454,Khabarovsk,Russia,0.6253,228153,122,0,0,kept
+562,Q133116,Hamilton,Canada,0.625,328483,95,0,0,kept
+563,Q83317,Mosul,Iraq,0.6245,234018,119,0,0,kept
+564,Q459,Plovdiv,Bulgaria,0.6231,232022,119,0,0,kept
+565,Q5196,Grozny,Russia,0.6224,210467,127,0,0,kept
+566,Q133315,Limerick,Ireland,0.6223,304314,98,0,0,kept
+567,Q170115,Srinagar,India,0.6222,210120,97,1,0,kept
+568,Q49259,Virginia Beach,United States,0.6221,274114,105,0,0,kept
+569,Q25330,Trenton,United States,0.622,213336,125,0,0,kept
+570,Q48256,Dnipro,Ukraine,0.622,181019,145,0,0,kept
+571,Q2055,Whitehorse,Canada,0.6219,320459,95,0,0,kept
+572,Q279,Modena,Italy,0.6211,183682,118,0,1,kept
+573,Q213205,San Francisco Bay Area,United States,0.6209,592676,62,0,0,kept
+574,Q92561,London,Canada,0.6198,352039,86,0,0,kept
+575,Q68097,Davos,Switzerland,0.6198,298646,98,0,0,kept
+576,Q1721,Wiesbaden,Germany,0.6196,152726,161,0,0,kept
+577,Q39561,Burbank,United States,0.6194,328138,92,0,0,kept
+578,Q34109,Fargo,United States,0.6183,290352,99,0,0,kept
+579,Q184587,Grand Rapids,United States,0.6181,328460,91,0,0,kept
+580,Q139564,Atlantic City,United States,0.6179,338201,88,0,0,kept
+581,Q130191,Norwich,United Kingdom,0.6179,278302,101,0,0,kept
+582,Q49236,St. Petersburg,United States,0.6173,295745,97,0,0,kept
+583,Q10566,Saskatoon,Canada,0.6161,307271,94,0,0,kept
+584,Q23051,Swansea,United Kingdom,0.616,274804,101,0,0,kept
+585,Q430464,Dearborn,United States,0.6157,458960,70,0,0,kept
+586,Q42735,Olympia,United States,0.6154,206769,124,0,0,kept
+587,Q183113,Bora Bora,France,0.6153,390171,78,0,0,kept
+588,Q131335,Sioux Falls,United States,0.6152,292989,96,0,0,kept
+589,Q1707,Kiel,Germany,0.6151,178913,142,0,0,kept
+590,Q52028,Chiang Mai,Thailand,0.6148,314122,92,0,0,kept
+591,Q7003,Dijon,France,0.6139,187576,135,0,0,kept
+592,Q38511,Turku,Finland,0.6138,164235,149,0,0,kept
+593,Q200016,Visakhapatnam,India,0.6138,291483,96,0,0,kept
+594,Q26339,Jersey City,United States,0.6136,280485,98,0,0,kept
+595,Q13666,Messina,Italy,0.6134,180915,140,0,0,kept
+596,Q1309,Maastricht,Netherlands,0.6131,198567,128,0,0,kept
+597,Q62823,Barranquilla,Colombia,0.6129,262163,103,0,0,kept
+598,Q43509,Guayaquil,Ecuador,0.6125,222265,116,0,0,kept
+599,Q911,Ufa,Russia,0.6122,186641,135,0,0,kept
+600,Q204234,Milton Keynes,United Kingdom,0.612,446405,69,0,0,kept
+601,Q49239,Toledo,United States,0.6117,298710,93,0,0,kept
+602,Q908,Rostov-on-Don,Russia,0.6116,172753,143,0,0,kept
+603,Q48344,Recife,Brazil,0.6112,194299,130,0,0,kept
+604,Q199797,Tacoma,United States,0.6096,273684,98,0,0,kept
+605,Q170573,Qom,Iran,0.6096,235736,109,0,0,kept
+606,Q79809,Utqiagvik,United States,0.6095,395440,74,0,0,kept
+607,Q25319,Aarhus,Denmark,0.6093,196907,127,0,0,kept
+608,Q2123,Regina,Canada,0.6092,291986,93,0,0,kept
+609,Q487988,St. Augustine,United States,0.6088,358232,78,0,0,kept
+610,Q163132,Akron,United States,0.6088,285346,94,0,0,kept
+611,Q41057,Topeka,United States,0.6083,186149,133,0,0,kept
+612,Q166304,Billings,United States,0.6082,267115,99,0,0,kept
+613,Q49231,Norfolk,United States,0.6078,283628,94,0,0,kept
+614,Q28237,Lansing,United States,0.6077,198380,125,0,0,kept
+615,Q48403,Amritsar,India,0.6073,214993,115,0,0,kept
+616,Q189288,Stratford-upon-Avon,United Kingdom,0.607,339320,81,0,0,kept
+617,Q186702,Chattanooga,United States,0.6067,326232,85,0,0,kept
+618,Q484678,Berkeley,United States,0.6065,257275,100,0,0,kept
+619,Q38807,Suva,Fiji,0.6057,134836,139,1,0,kept
+620,Q898,Omsk,Russia,0.6056,175225,138,0,0,kept
+621,Q1040,Karlsruhe,Germany,0.6052,183089,133,0,0,kept
+622,Q485708,Duluth,United States,0.6051,315911,86,0,0,kept
+623,Q80989,Bhopal,India,0.6046,202114,121,0,0,kept
+624,Q43919,Salem,United States,0.6042,204277,119,0,0,kept
+625,Q39984,Cannes,France,0.6037,183154,132,0,0,kept
+626,Q47430,Green Bay,United States,0.6036,326839,83,0,0,kept
+627,Q2066,Essen,Germany,0.6031,180514,134,0,0,kept
+628,Q17872,Alice Springs,Australia,0.6028,335411,80,0,0,kept
+629,Q175517,Norilsk,Russia,0.6022,354735,75,0,0,kept
+630,Q31058,Burlington,United States,0.6022,293249,88,0,0,kept
+631,Q485172,Ann Arbor,United States,0.6015,284403,90,0,0,kept
+632,Q161491,Reading,United Kingdom,0.6015,279277,91,0,0,kept
+633,Q37066,Bismarck,United States,0.6014,186020,129,0,0,kept
+634,Q2999,Würzburg,Germany,0.6012,161128,120,0,1,kept
+635,Q2235,Veliky Novgorod,Russia,0.6004,191393,125,0,0,kept
+636,Q387047,Malibu,United States,0.6001,310421,84,0,0,kept
+637,Q188304,Sunderland,United Kingdom,0.5999,325204,81,0,0,kept
+638,Q40269,Porto Alegre,Brazil,0.5996,188348,126,0,0,kept
+639,Q49243,Riverside,United States,0.5995,273483,92,0,0,kept
+640,Q9832,Eindhoven,Netherlands,0.5994,204406,116,0,0,kept
+641,Q3799,Porto-Novo,Benin,0.5994,89469,160,1,1,kept
+642,Q174224,Wilmington,United States,0.599,259485,95,0,0,kept
+643,Q6526,Bolzano,Italy,0.5975,193741,122,0,0,kept
+644,Q172157,Winchester,United Kingdom,0.5968,275566,89,0,0,kept
+645,Q3726,Banjul,Gambia,0.5965,108532,162,1,0,kept
+646,Q54140,Salem,United States,0.5964,332656,77,0,0,kept
+647,Q171866,Middlesbrough,United Kingdom,0.5964,298318,84,0,0,kept
+648,Q123709,Dundee,United Kingdom,0.5963,237543,100,0,0,kept
+649,Q160544,Heraklion,Greece,0.5957,235143,101,0,0,kept
+650,Q49273,Lubbock,United States,0.5955,300969,83,0,0,kept
+651,Q22905,Bradford,United Kingdom,0.5953,269123,91,0,0,kept
+652,Q126269,Wolverhampton,United Kingdom,0.5951,272088,90,0,0,kept
+653,Q79842,Flagstaff,United States,0.5949,275556,88,0,0,kept
+654,Q894,Samara,Russia,0.5948,164766,137,0,0,kept
+655,Q49179,Worcester,United States,0.5947,274912,88,0,0,kept
+656,Q26590,Ciudad Juárez,Mexico,0.5943,270396,90,0,0,kept
+657,Q130514,Luxor,Egypt,0.5938,221757,105,0,0,kept
+658,Q80517,Shreveport,United States,0.5937,290427,84,0,0,kept
+659,Q50816,Mississauga,Canada,0.5935,292979,83,0,0,kept
+660,Q6397066,Shiraz,Iran,0.5933,186957,123,0,0,kept
+661,Q1513,Nagpur,India,0.5932,230401,102,0,0,kept
+662,Q49240,Stockton,United States,0.593,290239,84,0,0,kept
+663,Q3818,Malabo,Equatorial Guinea,0.5928,140321,157,0,0,kept
+664,Q485186,Key West,United States,0.5926,302169,81,0,0,kept
+665,Q3940,Victoria,Seychelles,0.5924,119621,146,1,0,kept
+666,Q199605,Guwahati,India,0.5915,238202,97,0,0,kept
+667,Q43475,Derby,United Kingdom,0.5915,235875,98,0,0,kept
+668,Q6576,Irkutsk,Russia,0.5913,172477,131,0,0,kept
+669,Q29303,Canterbury,United Kingdom,0.5907,231091,100,0,0,kept
+670,Q171771,Bhubaneswar,India,0.5907,216736,104,0,0,kept
+671,Q80484,Patna,India,0.5902,193296,118,0,0,kept
+672,Q170919,Pattaya,Thailand,0.5897,231548,99,0,0,kept
+673,Q134902,Stoke-on-Trent,United Kingdom,0.5889,269199,87,0,0,kept
+674,Q182852,Kunming,China,0.5884,203745,110,0,0,kept
+675,Q34739,Dayton,United States,0.5874,256474,89,0,0,kept
+676,Q66616,Indore,India,0.5874,222119,101,0,0,kept
+677,Q171224,Eugene,United States,0.5872,252703,90,0,0,kept
+678,Q3437,Perugia,Italy,0.5871,172038,129,0,0,kept
+679,Q128114,Yonkers,United States,0.587,276085,83,0,0,kept
+680,Q47465,Aix-en-Provence,France,0.5861,207137,106,0,0,kept
+681,Q55630,Novi Sad,Serbia,0.5861,201554,110,0,0,kept
+682,Q81398,Acapulco de Juárez,Mexico,0.5859,201248,110,0,0,kept
+683,Q74881,Dalian,China,0.5857,212229,104,0,0,kept
+684,Q1647,Rijeka,Croatia,0.5857,205604,107,0,0,kept
+685,Q487119,Compton,United States,0.5856,339810,68,0,0,kept
+686,Q486306,Pensacola,United States,0.585,303117,76,0,0,kept
+687,Q271395,Scranton,United States,0.5841,264919,85,0,0,kept
+688,Q13373,Lucca,Italy,0.5838,194441,113,0,0,kept
+689,Q79804,Sitka,United States,0.5837,272130,83,0,0,kept
+690,Q200713,Aurangabad,India,0.5829,260758,85,0,0,kept
+691,Q49219,Irvine,United States,0.5827,274779,81,0,0,kept
+692,Q3038,Heligoland,Germany,0.5816,247541,88,0,0,kept
+693,Q170263,Chester,United Kingdom,0.5814,243254,89,0,0,kept
+694,Q93230,Rawalpindi,Pakistan,0.581,215081,99,0,0,kept
+695,Q3825,Libreville,Gabon,0.5807,100361,160,1,0,kept
+696,Q486472,Kansas City,United States,0.5806,234837,92,0,0,kept
+697,Q184775,Ipswich,United Kingdom,0.5802,268683,82,0,0,kept
+698,Q2742,Münster,Germany,0.5801,171139,125,0,0,kept
+699,Q3104,Koblenz,Germany,0.5792,150947,115,0,1,kept
+700,Q46747,Sendai,Japan,0.579,179358,120,0,0,kept
+701,Q51689,Plano,United States,0.5789,236398,90,0,0,kept
+702,Q66568,Kanpur,India,0.5788,196218,109,0,0,kept
+703,Q574192,Greenville,United States,0.5781,346699,62,0,0,kept
+704,Q1724,Saarbrücken,Germany,0.5777,155369,134,0,0,kept
+705,Q134672,Exeter,United Kingdom,0.5776,231327,92,0,0,kept
+706,Q131633,Hallstatt,Austria,0.577,197271,83,0,1,kept
+707,Q49268,Fort Wayne,United States,0.5766,215627,96,0,0,kept
+708,Q51691,Amarillo,United States,0.5764,255370,83,0,0,kept
+709,Q81788,Giza,Egypt,0.5763,184863,115,0,0,kept
+710,Q3904,Mbabane,Eswatini,0.5756,112878,143,1,0,kept
+711,Q3370,Zadar,Croatia,0.5755,204050,102,0,0,kept
+712,Q5760,Thebes,Greece,0.5752,285230,74,0,0,kept
+713,Q11462,Surabaya,Indonesia,0.5751,169817,123,0,0,kept
+714,Q1851,Arkhangelsk,Russia,0.5749,192211,109,0,0,kept
+715,Q49221,Scottsdale,United States,0.5745,243161,85,0,0,kept
+716,Q48370,Manchester,United States,0.5745,237062,87,0,0,kept
+717,Q3012,Ulm,Germany,0.5744,163369,126,0,0,kept
+718,Q6506,Varna,Bulgaria,0.574,172251,121,0,0,kept
+719,Q1473,Davao City,Philippines,0.5739,244894,84,0,0,kept
+720,Q192517,Boulder,United States,0.5737,234503,88,0,0,kept
+721,Q41843,Beersheba,Israel,0.5735,208579,98,0,0,kept
+722,Q40816,Benghazi,Libya,0.5735,198607,104,0,0,kept
+723,Q42807,Nîmes,France,0.5733,142343,119,0,1,kept
+724,Q3932,São Tomé,São Tomé and Príncipe,0.5733,113933,140,1,0,kept
+725,Q170377,Blackpool,United Kingdom,0.5719,244602,83,0,0,kept
+726,Q644,Sharm el-Sheikh,Egypt,0.5716,234169,87,0,0,kept
+727,Q93347,Mostar,Bosnia and Herzegovina,0.5706,197628,103,0,0,kept
+728,Q44210,Córdoba,Argentina,0.5705,152050,108,0,1,kept
+729,Q29422,Boca Raton,United States,0.5704,316670,65,0,0,kept
+730,Q3739,Bissau,Guinea-Bissau,0.5703,89154,169,1,0,kept
+731,Q1140136,Ciudad de la Paz,Equatorial Guinea,0.5702,206439,67,1,0,kept
+732,Q9885,Coimbatore,India,0.5702,227712,89,0,0,kept
+733,Q6548,Orléans,France,0.5701,163465,123,0,0,kept
+734,Q320792,Bata,Equatorial Guinea,0.5698,328433,62,0,0,kept
+735,Q485716,Glendale,United States,0.5698,230343,88,0,0,kept
+736,Q11909,Vadodara,India,0.5698,215577,92,0,0,kept
+737,Q25475,Batumi,Georgia,0.5697,166705,121,0,0,kept
+738,Q83786,Shimla,India,0.5695,212312,94,0,0,kept
+739,Q88,Alexandria,United States,0.5692,245000,81,0,0,kept
+740,Q49174,Bridgeport,United States,0.5691,199369,101,0,0,kept
+741,Q26426,Montpelier,United States,0.5691,162805,123,0,0,kept
+742,Q289693,Sharjah,United Arab Emirates,0.5689,232647,86,0,0,kept
+743,Q49158,Springfield,United States,0.5687,216417,91,0,0,kept
+744,Q38545,Adana,Türkiye,0.5686,153133,130,0,0,kept
+745,Q182625,Windsor,Canada,0.5683,243388,81,0,0,kept
+746,Q186040,Ayodhya,India,0.5681,257033,77,0,0,kept
+747,Q2683,Parma,Italy,0.5674,161096,124,0,0,kept
+748,Q83404,Timișoara,Romania,0.567,174682,115,0,0,kept
+749,Q238508,Gurgaon,India,0.5667,290266,68,0,0,kept
+750,Q499681,Coeur d'Alene,United States,0.5665,308893,64,0,0,kept
+751,Q48195,Basra,Iraq,0.5662,191546,104,0,0,kept
+752,Q36399,Huế,Vietnam,0.5661,161948,98,0,1,kept
+753,Q131128,Braunau am Inn,Austria,0.566,233338,84,0,0,kept
+754,Q49238,Greensboro,United States,0.5658,232836,84,0,0,kept
+755,Q157835,Zaporizhzhia,Ukraine,0.5657,156270,126,0,0,kept
+756,Q83387,Diyarbakır,Türkiye,0.5654,195902,101,0,0,kept
+757,Q6454,Calais,France,0.5653,165860,119,0,0,kept
+758,Q1729,Erfurt,Germany,0.5653,135580,144,0,0,kept
+759,Q51103,Cali,Colombia,0.5651,174427,114,0,0,kept
+760,Q7024,Lugano,Switzerland,0.5647,163371,120,0,0,kept
+761,Q3792,Lomé,Togo,0.5645,89583,163,1,0,kept
+762,Q133073,Dunedin,New Zealand,0.5644,225947,86,0,0,kept
+763,Q202973,Kingston,Canada,0.5643,196274,76,0,1,kept
+764,Q4629,Surat,India,0.5643,182543,109,0,0,kept
+765,Q648501,Asheville,United States,0.564,304263,63,0,0,kept
+766,Q40898,Nancy,France,0.5623,132166,122,0,1,kept
+767,Q199528,Dehradun,India,0.5619,205218,93,0,0,kept
+768,Q486168,San Bernardino,United States,0.5617,214239,88,0,0,kept
+769,Q49227,Winston-Salem,United States,0.5613,240948,78,0,0,kept
+770,Q142811,Allentown,United States,0.5613,233715,81,0,0,kept
+771,Q125434,Gqeberha,South Africa,0.5604,194373,99,0,0,kept
+772,Q40104,Ajaccio,France,0.5597,153902,124,0,0,kept
+773,Q50189,Annecy,France,0.5596,195147,98,0,0,kept
+774,Q174091,Changsha,China,0.5593,183630,105,0,0,kept
+775,Q906,Chelyabinsk,Russia,0.5589,147658,130,0,0,kept
+776,Q10086,Mysore,India,0.5587,199083,95,0,0,kept
+777,Q49229,Durham,United States,0.5586,234444,79,0,0,kept
+778,Q57278,Newcastle,Australia,0.5585,193109,99,0,0,kept
+779,Q157725,Chernivtsi,Ukraine,0.5578,146395,106,0,1,kept
+780,Q47837,Laayoune,Morocco,0.5577,172408,111,0,0,kept
+781,Q38380,Angers,France,0.5576,150980,126,0,0,kept
+782,Q41963,Sri Jayawardenepura Kotte,Sri Lanka,0.5576,122400,122,1,0,kept
+783,Q20927,Daegu,South Korea,0.5575,177932,108,0,0,kept
+784,Q189602,Missoula,United States,0.5571,252568,72,0,0,kept
+785,Q185632,Limassol,Cyprus,0.5565,198394,94,0,0,kept
+786,Q147402,Zapopan,Mexico,0.556,191506,98,0,0,kept
+787,Q133529,Vorkuta,Russia,0.5552,215913,83,0,0,kept
+788,Q185458,Quetta,Pakistan,0.555,212606,85,0,0,kept
+789,Q2765,Gelsenkirchen,Germany,0.555,169752,111,0,0,kept
+790,Q151993,Ruhr Region,Germany,0.5548,210571,86,0,0,kept
+791,Q58976,Piraeus,Greece,0.5548,189246,98,0,0,kept
+792,Q192240,Northampton,United Kingdom,0.5544,236980,75,0,0,kept
+793,Q181962,Augusta,United States,0.5544,212277,85,0,0,kept
+794,Q155975,Kutná Hora,Czechia,0.5539,188536,74,0,1,kept
+795,Q2973,Darmstadt,Germany,0.5538,126357,122,0,1,kept
+796,Q37333,Lublin,Poland,0.5531,150047,124,0,0,kept
+797,Q487315,Monterey,United States,0.5528,235477,75,0,0,kept
+798,Q487999,Gainesville,United States,0.5521,232482,76,0,0,kept
+799,Q172343,Rafah,Palestine,0.5513,245554,70,0,0,kept
+800,Q217346,Ithaca,United States,0.5513,229572,77,0,0,kept
+801,Q131818,Oran,Algeria,0.5512,160145,115,0,0,kept
+802,Q569678,Bozeman,United States,0.5511,277275,61,0,0,kept
+803,Q659400,Wilmington,United States,0.5509,274401,62,0,0,kept
+804,Q68744,Xiamen,China,0.5509,206823,85,0,0,kept
+805,Q83236,Chamonix-Mont-Blanc,France,0.55,176605,104,0,0,kept
+806,Q128244,Waco,United States,0.5499,241183,71,0,0,kept
+807,Q135744,Galveston,United States,0.5499,222768,78,0,0,kept
+808,Q45313,Herat,Afghanistan,0.5498,170770,107,0,0,kept
+809,Q3927,Astrakhan,Russia,0.5493,142259,129,0,0,kept
+810,Q49169,Stamford,United States,0.549,214597,80,0,0,kept
+811,Q3876,Lilongwe,Malawi,0.5488,88560,156,1,0,kept
+812,Q2773,Brunswick,Germany,0.5487,154672,117,0,0,kept
+813,Q156732,Kherson,Ukraine,0.5483,150115,121,0,0,kept
+814,Q164380,Bethlehem,United States,0.548,270931,62,0,0,kept
+815,Q170521,Kashgar,China,0.5475,189111,94,0,0,kept
+816,Q189133,Cairns,Australia,0.5471,208671,82,0,0,kept
+817,Q179815,Durham,United Kingdom,0.5469,202447,86,0,0,kept
+818,Q7568,Yogyakarta,Indonesia,0.5466,138120,107,0,1,kept
+819,Q28180,Jefferson City,United States,0.5464,146580,123,0,0,kept
+820,Q46852,Iași,Romania,0.546,129477,108,1,0,kept
+821,Q233129,Peoria,United States,0.5459,225555,75,0,0,kept
+822,Q2861,Rostock,Germany,0.5452,149859,120,0,0,kept
+823,Q187136,Luoyang,China,0.5448,197092,88,0,0,kept
+824,Q173148,Delos,Greece,0.5448,170749,80,0,1,kept
+825,Q13498,Taranto,Italy,0.5448,142996,125,0,0,kept
+826,Q915,Perm,Russia,0.5445,132691,135,0,0,kept
+827,Q135615,Springfield,United States,0.544,212134,79,0,0,kept
+828,Q80561,Antakya,Türkiye,0.5439,154925,114,0,0,kept
+829,Q154814,Bandar Abbas,Iran,0.5438,200994,85,0,0,kept
+830,Q12919,Majuro,Marshall Islands,0.5435,112428,124,1,0,kept
+831,Q203889,Luton,United Kingdom,0.5434,210799,79,0,0,kept
+832,Q2865,Kassel,Germany,0.543,122646,119,0,1,kept
+833,Q54264,Newport,United States,0.5428,243112,66,0,0,kept
+834,Q214164,Bellevue,United States,0.5428,229571,72,0,0,kept
+835,Q159232,Santa Cruz,United States,0.5422,227971,72,0,0,kept
+836,Q12829733,Belém,Brazil,0.5417,158640,110,0,0,kept
+837,Q1467,Cebu City,Philippines,0.5411,196573,86,0,0,kept
+838,Q132572,Tiraspol,Moldova,0.5406,157783,110,0,0,kept
+839,Q515229,Ngerulmud,Palau,0.5402,148509,88,1,0,kept
+840,Q82185,La Rochelle,France,0.54,161193,107,0,0,kept
+841,Q123766,Charlottesville,United States,0.5389,239576,65,0,0,kept
+842,Q44198,Brampton,Canada,0.5387,214262,74,0,0,kept
+843,Q189471,Cupertino,United States,0.5386,195466,85,0,0,kept
+844,Q327012,Bangor,United States,0.5385,241208,64,0,0,kept
+845,Q192700,Lake Placid,United States,0.538,218492,72,0,0,kept
+846,Q192896,Carlisle,United Kingdom,0.5378,206871,77,0,0,kept
+847,Q203263,Athens,United States,0.5378,203007,80,0,0,kept
+848,Q232226,Kelowna,Canada,0.537,239438,64,0,0,kept
+849,Q239870,Columbus,United States,0.5368,204824,78,0,0,kept
+850,Q179046,Fatehpur Sikri,India,0.5367,155544,85,0,1,kept
+851,Q41185,Caen,France,0.5356,145493,118,0,0,kept
+852,Q44401,Cayenne,France,0.535,136892,125,0,0,kept
+853,Q40811,Sokhumi,Georgia,0.535,125085,136,0,0,kept
+854,Q489197,Torrance,United States,0.5347,226403,68,0,0,kept
+855,Q36260,Apia,Samoa,0.5347,92868,142,1,0,kept
+856,Q13369,Rimini,Italy,0.5346,145599,117,0,0,kept
+857,Q128269,Frisco,United States,0.5345,245267,60,0,0,kept
+858,Q12193,Brest,France,0.5342,142183,120,0,0,kept
+859,Q171080,Kotor,Montenegro,0.534,160389,80,0,1,kept
+860,Q278204,Noida,India,0.5339,230714,66,0,0,kept
+861,Q384544,Karlovy Vary,Czechia,0.5338,167481,99,0,0,kept
+862,Q79996,Nome,United States,0.5337,211077,73,0,0,kept
+863,Q173474,Veliko Tarnovo,Bulgaria,0.5336,75565,196,0,0,kept
+864,Q131127,Banja Luka,Bosnia and Herzegovina,0.5332,169166,98,0,0,kept
+865,Q125293,Heroica Puebla de Zaragoza,Mexico,0.5331,133286,103,0,1,kept
+866,Q1880,Concepción,Chile,0.5331,57555,228,0,0,kept
+867,Q205842,Aspen,United States,0.5328,197761,80,0,0,kept
+868,Q28206,Augusta,United States,0.5325,146279,115,0,0,kept
+869,Q3909,Maseru,Lesotho,0.5324,85376,152,1,0,kept
+870,Q2795,Chemnitz,Germany,0.5319,139767,121,0,0,kept
+871,Q165204,Mérida,Mexico,0.5316,186818,86,0,0,kept
+872,Q103717,Rovaniemi,Finland,0.5315,148259,113,0,0,kept
+873,Q184163,Colchester,United Kingdom,0.5308,201071,77,0,0,kept
+874,Q28603,Frankfort,United States,0.5306,129418,129,0,0,kept
+875,Q3043,Belmopan,Belize,0.5305,87400,147,1,0,kept
+876,Q228405,Madurai,India,0.5305,171372,95,0,0,kept
+877,Q128295,Abilene,United States,0.5299,200148,77,0,0,kept
+878,Q2126436,Ras al-Khaimah,United Arab Emirates,0.5299,181237,0,1,0,kept
+879,Q234053,Vancouver,United States,0.5297,203023,75,0,0,kept
+880,Q199909,Karbala,Iraq,0.5295,175233,92,0,0,kept
+881,Q51599,Punta Arenas,Chile,0.5288,157524,103,0,0,kept
+882,Q34116,Thunder Bay,Canada,0.5287,223215,65,0,0,kept
+883,Q761,Białystok,Poland,0.5286,150308,109,0,0,kept
+884,Q172438,Peterborough,United Kingdom,0.5285,188366,83,0,0,kept
+885,Q93338,Gaziantep,Türkiye,0.5284,138150,120,0,0,kept
+886,Q49244,Santa Ana,United States,0.5282,164678,97,0,0,kept
+887,Q490584,Flint,United States,0.5281,213604,68,0,0,kept
+888,Q3854,Bujumbura,Burundi,0.5281,103004,156,0,0,kept
+889,Q200054,Jamshedpur,India,0.5278,189114,82,0,0,kept
+890,Q82174,Brașov,Romania,0.5278,158059,102,0,0,kept
+891,Q200019,Jodhpur,India,0.5261,170395,93,0,0,kept
+892,Q33518,Dover,United States,0.5252,126323,129,0,0,kept
+893,Q180057,Lincoln,United Kingdom,0.5251,182721,85,0,0,kept
+894,Q501796,Roanoke,United States,0.525,218666,64,0,0,kept
+895,Q23443,Provo,United States,0.5247,189173,80,0,0,kept
+896,Q40747,Pierre,United States,0.5242,126592,128,0,0,kept
+897,Q3014,Wolfsburg,Germany,0.524,146221,110,0,0,kept
+898,Q200340,Udaipur,India,0.5239,185303,83,0,0,kept
+899,Q167155,Kalamazoo,United States,0.5237,212998,66,0,0,kept
+900,Q28729,Kozhikode,India,0.5237,178803,87,0,0,kept
+901,Q6730,Perpignan,France,0.5234,140384,115,0,0,kept
+902,Q36262,St. John's,Antigua and Barbuda,0.5233,92240,136,1,0,kept
+903,Q128361,Odessa,United States,0.5225,224629,61,0,0,kept
+904,Q47048,Oulu,Finland,0.5223,134764,119,0,0,kept
+905,Q462177,White Plains,United States,0.5223,224155,61,0,0,kept
+906,Q629088,Calabasas,United States,0.5223,219572,62,0,0,kept
+907,Q172668,Fugging,Austria,0.5223,213012,65,0,0,kept
+908,Q79857,Konya,Türkiye,0.5221,140138,115,0,0,kept
+909,Q132997,Florianópolis,Brazil,0.522,164900,93,0,0,kept
+910,Q43631,Leiden,Netherlands,0.5219,143323,111,0,0,kept
+911,Q462799,Evanston,United States,0.5216,203463,70,0,0,kept
+912,Q170525,Agadir,Morocco,0.5215,149438,106,0,0,kept
+913,Q7951,Petropavlovsk-Kamchatsky,Russia,0.5214,158478,98,0,0,kept
+914,Q690,Delft,Netherlands,0.5213,149238,106,0,0,kept
+915,Q13496,Brindisi,Italy,0.5212,121091,108,0,1,kept
+916,Q4656,Pula,Croatia,0.5211,155322,100,0,0,kept
+917,Q776965,Klaipėda,Lithuania,0.5211,125900,127,0,0,kept
+918,Q130800,Papeete,France,0.5207,151647,103,0,0,kept
+919,Q170497,Gloucester,United Kingdom,0.5201,170892,89,0,0,kept
+920,Q47554,Toruń,Poland,0.5198,125954,102,0,1,kept
+921,Q1476,Le Mans,France,0.5197,151044,103,0,0,kept
+922,Q5332,Saratov,Russia,0.5194,106806,148,0,0,kept
+923,Q131350,Nishapur,Iran,0.5193,170198,89,0,0,kept
+924,Q160642,Salisbury,United Kingdom,0.5193,168621,90,0,0,kept
+925,Q200663,Faridabad,India,0.5191,182504,82,0,0,kept
+926,Q169134,Nara,Japan,0.519,130766,97,0,1,kept
+927,Q244146,Clearwater,United States,0.5189,203811,68,0,0,kept
+928,Q118958,Leuven,Belgium,0.5189,162624,93,0,0,kept
+929,Q102728,Ypres,Belgium,0.5182,144902,84,0,1,kept
+930,Q2337,Smolensk,Russia,0.5182,125084,126,0,0,kept
+931,Q1848,San Marino,San Marino,0.518,67753,143,1,1,kept
+932,Q486860,Mountain View,United States,0.5179,187815,77,0,0,kept
+933,Q79873,Tombstone,United States,0.5175,216634,60,0,0,kept
+934,Q2486,Tarawa,Kiribati,0.5175,199340,70,0,0,kept
+935,Q6231,Cremona,Italy,0.5172,140684,111,0,0,kept
+936,Q43463,Fortaleza,Brazil,0.5169,125170,125,0,0,kept
+937,Q457334,Moncton,Canada,0.5169,208343,64,0,0,kept
+938,Q189901,Argos,Greece,0.5168,186952,77,0,0,kept
+939,Q47034,Espoo,Finland,0.5168,143311,108,0,0,kept
+940,Q58900,Doncaster,United Kingdom,0.5158,205510,65,0,0,kept
+941,Q486877,South Bend,United States,0.5156,182418,80,0,0,kept
+942,Q3901,Moroni,Comoros,0.5156,84769,143,1,0,kept
+943,Q6537,Vicenza,Italy,0.5154,113233,112,0,1,kept
+944,Q486439,Cedar Rapids,United States,0.5145,173812,84,0,0,kept
+945,Q204561,Modesto,United States,0.5143,183538,78,0,0,kept
+946,Q68481,Fuzhou,China,0.5143,147805,103,0,0,kept
+947,Q16868,Laredo,United States,0.5133,180399,80,0,0,kept
+948,Q92161,Changchun,China,0.5122,142617,106,0,0,kept
+949,Q749,Groningen,Netherlands,0.5122,132964,115,0,0,kept
+950,Q28249,Concord,United States,0.5117,119317,128,0,0,kept
+951,Q10389,Bandung,Indonesia,0.5116,133398,114,0,0,kept
+952,Q163749,West Palm Beach,United States,0.511,193439,70,0,0,kept
+953,Q138578,Hoboken,United States,0.5108,186578,74,0,0,kept
+954,Q288,Tours,France,0.5105,128319,118,0,0,kept
+955,Q211907,Slough,United Kingdom,0.5104,200743,65,0,0,kept
+956,Q234061,Erie,United States,0.5104,180566,78,0,0,kept
+957,Q49261,Mesa,United States,0.5103,151344,97,0,0,kept
+958,Q192098,Oymyakon,Russia,0.5102,197256,67,0,0,kept
+959,Q33264,Las Cruces,United States,0.5102,178721,79,0,0,kept
+960,Q3604,Djibouti,Djibouti,0.51,77084,148,1,0,kept
+961,Q173985,Faisalabad,Pakistan,0.5095,149991,98,0,0,kept
+962,Q133123,Patras,Greece,0.5095,147972,100,0,0,kept
+963,Q230818,Leh,India,0.5094,182519,76,0,0,kept
+964,Q721455,Miami Gardens,United States,0.5086,203597,62,0,0,kept
+965,Q200942,Swindon,United Kingdom,0.5073,186319,72,0,0,kept
+966,Q3852,Worms,Germany,0.507,145979,100,0,0,kept
+967,Q102158,Narva,Estonia,0.507,135435,109,0,0,kept
+968,Q219656,Macon,United States,0.5067,191687,68,0,0,kept
+969,Q25409,Košice,Slovakia,0.5062,136278,108,0,0,kept
+970,Q79808,Constanța,Romania,0.5062,134933,109,0,0,kept
+971,Q43453,Plzeň,Czechia,0.5061,124741,119,0,0,kept
+972,Q502141,Rishikesh,India,0.5061,194548,66,0,0,kept
+973,Q29888,Aswan,Egypt,0.5058,144324,101,0,0,kept
+974,Q13386,Lecce,Italy,0.5058,140140,105,0,0,kept
+975,Q491540,Sarasota,United States,0.5054,190998,68,0,0,kept
+976,Q127063,Kars,Türkiye,0.5054,155836,90,0,0,kept
+977,Q4100,Baden-Baden,Germany,0.5053,137078,107,0,0,kept
+978,Q244898,New Taipei City,Taiwan,0.5046,177985,76,0,0,kept
+979,Q101254,Newport,United Kingdom,0.5046,153760,91,0,0,kept
+980,Q25331,Odense,Denmark,0.5045,127487,115,0,0,kept
+981,Q168193,Najaf,Iraq,0.5041,155860,89,0,0,kept
+982,Q42168,Clermont-Ferrand,France,0.5038,119431,123,0,0,kept
+983,Q15684,Segovia,Spain,0.5038,114981,103,0,1,kept
+984,Q184090,Preston,United Kingdom,0.5038,181949,73,0,0,kept
+985,Q80041,Sedona,United States,0.5036,202259,60,0,0,kept
+986,Q34126,Funafuti,Tuvalu,0.5034,94359,122,1,0,kept
+987,Q9920,Haarlem,Netherlands,0.5024,132967,109,0,0,kept
+988,Q216820,Youngstown,United States,0.5021,194318,64,0,0,kept
+989,Q203476,Srivijayapuram,India,0.5021,162598,83,0,0,kept
+990,Q38834,Nukuʻalofa,Tonga,0.4936,87354,125,1,0,kept: only city of Tonga
+991,Q41295,Basseterre,St. Kitts and Nevis,0.4893,87236,123,1,0,kept: only city of St. Kitts and Nevis
+992,Q40921,Honiara,Solomon Islands,0.471,75577,127,1,0,kept: only city of Solomon Islands
+993,Q37806,Port Vila,Vanuatu,0.4707,70738,134,1,0,kept: only city of Vanuatu
+994,Q41547,St. George's,Grenada,0.4649,71124,130,1,0,kept: only city of Grenada
+995,Q42751,Palikir,Micronesia,0.4542,73475,120,1,0,kept: only city of Micronesia
+996,Q41699,Castries,Saint Lucia,0.4357,59295,131,1,0,kept: only city of Saint Lucia
+997,Q36281,Roseau,Dominica,0.4029,52495,125,1,0,kept: only city of Dominica
+998,Q3274,Managua,Nicaragua,0.3985,119962,0,0,0,kept
+999,Q41474,Kingstown,St. Vincent and the Grenadines,0.3728,46798,118,1,0,kept: only city of St. Vincent and the Grenadines
+1000,Q31026,Yaren District,Naoero,0.3697,47788,114,1,0,kept: only city of Naoero
+,Q11299,Manhattan,United States,0.814,1114147,139,0,1,part of New York City
+,Q18419,Brooklyn,United States,0.764,3062005,128,0,0,part of New York City
+,Q18426,The Bronx,United States,0.7103,634547,114,0,0,part of New York City
+,Q18424,Queens,United States,0.6931,586175,106,0,0,part of New York City
+,Q18432,Staten Island,United States,0.6823,577565,100,0,0,part of New York City
+,Q23306,Greater London,United Kingdom,0.6703,554134,95,0,0,part of London
+,Q179351,City of Westminster,United Kingdom,0.6201,232179,93,0,1,part of Greater London
+,Q189074,Harlem,United States,0.5951,368473,69,0,0,part of Manhattan
+,Q13580,Metro Manila,Philippines,0.5933,356786,69,0,0,part of Quezon City
+,Q180294,Jaffa,Israel,0.558,250501,73,0,0,part of Tel Aviv
+,Q1209,Bremen,Germany,0.5335,128219,132,0,0,part of Bremen
+,Q239143,Kowloon,China,0.5194,204094,68,0,0,part of Hong Kong
+,Q179385,Greenwich,United Kingdom,0.5015,185794,69,0,0,made room for Vanuatu
+,Q231318,Johor Bahru,Malaysia,0.5012,152422,90,0,0,made room for Tonga
+,Q3936,Bamberg,Germany,0.5011,116947,100,0,1,made room for Solomon Islands
+,Q499927,Moscow,United States,0.5007,197280,61,0,0,made room for Naoero
+,Q201970,Shrewsbury,United Kingdom,0.4998,182546,70,0,0,made room for Micronesia
+,Q331380,Schenectady,United States,0.4996,194690,62,0,0,made room for St. Vincent and the Grenadines
+,Q1310,Arnhem,Netherlands,0.4995,122530,117,0,0,made room for Saint Lucia
+,Q6761,Livorno,Italy,0.4995,119274,121,0,0,made room for St. Kitts and Nevis
+,Q6616,Poitiers,France,0.4993,124712,115,0,0,made room for Grenada
+,Q128891,Lafayette,United States,0.4992,188831,65,0,0,made room for Dominica
+,Q51693,Brownsville,United States,0.4992,174827,74,0,0,below the cut
+,Q174461,Ranchi,India,0.4989,147101,94,0,0,below the cut
+,Q200237,Meerut,India,0.4988,157112,85,0,0,below the cut
+,Q178093,Poughkeepsie,United States,0.4986,194301,62,0,0,below the cut
+,Q1083,Salerno,Italy,0.4985,129005,110,0,0,below the cut
+,Q335017,Newport News,United States,0.4981,166534,78,0,0,below the cut
+,Q2790,Udine,Italy,0.4976,125705,113,0,0,below the cut
+,Q49267,Henderson,United States,0.4975,162700,80,0,0,below the cut
+,Q186182,Dharamshala,India,0.4971,160363,82,0,0,below the cut
+,Q2100,Duisburg,Germany,0.4966,110994,127,0,0,below the cut
+,Q2766547,'s-Hertogenbosch,Netherlands,0.4964,136696,102,0,0,below the cut
+,Q138391,Paterson,United States,0.4963,164436,78,0,0,below the cut
+,Q159610,Vlorë,Albania,0.4959,103542,136,0,0,below the cut
+,Q8385,Ostrava,Czechia,0.4958,121732,116,0,0,below the cut
+,Q462789,Cape Coral,United States,0.4949,186800,64,0,0,below the cut
+,Q204720,Hereford,United Kingdom,0.4946,163363,78,0,0,below the cut
+,Q160320,Dammam,Saudi Arabia,0.4944,155279,84,0,0,below the cut
+,Q3415,Ancona,Italy,0.4941,114646,122,0,0,below the cut
+,Q493378,Culver City,United States,0.494,187145,63,0,0,below the cut
+,Q83189,Goiânia,Brazil,0.4937,114860,97,0,1,below the cut
+,Q203995,Southend-on-Sea,United Kingdom,0.4936,181840,67,0,0,below the cut
+,Q49012,San Luis Obispo,United States,0.4936,185202,65,0,0,below the cut
+,Q183584,Lanzhou,China,0.4935,139707,98,0,0,below the cut
+,Q2127,Charlottetown,Canada,0.4933,151828,86,0,0,below the cut
+,Q2112,Bielefeld,Germany,0.4929,118420,118,0,0,below the cut
+,Q176767,Bodh Gaya,India,0.4925,145488,68,0,1,below the cut
+,Q42780,Ningbo,China,0.4925,160702,79,0,0,below the cut
+,Q2598,Watford,United Kingdom,0.4924,191099,60,0,0,below the cut
+,Q132830,Douala,Cameroon,0.4923,133583,102,0,0,below the cut
+,Q49220,Fremont,United States,0.4923,155859,82,0,0,below the cut
+,Q320514,Lancaster,United States,0.4922,185281,64,0,0,below the cut
+,Q257830,Naples,United States,0.492,189670,60,0,0,below the cut
+,Q13972,Tartu,Estonia,0.4918,105764,132,0,0,below the cut
+,Q488702,Eureka,United States,0.4917,174217,70,0,0,below the cut
+,Q156053,Srebrenica,Bosnia and Herzegovina,0.4915,172437,71,0,0,below the cut
+,Q667727,Tupelo,United States,0.4915,180002,67,0,0,below the cut
+,Q79580,Tuscaloosa,United States,0.4913,159956,79,0,0,below the cut
+,Q43595,Cotonou,Benin,0.491,121744,113,0,0,below the cut
+,Q490724,Astoria,United States,0.4909,187347,61,0,0,below the cut
+,Q129352,Khankendi,Azerbaijan,0.4908,122182,112,0,0,below the cut
+,Q490732,Fort Collins,United States,0.4907,170051,72,0,0,below the cut
+,Q127041,Mangaluru,India,0.4906,149923,87,0,0,below the cut
+,Q208447,Thousand Oaks,United States,0.4901,182711,64,0,0,below the cut
+,Q83061,Van,Türkiye,0.49,142305,93,0,0,below the cut
+,Q185453,Multan,Pakistan,0.4898,156863,80,0,0,below the cut
+,Q104784,Lord Howe Island,Australia,0.4892,163940,74,0,0,below the cut
+,Q203197,Kandy,Sri Lanka,0.4891,121647,88,0,1,below the cut
+,Q182923,Stirling,United Kingdom,0.4886,157017,79,0,0,below the cut
+,Q278221,Berchtesgaden,Germany,0.4884,181277,64,0,0,below the cut
+,Q490385,Bloomington,United States,0.4882,175569,67,0,0,below the cut
+,Q430267,Bellingham,United States,0.4878,181096,64,0,0,below the cut
+,Q74195,Menlo Park,United States,0.4874,173308,68,0,0,below the cut
+,Q213325,Rapid City,United States,0.4868,178634,65,0,0,below the cut
+,Q268873,Newport Beach,United States,0.4868,175851,66,0,0,below the cut
+,Q318637,Los Alamos,United States,0.4868,185801,60,0,0,below the cut
+,Q29245,Hastings,United Kingdom,0.4865,173846,67,0,0,below the cut
+,Q43981,Ketchikan,United States,0.4865,168958,70,0,0,below the cut
+,Q203000,Perth,United Kingdom,0.4859,167617,70,0,0,below the cut
+,Q207752,Shillong,India,0.4857,141722,91,0,0,below the cut
+,Q331104,Fayetteville,United States,0.4855,176977,65,0,0,below the cut
+,Q134762,Eilat,Israel,0.485,128683,102,0,0,below the cut
+,Q385,Gdynia,Poland,0.4849,102930,106,0,1,below the cut
+,Q68986,St. Moritz,Switzerland,0.4844,149985,83,0,0,below the cut
+,Q131429,Oaxaca de Juárez,Mexico,0.4842,138495,93,0,0,below the cut
+,Q490595,Daytona Beach,United States,0.4838,154590,78,0,0,below the cut
+,Q987729,La Défense,France,0.4838,152819,79,0,0,below the cut
+,Q184579,Bolton,United Kingdom,0.4834,162249,72,0,0,below the cut
+,Q61092,George Town,Malaysia,0.4832,151803,80,0,0,below the cut
+,Q3033,Göttingen,Germany,0.4831,108335,124,0,0,below the cut
+,Q200235,Nashik,India,0.4828,142761,88,0,0,below the cut
+,Q180918,Paphos,Cyprus,0.4827,140908,90,0,0,below the cut
+,Q5584396,Gorakhpur,India,0.4826,173315,65,0,0,below the cut
+,Q40844,Breda,Netherlands,0.4825,126577,103,0,0,below the cut
+,Q182378,Putrajaya,Malaysia,0.4823,129413,100,0,0,below the cut
+,Q200017,Vijayawada,India,0.4823,146013,85,0,0,below the cut
+,Q170688,Santa Cruz de la Sierra,Bolivia,0.4817,139667,91,0,0,below the cut
+,Q7968,Magadan,Russia,0.4815,121840,107,0,0,below the cut
+,Q317865,Joplin,United States,0.4814,181228,60,0,0,below the cut
+,Q8471,Reggio Calabria,Italy,0.481,110568,119,0,0,below the cut
+,Q201516,Miami Beach,United States,0.4809,152226,78,0,0,below the cut
+,Q3426,Voronezh,Russia,0.4806,110372,119,0,0,below the cut
+,Q207639,Chichester,United Kingdom,0.4805,152035,78,0,0,below the cut
+,Q208471,Kaifeng,China,0.4805,167413,67,0,0,below the cut
+,Q200166,Kitchener,Canada,0.4803,163401,69,0,0,below the cut
+,Q2423,Yaroslavl,Russia,0.4801,88137,121,0,1,below the cut
+,Q214178,Nablus,Palestine,0.4799,152574,77,0,0,below the cut
+,Q212991,Santa Rosa,United States,0.4797,161122,71,0,0,below the cut
+,Q127043,Garmisch-Partenkirchen,Germany,0.4796,123622,80,0,1,below the cut
+,Q2814,Halle (Saale),Germany,0.4796,108314,122,0,0,below the cut
+,Q35045,Potosí,Bolivia,0.4796,119246,85,0,1,below the cut
+,Q68144,Zug,Switzerland,0.4796,145507,84,0,0,below the cut
+,Q206988,Cheltenham,United Kingdom,0.4795,173617,63,0,0,below the cut
+,Q488125,Salinas,United States,0.4786,151907,77,0,0,below the cut
+,Q42716,Saint-Étienne,France,0.4785,107021,123,0,0,below the cut
+,Q158467,Gwalior,India,0.4784,136822,91,0,0,below the cut
+,Q61445,Navi Mumbai,India,0.4784,156931,73,0,0,below the cut
+,Q131301,Homs,Syria,0.4783,117128,110,0,0,below the cut
+,Q126898,Antibes,France,0.4781,121249,106,0,0,below the cut
+,Q490720,Biloxi,United States,0.4774,158738,71,0,0,below the cut
+,Q79820,Yuma,United States,0.4774,150663,78,0,0,below the cut
+,Q3758,Kaiserslautern,Germany,0.4773,137303,90,0,0,below the cut
+,Q25607,St. Gallen,Switzerland,0.477,107693,97,0,1,below the cut
+,Q233892,Rockford,United States,0.4765,150039,78,0,0,below the cut
+,Q49246,Aurora,United States,0.4765,142913,84,0,0,below the cut
+,Q170315,Abbottabad,Pakistan,0.4764,166088,65,0,0,below the cut
+,Q20921,Daejeon,South Korea,0.4761,131105,95,0,0,below the cut
+,Q34001,Roubaix,France,0.4761,59586,186,0,0,below the cut
+,Q190828,Petah Tikva,Israel,0.4759,153285,74,0,0,below the cut
+,Q159273,Arequipa,Peru,0.4758,98506,106,0,1,below the cut
+,Q33962,Sanremo,Italy,0.4758,115354,110,0,0,below the cut
+,Q169943,San Mateo,United States,0.4757,163826,66,0,0,below the cut
+,Q180522,Aqaba,Jordan,0.4755,138424,88,0,0,below the cut
+,Q7769,Birobidzhan,Russia,0.4755,130755,95,0,0,below the cut
+,Q37776,Besançon,France,0.4754,94515,135,0,0,below the cut
+,Q138338,New Brunswick,United States,0.4753,172691,61,0,0,below the cut
+,Q117040,Santiago de Cuba,Cuba,0.4752,112368,89,0,1,below the cut
+,Q168954,Tripoli,Lebanon,0.4746,132559,93,0,0,below the cut
+,Q172415,Kutaisi,Georgia,0.4745,96439,108,0,1,below the cut
+,Q491132,Santa Clarita,United States,0.4745,159450,69,0,0,below the cut
+,Q6509,Burgas,Bulgaria,0.4742,118899,106,0,0,below the cut
+,Q41252,Bydgoszcz,Poland,0.4733,113094,111,0,0,below the cut
+,Q182299,Chania,Greece,0.4726,150716,75,0,0,below the cut
+,Q190165,Luang Prabang,Laos,0.4723,111636,88,0,1,below the cut
+,Q486459,Evansville,United States,0.4722,142352,82,0,0,below the cut
+,Q49276,Hialeah,United States,0.4718,158523,68,0,0,below the cut
+,Q495373,Visalia,United States,0.4718,160227,67,0,0,below the cut
+,Q3150,Jena,Germany,0.4706,109928,114,0,0,below the cut
+,Q213465,Guildford,United Kingdom,0.4704,166914,61,0,0,below the cut
+,Q243007,Naperville,United States,0.4697,151717,72,0,0,below the cut
+,Q128849,Nagano,Japan,0.4696,123701,98,0,0,below the cut
+,Q187861,Wollongong,Australia,0.4695,140233,83,0,0,below the cut
+,Q199440,Mexicali,Mexico,0.4695,133162,89,0,0,below the cut
+,Q1822,Baguio,Philippines,0.4693,166020,61,0,0,below the cut
+,Q211760,Culiacán,Mexico,0.4693,149981,74,0,0,below the cut
+,Q188313,Blackburn,United Kingdom,0.4691,148995,75,0,0,below the cut
+,Q130212,Székesfehérvár,Hungary,0.469,124386,97,0,0,below the cut
+,Q13362,Ferrara,Italy,0.4681,108800,114,0,0,below the cut
+,Q207098,Ghaziabad,India,0.468,144886,78,0,0,below the cut
+,Q1629,Zamboanga,Philippines,0.4679,166057,60,0,0,below the cut
+,Q467664,Butte,United States,0.4679,161735,63,0,0,below the cut
+,Q283368,Raqqa,Syria,0.4678,138941,83,0,0,below the cut
+,Q140147,Brest,Belarus,0.4675,96147,104,0,1,below the cut
+,Q2495519,Utica,United States,0.4672,161243,63,0,0,below the cut
+,Q180803,Truro,United Kingdom,0.467,131768,89,0,0,below the cut
+,Q199547,Harran,Türkiye,0.4668,161153,63,0,0,below the cut
+,Q33561,Roswell,United States,0.4662,149191,73,0,0,below the cut
+,Q207754,Tiruchirappalli,India,0.466,141758,79,0,0,below the cut
+,Q19566,Simferopol,Ukraine,0.4654,97466,125,0,0,below the cut
+,Q13939,Terrassa,Spain,0.4653,126963,92,0,0,below the cut
+,Q79931,Prescott,United States,0.4652,152683,68,0,0,below the cut
+,Q11711,Siem Reap,Cambodia,0.4651,135246,84,0,0,below the cut
+,Q81046,Charleroi,Belgium,0.4651,122760,96,0,0,below the cut
+,Q134279,Luhansk,Ukraine,0.465,96649,126,0,0,below the cut
+,Q495365,Rancho Cucamonga,United States,0.4645,157886,64,0,0,below the cut
+,Q157137,Kryvyi Rih,Ukraine,0.4638,120826,98,0,0,below the cut
+,Q47772,Bariloche,Argentina,0.4637,162447,60,0,0,below the cut
+,Q5917,Huntington Beach,United States,0.4635,145641,74,0,0,below the cut
+,Q42097,Gyeongju,South Korea,0.4634,133937,60,0,1,below the cut
+,Q173690,Gjirokastër,Albania,0.4633,88787,110,0,1,below the cut
+,Q19583,Gori,Georgia,0.463,126746,91,0,0,below the cut
+,Q6226,St Albans,United Kingdom,0.4627,159276,62,0,0,below the cut
+,Q182984,Kano,Nigeria,0.4626,130861,87,0,0,below the cut
+,Q129259,Niš,Serbia,0.4624,118845,99,0,0,below the cut
+,Q51685,Tempe,United States,0.462,146884,72,0,0,below the cut
+,Q59670,Columbia,United States,0.4618,151119,68,0,0,below the cut
+,Q191130,Kanazawa,Japan,0.4616,126895,90,0,0,below the cut
+,Q5475,Treviso,Italy,0.4613,112133,105,0,0,below the cut
+,Q3004,Ingolstadt,Germany,0.4611,108230,111,0,0,below the cut
+,Q59218,Dongguan,China,0.4607,132099,85,0,0,below the cut
+,Q1646181,Worcester,United Kingdom,0.4605,132956,84,0,0,below the cut
+,Q186141,Gangtok,India,0.4605,118834,98,0,0,below the cut
+,Q486479,Rochester,United States,0.4604,145789,72,0,0,below the cut
+,Q688281,Vrindavan,India,0.4604,154031,64,0,0,below the cut
+,Q491099,Carlsbad,United States,0.4598,149201,69,0,0,below the cut
+,Q5832,Axum,Ethiopia,0.4596,107307,87,0,1,below the cut
+,Q79880,Debrecen,Hungary,0.4592,97141,122,0,0,below the cut
+,Q2107,Wuppertal,Germany,0.4588,101680,115,0,0,below the cut
+,Q48338,Kayseri,Türkiye,0.4588,100084,117,0,0,below the cut
+,Q13678,Agrigento,Italy,0.4585,85512,113,0,1,below the cut
+,Q187284,Hurghada,Egypt,0.4583,127664,87,0,0,below the cut
+,Q327515,Laramie,United States,0.4583,153866,63,0,0,below the cut
+,Q372773,Raipur,India,0.4582,119294,96,0,0,below the cut
+,Q27494,Zermatt,Switzerland,0.4573,147060,69,0,0,below the cut
+,Q4190,Passau,Germany,0.457,116506,98,0,0,below the cut
+,Q132671,Pau,France,0.4566,113691,100,0,0,below the cut
+,Q151920,Tiberias,Israel,0.4562,132472,82,0,0,below the cut
+,Q203403,Saint John,Canada,0.4562,152254,63,0,0,below the cut
+,Q223177,Casper,United States,0.4562,145501,70,0,0,below the cut
+,Q183551,Waterford,Ireland,0.4558,125390,88,0,0,below the cut
+,Q133118,Şanlıurfa,Türkiye,0.4557,114558,99,0,0,below the cut
+,Q170247,Jinan,China,0.4555,109847,105,0,0,below the cut
+,Q60956,Ashkelon,Israel,0.4553,126202,87,0,0,below the cut
+,Q14657,Vyborg,Russia,0.4551,108874,106,0,0,below the cut
+,Q213026,Bareilly,India,0.455,148189,67,0,0,below the cut
+,Q488134,"Ontario, California",United States,0.455,146460,68,0,0,below the cut
+,Q2938,Leverkusen,Germany,0.4549,113072,100,0,0,below the cut
+,Q183298,Ibadan,Nigeria,0.4545,133690,79,0,0,below the cut
+,Q13360,Reggio Emilia,Italy,0.4543,108613,106,0,0,below the cut
+,Q5972,Medan,Indonesia,0.4542,106442,109,0,0,below the cut
+,Q1709,Schwerin,Germany,0.4541,76257,122,0,1,below the cut
+,Q29042,Akureyri,Iceland,0.4541,110876,102,0,0,below the cut
+,Q153494,Rothenburg ob der Tauber,Germany,0.4539,141341,72,0,0,below the cut
+,Q190021,Townsville,Australia,0.4537,145207,69,0,0,below the cut
+,Q213814,Binghamton,United States,0.4537,151148,63,0,0,below the cut
+,Q49162,Lowell,United States,0.4533,131300,81,0,0,below the cut
+,Q2770,Tula,Russia,0.4532,110706,102,0,0,below the cut
+,Q26887,Davenport,United States,0.4531,129521,82,0,0,below the cut
+,Q838785,Temecula,United States,0.4529,153536,60,0,0,below the cut
+,Q216939,Essaouira,Morocco,0.4526,112800,75,0,1,below the cut
+,Q25410,Aalborg,Denmark,0.4513,102855,110,0,0,below the cut
+,Q79815,Mulhouse,France,0.4505,99012,114,0,0,below the cut
+,Q6252,Monza,Italy,0.4503,98950,114,0,0,below the cut
+,Q500481,Overland Park,United States,0.4502,141206,70,0,0,below the cut
+,Q108223,Belize City,Belize,0.4501,121368,89,0,0,below the cut
+,Q41572,Mykolaiv,Ukraine,0.4501,110240,101,0,0,below the cut
+,Q44237,Mendoza,Argentina,0.4501,118625,92,0,0,below the cut
+,Q217426,Soweto,South Africa,0.4492,151416,60,0,0,below the cut
+,Q492478,Terre Haute,United States,0.449,148547,63,0,0,below the cut
+,Q44059,La Plata,Argentina,0.4489,112588,97,0,0,below the cut
+,Q5087,Siliguri,India,0.4488,149538,62,0,0,below the cut
+,Q144880,Zakynthos,Greece,0.4487,135369,74,0,0,below the cut
+,Q59698,Swakopmund,Namibia,0.4477,149024,62,0,0,below the cut
+,Q160483,Chios,Greece,0.4473,127068,81,0,0,below the cut
+,Q200123,Ludhiana,India,0.4472,121540,87,0,0,below the cut
+,Q2758,Mönchengladbach,Germany,0.4472,107705,103,0,0,below the cut
+,Q209034,Toluca de Lerdo,Mexico,0.447,120448,88,0,0,below the cut
+,Q131638,Shkodër,Albania,0.4466,112338,96,0,0,below the cut
+,Q320704,Benin City,Nigeria,0.4462,113345,70,0,1,below the cut
+,Q181376,Hrodna,Belarus,0.4457,87378,102,0,1,below the cut
+,Q208257,Bedford,United Kingdom,0.4456,140540,68,0,0,below the cut
+,Q128499,Yalta,Russia,0.4455,107157,103,0,0,below the cut
+,Q189633,Guilin,China,0.4452,127768,79,0,0,below the cut
+,Q210985,Chelmsford,United Kingdom,0.4448,139100,69,0,0,below the cut
+,Q5815,Tyumen,Russia,0.4445,101338,107,0,0,below the cut
+,Q2138,Fredericton,Canada,0.4443,119511,87,0,0,below the cut
+,Q1010,Maribor,Slovenia,0.4441,103391,105,0,0,below the cut
+,Q81581,Szeged,Hungary,0.4441,97059,113,0,0,below the cut
+,Q45656,Limoges,France,0.4439,99396,109,0,0,below the cut
+,Q223718,Redmond,United States,0.4438,141256,66,0,0,below the cut
+,Q41278,Ulsan,South Korea,0.4435,113834,92,0,0,below the cut
+,Q199889,Kumamoto,Japan,0.4431,115562,90,0,0,below the cut
+,Q231765,Geelong,Australia,0.4417,128629,76,0,0,below the cut
+,Q83324,Sibiu,Romania,0.4416,100688,106,0,0,below the cut
+,Q131416,Derbent,Russia,0.4415,86783,101,0,1,below the cut
+,Q208445,Vallejo,United States,0.4415,142770,63,0,0,below the cut
+,Q1436816,Tirupati,India,0.4413,144463,62,0,0,below the cut
+,Q11506,Denpasar,Indonesia,0.4406,106240,101,0,0,below the cut
+,Q432152,Chico,United States,0.4403,145051,61,0,0,below the cut
+,Q80021,Daugavpils,Latvia,0.4399,101494,104,0,0,below the cut
+,Q156882,Samos,Greece,0.4398,121755,82,0,0,below the cut
+,Q493840,Lawrence,United States,0.4394,137498,67,0,0,below the cut
+,Q170616,Chiba,Japan,0.4389,110330,94,0,0,below the cut
+,Q185684,Hefei,China,0.4389,109111,96,0,0,below the cut
+,Q185518,Mandalay,Myanmar,0.4381,105615,100,0,0,below the cut
+,Q989903,Grand Junction,United States,0.4378,142731,61,0,0,below the cut
+,Q134635,Saitama,Japan,0.4377,101291,103,0,0,below the cut
+,Q200878,Jabalpur,India,0.4377,121073,82,0,0,below the cut
+,Q134287,Tarsus,Türkiye,0.4373,116612,86,0,0,below the cut
+,Q216258,Hilo,United States,0.4373,134429,68,0,0,below the cut
+,Q188082,Český Krumlov,Czechia,0.4368,99301,81,0,1,below the cut
+,Q1022488,Brighton and Hove,United Kingdom,0.4367,142277,61,0,0,part of Brighton
+,Q487977,Iowa City,United States,0.4367,135067,67,0,0,below the cut
+,Q7978,Anadyr,Russia,0.4366,110176,93,0,0,below the cut
+,Q219526,Fayetteville,United States,0.4365,133913,68,0,0,below the cut
+,Q237896,Reading,United States,0.4365,140254,63,0,0,below the cut
+,Q326295,Plymouth,United States,0.4363,137637,65,0,0,below the cut
+,Q45779,Pécs,Hungary,0.4363,76907,110,0,1,below the cut
+,Q1223508,Ohrid,North Macedonia,0.4362,112021,90,0,0,below the cut
+,Q2167,Lund,Sweden,0.436,99543,104,0,0,below the cut
+,Q51682,Glendale,United States,0.436,117754,84,0,0,below the cut
+,Q220445,Kuching,Malaysia,0.4356,119341,82,0,0,below the cut
+,Q9733,Nouméa,France,0.4343,102638,100,0,0,below the cut
+,Q3923,Bayreuth,Germany,0.4341,87087,96,0,1,below the cut
+,Q488924,Oceanside,United States,0.434,129383,71,0,0,below the cut
+,Q706857,Bakhmut,Ukraine,0.4338,122905,77,0,0,below the cut
+,Q392599,Everett,United States,0.4336,134003,66,0,0,below the cut
+,Q491128,Fontana,United States,0.4336,131414,69,0,0,below the cut
+,Q138367,Camden,United States,0.4334,139304,62,0,0,below the cut
+,Q13378,Arezzo,Italy,0.4328,89177,115,0,0,below the cut
+,Q13464,Foggia,Italy,0.4327,96294,107,0,0,below the cut
+,Q3159,Kursk,Russia,0.4327,94930,109,0,0,below the cut
+,Q109092,Kilkenny,Ireland,0.4326,134486,65,0,0,below the cut
+,Q49143,Quincy,United States,0.4326,138432,62,0,0,below the cut
+,Q170366,Ahvaz,Iran,0.4323,108556,93,0,0,below the cut
+,Q40345,Joliet,United States,0.4323,131879,68,0,0,below the cut
+,Q209338,Oxnard,United States,0.4319,126146,73,0,0,below the cut
+,Q79924,Hot Springs,United States,0.4317,140275,60,0,0,below the cut
+,Q208459,Sunnyvale,United States,0.4315,128606,70,0,0,below the cut
+,Q6837,Lutherstadt Wittenberg,Germany,0.4312,89407,89,0,1,below the cut
+,Q128282,Beaumont,United States,0.4311,128402,70,0,0,below the cut
+,Q2916,Osnabrück,Germany,0.4306,96844,105,0,0,below the cut
+,Q15674,Kagoshima,Japan,0.43,109549,90,0,0,below the cut
+,Q205905,Lancaster,United Kingdom,0.43,124960,73,0,0,below the cut
+,Q79982,Unalaska,United States,0.4299,137864,61,0,0,below the cut
+,Q189823,Haikou,China,0.4294,109121,90,0,0,below the cut
+,Q462161,Kenosha,United States,0.4294,123526,74,0,0,below the cut
+,Q174019,Béziers,France,0.4289,92919,84,0,1,below the cut
+,Q487201,Minot,United States,0.4284,123858,73,0,0,below the cut
+,Q79985,Kodiak,United States,0.4282,133200,64,0,0,below the cut
+,Q15760,Novorossiysk,Russia,0.4281,103824,95,0,0,below the cut
+,Q172267,Bodrum,Türkiye,0.4275,109120,89,0,0,below the cut
+,Q179224,Dover,United Kingdom,0.4269,110780,86,0,0,below the cut
+,Q20714,Suwon,South Korea,0.4268,92228,84,0,1,below the cut
+,Q222267,Kanniyakumari,India,0.4263,136051,60,0,0,below the cut
+,Q491114,Hayward,United States,0.4263,127252,68,0,0,below the cut
+,Q128349,Wichita Falls,United States,0.4261,133587,62,0,0,below the cut
+,Q830149,Paris,United States,0.4261,135723,60,0,0,below the cut
+,Q1341,Tolyatti,Russia,0.4254,100029,97,0,0,below the cut
+,Q5239,Vladikavkaz,Russia,0.4254,96061,103,0,0,below the cut
+,Q131329,Arras,France,0.4253,79698,100,0,1,below the cut
+,Q234453,Hollywood,United States,0.4253,132815,63,0,0,below the cut
+,Q233808,Aberdeen,United States,0.4251,129740,65,0,0,below the cut
+,Q182159,Balkh,Afghanistan,0.4246,108623,88,0,0,below the cut
+,Q183124,Cochabamba,Bolivia,0.4246,113059,82,0,0,below the cut
+,Q188731,Rhodes,Greece,0.4246,121077,74,0,0,below the cut
+,Q200061,Prizren,Kosovo,0.4244,99529,73,0,1,below the cut
+,Q34412,Foshan,China,0.4242,113258,81,0,0,below the cut
+,Q486868,Pomona,United States,0.4242,127198,67,0,0,below the cut
+,Q211950,Dunfermline,United Kingdom,0.4241,133563,61,0,0,below the cut
+,Q171882,Larnaca,Cyprus,0.4238,105150,92,0,0,below the cut
+,Q187346,Constantine,Algeria,0.4236,105763,91,0,0,below the cut
+,Q33377,Jalandhar,India,0.4236,114810,79,0,0,below the cut
+,Q6640,Pokhara,Nepal,0.4236,116505,78,0,0,below the cut
+,Q186234,Kufa,Iraq,0.4234,117069,77,0,0,below the cut
+,Q535534,Hohhot,China,0.4232,110936,83,0,0,below the cut
+,Q3798,Flensburg,Germany,0.4231,96531,101,0,0,below the cut
+,Q192379,Aizawl,India,0.4229,106579,90,0,0,below the cut
+,Q255455,Jammu,India,0.4222,121463,72,0,0,below the cut
+,Q47045,Saint-Denis,France,0.4221,94503,103,0,0,below the cut
+,Q976,Tomsk,Russia,0.422,86502,114,0,0,below the cut
+,Q6829,Speyer,Germany,0.4216,84957,92,0,1,below the cut
+,Q207324,Cuttack,India,0.4211,124633,68,0,0,below the cut
+,Q28587,Hamadan,Iran,0.4206,87812,86,0,1,below the cut
+,Q51697,McKinney,United States,0.4205,130280,62,0,0,below the cut
+,Q241808,Huntington,United States,0.4199,131173,61,0,0,below the cut
+,Q181966,Naha,Japan,0.4196,105564,89,0,0,below the cut
+,Q190002,Sligo,Ireland,0.4195,123526,68,0,0,below the cut
+,Q50054,Garden Grove,United States,0.4195,127233,64,0,0,below the cut
+,Q122563,Eau Claire,United States,0.4194,105539,89,0,0,below the cut
+,Q137271,Kota Kinabalu,Malaysia,0.4188,110815,81,0,0,below the cut
+,Q171639,Ashdod,Israel,0.4188,96655,98,0,0,below the cut
+,Q25579,Umeå,Sweden,0.4183,90237,104,0,0,below the cut
+,Q40347,Norman,United States,0.4182,116981,74,0,0,below the cut
+,Q200028,Hamilton,New Zealand,0.4172,111151,79,0,0,below the cut
+,Q2103,Bochum,Germany,0.4171,87052,110,0,0,below the cut
+,Q328941,Clarksville,United States,0.417,119305,71,0,0,below the cut
+,Q234600,Al Ain,United Arab Emirates,0.4167,110973,79,0,0,below the cut
+,Q183199,Ioannina,Greece,0.4165,110610,80,0,0,below the cut
+,Q491239,Canton,United States,0.4164,128591,61,0,0,below the cut
+,Q193250,Bulawayo,Zimbabwe,0.4163,110922,79,0,0,below the cut
+,Q13329,Piacenza,Italy,0.4162,85452,112,0,0,below the cut
+,Q54757,Visby,Sweden,0.4162,72123,105,0,1,below the cut
+,Q464955,Windsor,United Kingdom,0.4157,122041,67,0,0,below the cut
+,Q146790,Aomori,Japan,0.4155,109722,81,0,0,below the cut
+,Q212773,Antigua Guatemala,Guatemala,0.4154,98910,69,0,1,below the cut
+,Q128306,Denton,United States,0.4153,123887,65,0,0,below the cut
+,Q17856,Ballarat,Australia,0.4153,121925,67,0,0,below the cut
+,Q331397,Oak Park,United States,0.4153,126901,62,0,0,below the cut
+,Q122803,Erzurum,Türkiye,0.415,98085,94,0,0,below the cut
+,Q170244,Berat,Albania,0.4149,65396,116,0,1,below the cut
+,Q51690,Irving,United States,0.4149,114682,74,0,0,below the cut
+,Q10103,Batam,Indonesia,0.4141,123996,64,0,0,below the cut
+,Q675576,Pueblo,United States,0.4141,116612,72,0,0,below the cut
+,Q2214,Pskov,Russia,0.414,84736,112,0,0,below the cut
+,Q182394,Yazd,Iran,0.4138,99317,91,0,0,below the cut
+,Q180083,Menton,France,0.4126,99023,91,0,0,below the cut
+,Q4035,Osasco,Brazil,0.412,32534,215,0,0,below the cut
+,Q490434,Ventura,United States,0.412,120078,67,0,0,below the cut
+,Q200078,Okayama,Japan,0.4117,105749,84,0,0,below the cut
+,Q68695,Quanzhou,China,0.4115,99274,66,0,1,below the cut
+,Q81856,Beaverton,United States,0.4112,125580,61,0,0,below the cut
+,Q49270,Chula Vista,United States,0.4111,111997,75,0,0,below the cut
+,Q598,Rzeszów,Poland,0.4111,89965,100,0,0,below the cut
+,Q49272,Chandler,United States,0.4109,107816,81,0,0,below the cut
+,Q244025,Burnaby,Canada,0.4108,123338,63,0,0,below the cut
+,Q11910,Gandhinagar,India,0.4107,100084,88,0,0,below the cut
+,Q52607,Mar del Plata,Argentina,0.4107,101090,87,0,0,below the cut
+,Q128133,Niagara Falls,United States,0.4105,121979,64,0,0,below the cut
+,Q140631,Tainan,Taiwan,0.4095,107217,81,0,0,below the cut
+,Q223517,Ahilyanagar,India,0.4093,120880,65,0,0,below the cut
+,Q694545,Bowling Green,United States,0.4093,123436,62,0,0,below the cut
+,Q171632,Maracaibo,Venezuela,0.4086,95329,94,0,0,below the cut
+,Q245023,Taichung,Taiwan,0.4082,107354,80,0,0,below the cut
+,Q2704,Pescara,Italy,0.4082,86011,106,0,0,below the cut
+,Q3806,Tübingen,Germany,0.4079,80337,113,0,0,below the cut
+,Q172455,Boulogne-Billancourt,France,0.4078,90907,97,0,0,below the cut
+,Q745594,Wilkes-Barre,United States,0.4072,118658,66,0,0,below the cut
+,Q3834,Constance,Germany,0.4071,90339,97,0,0,below the cut
+,Q193190,Famagusta,Cyprus,0.407,107603,79,0,0,below the cut
+,Q58401,Shijiazhuang,China,0.4069,92889,95,0,0,below the cut
+,Q643883,Sialkot,Pakistan,0.4064,117824,66,0,0,below the cut
+,Q182059,Kumasi,Ghana,0.4063,92792,95,0,0,below the cut
+,Q2288,Tver,Russia,0.4063,84956,107,0,0,below the cut
+,Q270176,Belgaum,India,0.4062,116822,67,0,0,below the cut
+,Q1640079,Hyderabad,Pakistan,0.4061,108082,78,0,0,below the cut
+,Q178405,Larissa,Greece,0.4061,97989,89,0,0,below the cut
+,Q494707,Corona,United States,0.406,116695,67,0,0,below the cut
+,Q600301,Troy,United States,0.406,122160,61,0,0,below the cut
+,Q41753,Klagenfurt am Wörthersee,Austria,0.4054,76554,116,0,0,below the cut
+,Q164234,Kawasaki,Japan,0.405,84322,107,0,0,below the cut
+,Q25390,Leeuwarden,Netherlands,0.4048,84289,107,0,0,below the cut
+,Q92212,Opole,Poland,0.4044,89160,98,0,0,below the cut
+,Q14634,Makassar,Indonesia,0.404,89824,96,0,0,below the cut
+,Q242995,Jhansi,India,0.4037,109668,74,0,0,below the cut
+,Q141810,Laval,Canada,0.4035,114701,67,0,0,below the cut
+,Q185157,Tétouan,Morocco,0.4033,78800,88,0,1,below the cut
+,Q24603,Independence,United States,0.4033,113066,69,0,0,below the cut
+,Q134620,Jyväskylä,Finland,0.4031,70021,100,0,1,below the cut
+,Q174684,Tuzla,Bosnia and Herzegovina,0.4028,99250,85,0,0,below the cut
+,Q5337,Orenburg,Russia,0.4028,84887,105,0,0,below the cut
+,Q2759,Urbino,Italy,0.4027,72727,96,0,1,below the cut
+,Q2222874,Zanzibar City,Tanzania,0.4026,115001,66,0,0,below the cut
+,Q25413,Linköping,Sweden,0.4026,87121,101,0,0,below the cut
+,Q3612,Antofagasta,Chile,0.4025,72120,121,0,0,below the cut
+,Q201812,Huddersfield,United Kingdom,0.4024,114168,67,0,0,below the cut
+,Q747509,Los Gatos,United States,0.4016,119752,61,0,0,below the cut
+,Q486195,Khiva,Uzbekistan,0.4015,84275,81,0,1,below the cut
+,Q5426,Izhevsk,Russia,0.4015,83567,106,0,0,below the cut
+,Q79535,Fort Smith,United States,0.4014,114662,66,0,0,below the cut
+,Q200030,Latakia,Syria,0.4013,97244,87,0,0,below the cut
+,Q208262,Eastbourne,United Kingdom,0.4012,110895,70,0,0,below the cut
+,Q156711,Uzhhorod,Ukraine,0.4011,85792,102,0,0,below the cut
+,Q27860,Jayapura,Indonesia,0.401,106294,77,0,0,below the cut
+,Q7859,Yuzhno-Sakhalinsk,Russia,0.4007,98449,85,0,0,below the cut
+,Q466190,Great Falls,United States,0.4006,117138,63,0,0,below the cut
+,Q188022,Mardin,Türkiye,0.4003,105035,78,0,0,below the cut
+,Q49147,New Bedford,United States,0.4002,116048,64,0,0,below the cut
+,Q1640,Osijek,Croatia,0.3995,93271,90,0,0,below the cut
+,Q242898,Jaisalmer,India,0.3993,111717,68,0,0,below the cut
+,Q162279,Kuopio,Finland,0.3988,67160,127,0,0,below the cut
+,Q81137,Olomouc,Czechia,0.3988,85513,101,0,0,below the cut
+,Q2706,Bremerhaven,Germany,0.3986,86209,100,0,0,part of Bremen
+,Q193289,Iquitos,Peru,0.3985,107500,74,0,0,below the cut
+,Q31805,Invercargill,New Zealand,0.3985,118512,61,0,0,below the cut
+,Q200049,Ajmer,India,0.3984,95262,88,0,0,below the cut
+,Q167551,Gitega,Burundi,0.3982,66961,97,1,0,below the cut
+,Q173731,Ghazni,Afghanistan,0.398,98049,84,0,0,below the cut
+,Q339527,Launceston,Australia,0.3975,117274,61,0,0,below the cut
+,Q103217,Częstochowa,Poland,0.3974,88551,95,0,0,below the cut
+,Q490744,Alameda,United States,0.3973,113161,65,0,0,below the cut
+,Q36378,Fribourg,Switzerland,0.397,89622,92,0,0,below the cut
+,Q22595,Aurora,United States,0.3966,108628,71,0,0,below the cut
+,Q41496,Thanjavur,India,0.3966,113525,64,0,0,below the cut
+,Q48274,Nashua,United States,0.3964,109308,70,0,0,below the cut
+,Q494711,Lancaster,United States,0.3964,115533,62,0,0,below the cut
+,Q81621,Fort-de-France,France,0.3961,80336,106,0,0,below the cut
+,Q505549,Redwood City,United States,0.396,117560,60,0,0,below the cut
+,Q2910,Ludwigshafen,Germany,0.3959,85611,99,0,0,below the cut
+,Q3323,Belgorod,Russia,0.3959,80174,106,0,0,below the cut
+,Q14821,Coburg,Germany,0.3951,99779,79,0,0,below the cut
+,Q323414,Simi Valley,United States,0.3948,113443,63,0,0,below the cut
+,Q220843,Walvis Bay,Namibia,0.3943,102345,76,0,0,below the cut
+,Q83178,Almere,Netherlands,0.394,84186,101,0,0,below the cut
+,Q192225,Netanya,Israel,0.3939,103018,75,0,0,below the cut
+,Q2678,Gomel,Belarus,0.3931,67437,99,0,1,below the cut
+,Q202337,Nafplio,Greece,0.3927,108602,69,0,0,below the cut
+,Q95449,Magnitogorsk,Russia,0.3926,97657,81,0,0,below the cut
+,Q61089,Malacca,Malaysia,0.3922,95337,84,0,0,below the cut
+,Q72778,Taiyuan,China,0.3918,87671,93,0,0,below the cut
+,Q42651,Wuxi,China,0.3916,100383,76,0,0,below the cut
+,Q3185,Hildesheim,Germany,0.3915,65640,101,0,1,below the cut
+,Q188336,Safed,Israel,0.3914,110087,66,0,0,below the cut
+,Q192518,Shibam,Yemen,0.3913,87478,69,0,1,below the cut
+,Q48273,Adamstown,United Kingdom,0.391,100217,76,0,0,below the cut
+,Q5627,Ulyanovsk,Russia,0.3909,74204,111,0,0,below the cut
+,Q183303,Jalalabad,Afghanistan,0.39,98742,78,0,0,below the cut
+,Q134509,Port Said,Egypt,0.3899,88028,91,0,0,below the cut
+,Q157144,Vinnytsia,Ukraine,0.3899,79610,103,0,0,below the cut
+,Q192807,Ramat Gan,Israel,0.3897,98723,78,0,0,below the cut
+,Q207371,Lichfield,United Kingdom,0.3896,110443,64,0,0,below the cut
+,Q3476,L'Aquila,Italy,0.3894,72729,112,0,0,below the cut
+,Q102365,Pärnu,Estonia,0.389,76659,106,0,0,below the cut
+,Q189138,Hermosillo,Mexico,0.3887,98173,78,0,0,below the cut
+,Q217432,Port Harcourt,Nigeria,0.3887,100772,74,0,0,below the cut
+,Q25411,Helsingborg,Sweden,0.3887,83850,98,0,0,below the cut
+,Q2746,Ryazan,Russia,0.3886,76546,106,0,0,below the cut
+,Q209176,Ely,United Kingdom,0.3879,103454,71,0,0,below the cut
+,Q134121,Namur,Belgium,0.3876,76737,105,0,0,below the cut
+,Q134494,Győr,Hungary,0.3876,76737,105,0,0,below the cut
+,Q488940,Palmdale,United States,0.3873,109030,65,0,0,below the cut
+,Q494723,Fullerton,United States,0.3873,110287,63,0,0,below the cut
+,Q141844,Gatineau,Canada,0.3871,101576,72,0,0,below the cut
+,Q201832,Aligarh,India,0.3868,96010,80,0,0,below the cut
+,Q3883,Catanzaro,Italy,0.3868,74426,108,0,0,below the cut
+,Q179665,Urmia,Iran,0.3864,89991,85,0,0,below the cut
+,Q6816,Ulan-Ude,Russia,0.3864,79541,101,0,0,below the cut
+,Q793,Zwolle,Netherlands,0.3864,77316,103,0,0,below the cut
+,Q8131,Palembang,Indonesia,0.3864,82534,98,0,0,below the cut
+,Q179691,Niigata,Japan,0.3862,86568,92,0,0,below the cut
+,Q130469,Mazar-i-Sharif,Afghanistan,0.386,86561,92,0,0,below the cut
+,Q496360,Idaho Falls,United States,0.386,105409,69,0,0,below the cut
+,Q179608,Nanning,China,0.3858,86513,92,0,0,below the cut
+,Q667749,Port St. Lucie,United States,0.3858,110838,61,0,0,below the cut
+,Q33613,Kramatorsk,Ukraine,0.3856,98272,76,0,0,below the cut
+,Q69354,Montreux,Switzerland,0.3856,89043,87,0,0,below the cut
+,Q156743,Ternopil,Ukraine,0.3855,79711,100,0,0,below the cut
+,Q159835,Batman,Türkiye,0.3854,87686,89,0,0,below the cut
+,Q173270,Veracruz,Mexico,0.3852,89583,85,0,0,below the cut
+,Q2971,Paderborn,Germany,0.3849,77451,102,0,0,below the cut
+,Q715,Heilbronn,Germany,0.3849,76938,103,0,0,below the cut
+,Q7263152,Pylos,Greece,0.3846,109998,62,0,0,below the cut
+,Q138311,Elizabeth,United States,0.3842,105257,68,0,0,below the cut
+,Q93358,Oradea,Romania,0.3841,79445,100,0,0,below the cut
+,Q13372,Carrara,Italy,0.3837,84524,94,0,0,below the cut
+,Q204381,Goma,Dem. Rep. of the Congo,0.3837,99935,72,0,0,below the cut
+,Q214215,La Paz,Mexico,0.3831,102835,69,0,0,below the cut
+,Q187593,Lubumbashi,Dem. Rep. of the Congo,0.3827,94894,79,0,0,below the cut
+,Q69007,Chur,Switzerland,0.3822,83985,94,0,0,below the cut
+,Q15679,Badajoz,Spain,0.382,81620,96,0,0,below the cut
+,Q83407,Mons,Belgium,0.3819,67466,92,0,1,below the cut
+,Q79863,Tskhinval,Georgia,0.3818,68933,113,0,0,below the cut
+,Q191204,Sulaymaniyah,Iraq,0.3817,97284,75,0,0,part of Kurdistan Region of Iraq
+,Q49222,Chesapeake,United States,0.3817,98061,74,0,0,below the cut
+,Q495369,El Centro,United States,0.3817,110156,60,0,0,below the cut
+,Q825673,Kushinagar,India,0.3817,109416,61,0,0,below the cut
+,Q157053,Chernihiv,Ukraine,0.3809,67314,116,0,0,below the cut
+,Q160450,Samsun,Türkiye,0.3806,84668,92,0,0,below the cut
+,Q2684,Vladimir,Russia,0.3803,71139,109,0,0,below the cut
+,Q712644,Baramulla,India,0.38,85961,0,1,0,below the cut
+,Q204245,Cuernavaca,Mexico,0.3794,93076,78,0,0,below the cut
+,Q746820,Bay City,United States,0.3794,107186,63,0,0,below the cut
+,Q243322,Gujranwala,Pakistan,0.379,100958,68,0,0,below the cut
+,Q7070,Eisenach,Germany,0.3788,69049,87,0,1,below the cut
+,Q319366,Galle,Sri Lanka,0.3787,79664,72,0,1,below the cut
+,Q495353,Victorville,United States,0.3786,106879,63,0,0,below the cut
+,Q207749,Thane,India,0.3785,94106,77,0,0,below the cut
+,Q157246,Bitola,North Macedonia,0.3783,85490,89,0,0,below the cut
+,Q330531,Kota,India,0.3779,98528,71,0,0,below the cut
+,Q184046,Zenica,Bosnia and Herzegovina,0.3773,92353,78,0,0,below the cut
+,Q3120966,Guntur,India,0.3773,97443,72,0,0,below the cut
+,Q320729,Pocatello,United States,0.3771,108422,60,0,0,below the cut
+,Q125080,Vaasa,Finland,0.377,65404,93,0,1,below the cut
+,Q134291,Mersin,Türkiye,0.3764,78723,96,0,0,below the cut
+,Q489255,Sioux City,United States,0.3761,101146,66,0,0,below the cut
+,Q7342,Oświęcim,Poland,0.3758,89133,81,0,0,below the cut
+,Q4301,Arusha,Tanzania,0.3751,72297,80,0,1,below the cut
+,Q490441,Concord,United States,0.3742,103355,63,0,0,below the cut
+,Q9125,Winterthur,Switzerland,0.3741,73945,101,0,0,below the cut
+,Q213180,Maidstone,United Kingdom,0.374,98950,68,0,0,below the cut
+,Q342043,Hampton,United States,0.3738,107015,60,0,0,below the cut
+,Q165444,Tikrit,Iraq,0.3735,84993,87,0,0,below the cut
+,Q327022,Rockville,United States,0.3734,101461,64,0,0,below the cut
+,Q83232,Kiruna,Sweden,0.3731,88015,81,0,0,below the cut
+,Q11854,Rajkot,India,0.3727,89851,77,0,0,below the cut
+,Q69060,Xining,China,0.3727,84227,88,0,0,below the cut
+,Q156747,Poltava,Ukraine,0.3722,70463,105,0,0,below the cut
+,Q171943,Nanchang,China,0.3712,76401,96,0,0,below the cut
+,Q156713,Zhytomyr,Ukraine,0.371,69291,106,0,0,below the cut
+,Q156726,Ivano-Frankivsk,Ukraine,0.3708,74620,98,0,0,below the cut
+,Q180078,Kermanshah,Iran,0.3708,85216,85,0,0,below the cut
+,Q213474,Aylesbury,United Kingdom,0.3707,101607,62,0,0,below the cut
+,Q470273,Ames,United States,0.3703,104186,60,0,0,below the cut
+,Q53139,Chita,Russia,0.3702,77496,93,0,0,below the cut
+,Q6737,Castellammare di Stabia,Italy,0.37,88709,78,0,0,below the cut
+,Q144786,Zakopane,Poland,0.3698,88662,78,0,0,below the cut
+,Q170996,Galați,Romania,0.3698,81154,89,0,0,below the cut
+,Q173121,Santiago de Querétaro,Mexico,0.3695,64688,90,0,1,below the cut
+,Q34144,Grand Forks,United States,0.3694,95437,70,0,0,below the cut
+,Q3126,Erlangen,Germany,0.3691,69574,104,0,0,below the cut
+,Q207756,Tauranga,New Zealand,0.3686,97354,67,0,0,below the cut
+,Q5869,Lhasa,China,0.3682,51204,136,0,0,below the cut
+,Q26430,Tilburg,Netherlands,0.3681,74310,97,0,0,below the cut
+,Q15688,Ávila,Spain,0.368,57876,99,0,1,below the cut
+,Q165413,Baikonur,Kazakhstan,0.3677,81000,88,0,0,below the cut
+,Q192271,Guiyang,China,0.3677,78534,91,0,0,below the cut
+,Q162022,Mechelen,Belgium,0.3669,86116,81,0,0,below the cut
+,Q170454,Agartala,India,0.3668,72337,99,0,0,below the cut
+,Q671458,Pompano Beach,United States,0.3665,99548,62,0,0,below the cut
+,Q889555,Kupiansk,Ukraine,0.3663,100313,61,0,0,below the cut
+,Q10002,Enschede,Netherlands,0.3662,74821,95,0,0,below the cut
+,Q59095,Zhuhai,China,0.3659,89322,74,0,0,below the cut
+,Q69345,Neuchâtel,Switzerland,0.3658,78133,90,0,0,below the cut
+,Q167668,Liepāja,Latvia,0.3652,75331,94,0,0,below the cut
+,Q494690,Carson,United States,0.3651,99749,61,0,0,below the cut
+,Q2942,Solingen,Germany,0.365,75738,93,0,0,below the cut
+,Q1154,Jamnagar,India,0.3646,95603,67,0,0,below the cut
+,Q131290,Ganja,Azerbaijan,0.3646,69969,101,0,0,below the cut
+,Q168057,Craiova,Romania,0.3646,74287,95,0,0,below the cut
+,Q173310,Kirkuk,Iraq,0.364,78093,89,0,0,below the cut
+,Q211867,Oshawa,Canada,0.3636,96534,65,0,0,below the cut
+,Q49198,Danbury,United States,0.3636,98884,62,0,0,below the cut
+,Q185125,Hamamatsu,Japan,0.3627,79450,87,0,0,below the cut
+,Q230104,Nakhchivan,Azerbaijan,0.3623,80730,85,0,0,below the cut
+,Q3214,Cottbus,Germany,0.3623,68485,102,0,0,below the cut
+,Q47282,Osh,Kyrgyzstan,0.3622,55196,101,0,1,below the cut
+,Q493518,Yorba Linda,United States,0.3622,99310,60,0,0,below the cut
+,Q271619,Ipoh,Malaysia,0.3619,88078,74,0,0,below the cut
+,Q178663,Meknes,Morocco,0.3618,57995,95,0,1,below the cut
+,Q20929,Sejong,South Korea,0.3618,99278,60,0,0,below the cut
+,Q487679,Alcobendas,Spain,0.3617,91667,69,0,0,below the cut
+,Q190184,Harar,Ethiopia,0.3612,69921,75,0,1,below the cut
+,Q203349,Poole,United Kingdom,0.3611,92723,68,0,0,below the cut
+,Q167895,Kalamata,Greece,0.3609,96082,64,0,0,below the cut
+,Q25732,Örebro,Sweden,0.3608,67551,103,0,0,below the cut
+,Q2936,Oldenburg,Germany,0.3608,70644,98,0,0,below the cut
+,Q6014,Barnaul,Russia,0.3608,66794,105,0,0,below the cut
+,Q81882,Santos,Brazil,0.3608,73368,94,0,0,below the cut
+,Q15470,L'Hospitalet de Llobregat,Spain,0.3606,76119,90,0,0,below the cut
+,Q188806,Kitakyūshū,Japan,0.3606,74488,92,0,0,below the cut
+,Q173338,Cetinje,Montenegro,0.3604,80654,84,0,0,below the cut
+,Q217125,İznik,Türkiye,0.3601,87284,75,0,0,below the cut
+,Q40340,Racine,United States,0.3601,95180,65,0,0,below the cut
+,Q42635,Wenzhou,China,0.3601,93988,66,0,0,below the cut
+,Q497793,Bendigo,Australia,0.3599,95079,65,0,0,below the cut
+,Q188673,Târgoviște,Romania,0.3597,92781,67,0,0,below the cut
+,Q58780,Hasselt,Belgium,0.3594,82090,82,0,0,below the cut
+,Q202453,Novi Pazar,Serbia,0.3592,77163,63,0,1,below the cut
+,Q189128,León de Los Aldama,Mexico,0.3582,83371,80,0,0,below the cut
+,Q36529,Karaj,Iran,0.3581,73558,92,0,0,below the cut
+,Q26418,Hakodate,Japan,0.358,82119,81,0,0,below the cut
+,Q25415,Jönköping,Sweden,0.3579,71362,95,0,0,below the cut
+,Q13377,Prato,Italy,0.3575,64662,107,0,0,below the cut
+,Q3963,Fulda,Germany,0.3575,79996,83,0,0,below the cut
+,Q6049,Kyzyl,Russia,0.3575,71277,95,0,0,below the cut
+,Q204956,Dundalk,Ireland,0.3572,97395,60,0,0,below the cut
+,Q185678,Saint-Pierre,France,0.3571,87014,74,0,0,below the cut
+,Q170513,Taganrog,Russia,0.3569,69393,97,0,0,below the cut
+,Q234178,Bangor,United Kingdom,0.3568,95932,62,0,0,below the cut
+,Q12996,Ostend,Belgium,0.3567,81242,81,0,0,below the cut
+,Q193452,Armagh,United Kingdom,0.3565,89458,68,0,0,below the cut
+,Q199500,Gyumri,Armenia,0.3563,67719,100,0,0,below the cut
+,Q51684,Gilbert,United States,0.3559,92656,65,0,0,below the cut
+,Q72818,Haiphong,Vietnam,0.3557,73367,91,0,0,below the cut
+,Q3549,Šibenik,Croatia,0.3556,63890,83,0,1,below the cut
+,Q212332,Kanchipuram,India,0.3555,96033,61,0,0,below the cut
+,Q61302,Chihuahua City,Mexico,0.3555,77731,84,0,0,below the cut
+,Q4077,Görlitz,Germany,0.3553,76999,85,0,0,below the cut
+,Q59100,Shantou,China,0.3553,83798,78,0,0,below the cut
+,Q209537,East London,South Africa,0.3551,90077,66,0,0,below the cut
+,Q102217,Vitebsk,Belarus,0.355,63634,107,0,0,below the cut
+,Q138901,Livermore,United States,0.3549,93820,63,0,0,below the cut
+,Q49274,Garland,United States,0.3549,87241,72,0,0,below the cut
+,Q599416,Sinop,Türkiye,0.3548,75618,87,0,0,below the cut
+,Q466221,Sylhet,Bangladesh,0.3547,87973,70,0,0,below the cut
+,Q68136,Sion,Switzerland,0.3546,69294,96,0,0,below the cut
+,Q1895,Petrozavodsk,Russia,0.354,64639,105,0,0,below the cut
+,Q4007,Rosenheim,Germany,0.3538,78940,82,0,0,below the cut
+,Q201117,Toyota,Japan,0.3536,87293,71,0,0,below the cut
+,Q494295,Owensboro,United States,0.3532,95830,60,0,0,below the cut
+,Q170287,Subotica,Serbia,0.3528,83095,77,0,0,below the cut
+,Q1908566,Laguna Beach,United States,0.3526,95380,60,0,0,below the cut
+,Q319804,Sanya,China,0.3526,90828,64,0,0,below the cut
+,Q107401,Sivas,Türkiye,0.3525,72096,91,0,0,below the cut
+,Q12411,Pontevedra,Spain,0.3524,52249,125,0,0,below the cut
+,Q68103,Interlaken,Switzerland,0.3524,88174,68,0,0,below the cut
+,Q116341,Korçë,Albania,0.3519,58682,112,0,0,below the cut
+,Q211243,Yinchuan,China,0.3517,64283,80,0,1,below the cut
+,Q208473,Przemyśl,Poland,0.3513,81075,78,0,0,below the cut
+,Q2805,Krefeld,Germany,0.3504,65491,101,0,0,below the cut
+,Q242895,Saharanpur,India,0.3501,92849,61,0,0,below the cut
+,Q199712,Çanakkale,Türkiye,0.35,70104,92,0,0,below the cut
+,Q200252,Morelia,Mexico,0.3499,76406,83,0,0,below the cut
+,Q490587,Gulfport,United States,0.3499,87615,68,0,0,below the cut
+,Q79733,Kingman,United States,0.3499,91010,62,0,0,below the cut
+,Q499196,Costa Mesa,United States,0.3493,93008,60,0,0,below the cut
+,Q201051,Rishon LeZion,Israel,0.349,81802,76,0,0,below the cut
+,Q6934,Blagoveshchensk,Russia,0.349,67490,96,0,0,below the cut
+,Q163798,Thrissur,India,0.3489,89276,64,0,0,below the cut
+,Q530171,Ajman,United Arab Emirates,0.3489,90300,62,0,0,below the cut
+,Q26268,Luleå,Sweden,0.3488,70357,91,0,0,below the cut
+,Q491340,Roseville,United States,0.3485,89209,64,0,0,below the cut
+,Q214681,Panaji,India,0.3484,73704,86,0,0,below the cut
+,Q178373,Rasht,Iran,0.3482,72805,87,0,0,below the cut
+,Q8621,Terni,Italy,0.3481,61869,105,0,0,below the cut
+,Q3920,Lüneburg,Germany,0.348,73549,86,0,0,below the cut
+,Q44012,Trois-Rivières,Canada,0.3478,89376,63,0,0,below the cut
+,Q3869,Marburg,Germany,0.3474,71908,88,0,0,below the cut
+,Q208948,Rotorua,New Zealand,0.347,89235,63,0,0,below the cut
+,Q3802,Hanau,Germany,0.347,76529,81,0,0,below the cut
+,Q173219,Tournai,Belgium,0.3467,60200,82,0,1,below the cut
+,Q25412,Västerås,Sweden,0.3467,65691,98,0,0,below the cut
+,Q139473,Sherbrooke,Canada,0.3462,90852,60,0,0,below the cut
+,Q152491,Herzliya,Israel,0.3458,89804,61,0,0,below the cut
+,Q5206,Stavropol,Russia,0.3457,65531,98,0,0,below the cut
+,Q51678,Pago Pago,United States,0.3453,66491,96,0,0,below the cut
+,Q456624,Ambala,India,0.3449,89991,60,0,0,below the cut
+,Q485496,Shymkent,Kazakhstan,0.3444,65108,98,0,0,below the cut
+,Q82765,Olsztyn,Poland,0.3444,67636,93,0,0,below the cut
+,Q146351,Liberec,Czechia,0.3436,68465,91,0,0,below the cut
+,Q9009,Schaffhausen,Switzerland,0.3434,67036,94,0,0,below the cut
+,Q102397,Miskolc,Hungary,0.3431,57985,108,0,0,below the cut
+,Q654216,Ayr,United Kingdom,0.3424,89297,60,0,0,below the cut
+,Q3778,Zwickau,Germany,0.3422,71892,85,0,0,below the cut
+,Q61434,Nellore,India,0.3422,88970,61,0,0,below the cut
+,Q1015,Koper,Slovenia,0.3415,70920,86,0,0,below the cut
+,Q173545,Hama,Syria,0.3415,69304,88,0,0,below the cut
+,Q207540,Lod,Israel,0.3414,88561,61,0,0,below the cut
+,Q269899,Amravati,India,0.3406,85096,67,0,0,below the cut
+,Q506398,Claremont,United States,0.3406,87350,63,0,0,below the cut
+,Q5867,Vukovar,Croatia,0.3405,74437,80,0,0,below the cut
+,Q269980,Newry,United Kingdom,0.3404,86862,64,0,0,below the cut
+,Q237847,Solapur,India,0.3393,83080,69,0,0,below the cut
+,Q667738,San Bruno,United States,0.3393,87907,61,0,0,below the cut
+,Q6681,Crotone,Italy,0.3386,65809,93,0,0,below the cut
+,Q212283,Wells,United Kingdom,0.3379,87956,60,0,0,below the cut
+,Q11025,Semarang,Indonesia,0.3378,68263,88,0,0,below the cut
+,Q114257,Elbasan,Albania,0.3375,49032,122,0,0,below the cut
+,Q6088,Alessandria,Italy,0.3371,60384,100,0,0,below the cut
+,Q206687,Nelson,New Zealand,0.337,82899,68,0,0,below the cut
+,Q134703,Kahramanmaraş,Türkiye,0.3368,67465,89,0,0,below the cut
+,Q190138,Lefkada,Greece,0.3368,87647,60,0,0,below the cut
+,Q549761,Warwick,United Kingdom,0.3366,86724,62,0,0,below the cut
+,Q13629,Sassari,Italy,0.3363,55805,108,0,0,below the cut
+,Q209016,Santa Marta,Colombia,0.3357,71265,82,0,0,below the cut
+,Q54886,Cuenca,Ecuador,0.3357,73900,78,0,0,below the cut
+,Q171353,Esztergom,Hungary,0.3355,68481,86,0,0,below the cut
+,Q3942,Aschaffenburg,Germany,0.3353,70115,83,0,0,below the cut
+,Q4065,Stralsund,Germany,0.3351,66337,90,0,0,below the cut
+,Q158491,Feodosiia,Russia,0.3347,68269,86,0,0,below the cut
+,Q158928,Bushehr,Iran,0.3341,75413,75,0,0,below the cut
+,Q4024,Frankfurt (Oder),Germany,0.334,63289,95,0,0,below the cut
+,Q182092,Tobruk,Libya,0.3337,79664,69,0,0,below the cut
+,Q51694,Grand Prairie,United States,0.3335,82630,66,0,0,below the cut
+,Q4098,Greifswald,Germany,0.3334,68333,85,0,0,below the cut
+,Q6596,Gorizia,Italy,0.3332,66243,89,0,0,below the cut
+,Q7030,Wismar,Germany,0.3329,50412,92,0,1,below the cut
+,Q129649,İzmit,Türkiye,0.3328,66110,89,0,0,below the cut
+,Q59101,Narvik,Norway,0.3326,72725,78,0,0,below the cut
+,Q187352,Kavala,Greece,0.3325,85175,62,0,0,below the cut
+,Q173591,Arad,Romania,0.3324,65976,89,0,0,below the cut
+,Q221447,Ramla,Israel,0.3323,82957,65,0,0,below the cut
+,Q60537,Napa,United States,0.3321,85508,61,0,0,below the cut
+,Q251329,Gaya,India,0.332,75870,73,0,0,below the cut
+,Q200718,Bikaner,India,0.3318,75176,74,0,0,below the cut
+,Q202139,Asansol,India,0.3318,80522,67,0,0,below the cut
+,Q15092,Castellón de la Plana,Spain,0.3316,68276,84,0,0,below the cut
+,Q171810,Alanya,Türkiye,0.3314,66944,87,0,0,below the cut
+,Q215277,Jaffna,Sri Lanka,0.3314,77291,70,0,0,below the cut
+,Q79519,Dothan,United States,0.3314,84246,63,0,0,below the cut
+,Q61306,Guanajuato,Mexico,0.3313,61603,71,0,1,below the cut
+,Q285599,Albany,United States,0.331,82030,65,0,0,below the cut
+,Q94274,Greeley,United States,0.331,85606,60,0,0,below the cut
+,Q168866,Eskişehir,Türkiye,0.3309,61508,95,0,0,below the cut
+,Q101418,Lobamba,Eswatini,0.3303,44465,98,1,0,below the cut
+,Q127623,Vantaa,Finland,0.3297,58359,99,0,0,below the cut
+,Q844430,Phuket,Thailand,0.3296,85262,60,0,0,below the cut
+,Q16506,České Budějovice,Czechia,0.3293,60775,95,0,0,below the cut
+,Q484706,Karaganda,Kazakhstan,0.3292,56061,103,0,0,below the cut
+,Q3075,Fürth,Germany,0.3284,58636,98,0,0,below the cut
+,Q3543,Potenza,Italy,0.3284,54749,106,0,0,below the cut
+,Q2762100,North Nicosia,Cyprus,0.3281,62618,62,1,0,below the cut
+,Q5779,Banda Aceh,Indonesia,0.3281,68776,81,0,0,below the cut
+,Q1906,Caserta,Italy,0.3278,63495,91,0,0,below the cut
+,Q174341,İskenderun,Türkiye,0.3276,69128,80,0,0,below the cut
+,Q30988,Hagåtña,United States,0.3276,65546,87,0,0,below the cut
+,Q49178,Waterbury,United States,0.3275,79157,66,0,0,below the cut
+,Q61455,Jonesboro,United States,0.3275,83008,62,0,0,below the cut
+,Q160173,Ruse,Bulgaria,0.3274,61481,93,0,0,below the cut
+,Q40626,Tacloban,Philippines,0.3274,69563,79,0,0,below the cut
+,Q28441,São Luís,Brazil,0.3271,51218,87,0,1,below the cut
+,Q760714,Bhagalpur,India,0.3271,81542,63,0,0,below the cut
+,Q15468,Badalona,Spain,0.327,63156,91,0,0,below the cut
+,Q182640,Ta'if,Saudi Arabia,0.3264,70746,77,0,0,below the cut
+,Q467617,Alamogordo,United States,0.3264,79461,65,0,0,below the cut
+,Q6662,Cesena,Italy,0.3263,56643,100,0,0,below the cut
+,Q26421,Dordrecht,Netherlands,0.3262,60830,93,0,0,below the cut
+,Q218861,Gondar,Ethiopia,0.3257,61264,68,0,1,below the cut
+,Q160927,Blois,France,0.3253,59108,95,0,0,below the cut
+,Q11864,Junagadh,India,0.3248,83323,60,0,0,below the cut
+,Q200578,Yokosuka,Japan,0.3244,75558,69,0,0,below the cut
+,Q208097,Imphal,India,0.3237,64437,87,0,0,below the cut
+,Q484870,Eisleben,Germany,0.3228,54654,79,0,1,below the cut
+,Q318156,Bahawalpur,Pakistan,0.3227,80833,61,0,0,below the cut
+,Q105084,Gliwice,Poland,0.3224,65074,85,0,0,below the cut
+,Q91228,Monteriggioni,Italy,0.3221,80534,61,0,0,below the cut
+,Q6122,Asti,Italy,0.3218,56353,98,0,0,below the cut
+,Q273779,Saint-Louis,Senegal,0.3216,60133,67,0,1,below the cut
+,Q208260,Saint-Paul-de-Vence,France,0.3212,77266,64,0,0,below the cut
+,Q200036,Volos,Greece,0.321,67296,80,0,0,below the cut
+,Q491350,Orange,United States,0.3204,78852,62,0,0,below the cut
+,Q235753,Nikkō-shi,Japan,0.3199,61620,64,0,1,below the cut
+,Q5540,Penza,Russia,0.3199,54732,101,0,0,below the cut
+,Q119219,Pimpri-Chinchwad,India,0.3198,78715,62,0,0,below the cut
+,Q45942,Annaba,Algeria,0.3197,63555,86,0,0,below the cut
+,Q102317,Kielce,Poland,0.3195,60830,89,0,0,below the cut
+,Q131620,Natal,Brazil,0.3193,55696,98,0,0,below the cut
+,Q40623,Quedlinburg,Germany,0.319,50226,84,0,1,below the cut
+,Q244232,Tabuk,Saudi Arabia,0.3187,73780,68,0,0,below the cut
+,Q42140,Jeonju,South Korea,0.3181,76756,63,0,0,below the cut
+,Q162413,Sirte,Libya,0.3179,68629,75,0,0,below the cut
+,Q3752,Maykop,Russia,0.3178,51663,105,0,0,below the cut
+,Q499189,Merced,United States,0.3177,77259,62,0,0,below the cut
+,Q131605,Merano,Italy,0.3175,63975,84,0,0,below the cut
+,Q205914,Lijiang,China,0.3173,75944,64,0,0,below the cut
+,Q234056,Kohima,India,0.3173,66608,79,0,0,below the cut
+,Q3118,Oryol,Russia,0.3164,54686,99,0,0,below the cut
+,Q152027,Saint-Nazaire,France,0.3162,59968,88,0,0,below the cut
+,Q79750,Decatur,United States,0.3161,76154,63,0,0,below the cut
+,Q25563103,Warangal,India,0.3156,73841,66,0,0,below the cut
+,Q183394,Vagharshapat,Armenia,0.3154,64977,81,0,0,below the cut
+,Q146723,Kisangani,Dem. Rep. of the Congo,0.3152,70927,70,0,0,below the cut
+,Q41128,Itanagar,India,0.315,63595,83,0,0,below the cut
+,Q92689,Sopot,Poland,0.3148,65575,79,0,0,below the cut
+,Q146820,Malbork,Poland,0.3143,54032,75,0,1,below the cut
+,Q868527,Turpan,China,0.314,73307,66,0,0,below the cut
+,Q14825,Memmingen,Germany,0.3139,65060,80,0,0,below the cut
+,Q167394,Kragujevac,Serbia,0.3139,59723,87,0,0,below the cut
+,Q499887,Elgin,United States,0.3136,76443,61,0,0,below the cut
+,Q174237,Budva,Montenegro,0.3135,68841,72,0,0,below the cut
+,Q6285,Varese,Italy,0.3128,49418,106,0,0,below the cut
+,Q235004,Vigan,Philippines,0.3126,55616,70,0,1,below the cut
+,Q12995,Kortrijk,Belgium,0.3125,60566,85,0,0,below the cut
+,Q13320,Savona,Italy,0.3124,54601,97,0,0,below the cut
+,Q190948,Abha,Saudi Arabia,0.3123,75406,62,0,0,below the cut
+,Q68978,Thun,Switzerland,0.3123,59195,87,0,0,below the cut
+,Q1012,Celje,Slovenia,0.3121,62127,83,0,0,below the cut
+,Q28911,Lahti,Finland,0.312,53202,99,0,0,below the cut
+,Q3857,Wilhelmshaven,Germany,0.3119,62063,83,0,0,below the cut
+,Q489902,Nördlingen,Germany,0.3119,74319,63,0,0,below the cut
+,Q54217,Norwalk,United States,0.3117,75111,62,0,0,below the cut
+,Q372454,Escondido,United States,0.3113,74626,62,0,0,below the cut
+,Q189059,Mytilene,Greece,0.3105,73224,64,0,0,below the cut
+,Q147089,Manisa,Türkiye,0.3104,58049,88,0,0,below the cut
+,Q54898,San Cristóbal de La Laguna,Spain,0.3103,46528,87,0,1,below the cut
+,Q180139,Hradec Králové,Czechia,0.3102,63024,81,0,0,below the cut
+,Q189161,Trogir,Croatia,0.3101,55350,69,0,1,below the cut
+,Q160687,Valdivia,Chile,0.3098,58861,86,0,0,below the cut
+,Q168782,Tobolsk,Russia,0.3098,59424,85,0,0,below the cut
+,Q633036,Nakhon Ratchasima,Thailand,0.309,72429,64,0,0,below the cut
+,Q487656,Andijan,Uzbekistan,0.3088,63715,79,0,0,below the cut
+,Q49657,Schaan,Liechtenstein,0.3073,62148,80,0,0,below the cut
+,Q200022,Matsuyama,Japan,0.3071,61237,81,0,0,below the cut
+,Q494720,Moreno Valley,United States,0.3071,71747,64,0,0,below the cut
+,Q9898,Amstelveen,Netherlands,0.3069,64395,77,0,0,below the cut
+,Q156752,Sumy,Ukraine,0.3068,53186,96,0,0,below the cut
+,Q134514,Suez,Egypt,0.3062,55302,91,0,0,below the cut
+,Q26345,Kalmar,Sweden,0.306,55256,91,0,0,below the cut
+,Q12258,Sabadell,Spain,0.3058,59208,83,0,0,below the cut
+,Q582,Villeurbanne,France,0.3058,58098,85,0,0,below the cut
+,Q193965,Kamianets-Podilskyi,Ukraine,0.3056,63237,78,0,0,below the cut
+,Q25724,Norrköping,Sweden,0.3056,52692,96,0,0,below the cut
+,Q208162,Patiala,India,0.3053,71579,63,0,0,below the cut
+,Q7550,Lutsk,Ukraine,0.3052,51940,97,0,0,below the cut
+,Q64044,Bellinzona,Switzerland,0.3051,45225,87,0,1,below the cut
+,Q9863,Salem,India,0.3051,72242,62,0,0,below the cut
+,Q33581,Sloviansk,Ukraine,0.3048,64263,76,0,0,below the cut
+,Q5343,Saransk,Russia,0.3047,48332,104,0,0,below the cut
+,Q170532,Amasya,Türkiye,0.3046,52896,95,0,0,below the cut
+,Q503331,Dorchester,United Kingdom,0.3042,72613,61,0,0,below the cut
+,Q14274,Aarau,Switzerland,0.3039,52162,96,0,0,below the cut
+,Q1737,Bregenz,Austria,0.3039,49783,100,0,0,below the cut
+,Q768506,Söğüt,Türkiye,0.3036,73003,60,0,0,below the cut
+,Q167436,João Pessoa,Brazil,0.3034,60983,79,0,0,below the cut
+,Q19520,Podolsk,Russia,0.3034,34322,139,0,0,below the cut
+,Q208718,Port Sudan,Sudan,0.3034,68791,66,0,0,below the cut
+,Q171714,Kerman,Iran,0.3029,59388,81,0,0,below the cut
+,Q157055,Cherkasy,Ukraine,0.3027,50036,99,0,0,below the cut
+,Q79941,Selma,United States,0.3026,69118,65,0,0,below the cut
+,Q170507,Nanterre,France,0.3023,58067,83,0,0,below the cut
+,Q1034,Biel/Bienne,Switzerland,0.3021,53617,92,0,0,below the cut
+,Q53077,Saltillo,Mexico,0.3017,62873,76,0,0,below the cut
+,Q59227,Chaozhou,China,0.3017,71513,61,0,0,below the cut
+,Q323432,Fairfield,United States,0.3013,71293,61,0,0,below the cut
+,Q56064,Colonia del Sacramento,Uruguay,0.301,53298,68,0,1,below the cut
+,Q5316,Rovinj,Croatia,0.3007,67095,68,0,0,below the cut
+,Q59223,Zhongshan,China,0.3007,69461,63,0,0,below the cut
+,Q3042,Offenbach am Main,Germany,0.3006,45312,108,0,0,below the cut
+,Q157065,Kerch,Ukraine,0.3002,54484,90,0,0,below the cut
+,Q196702,Tuapse,Russia,0.3,65327,71,0,0,below the cut
+,Q4062,Hamelin,Germany,0.2998,62716,75,0,0,below the cut
+,Q33349,Melitopol,Ukraine,0.2996,64051,73,0,0,below the cut
+,Q51111,Pereira,Colombia,0.299,65886,69,0,0,below the cut
+,Q79718,Tuskegee,United States,0.2986,69310,62,0,0,below the cut
+,Q50195,Imola,Italy,0.2984,55810,85,0,0,below the cut
+,Q2801,Bryansk,Russia,0.2983,50158,96,0,0,below the cut
+,Q6046,Novara,Italy,0.2979,45384,106,0,0,below the cut
+,Q200133,Chalkída,Greece,0.2976,68156,64,0,0,below the cut
+,Q5265,Nalchik,Russia,0.2975,50354,95,0,0,below the cut
+,Q25748,Gävle,Sweden,0.2973,55977,84,0,0,below the cut
+,Q3046,Pforzheim,Germany,0.2973,48031,100,0,0,below the cut
+,Q26563,Roskilde,Denmark,0.2971,55557,85,0,0,below the cut
+,Q203299,Faiyum,Egypt,0.2967,67752,64,0,0,below the cut
+,Q593022,Olathe,United States,0.2961,68245,63,0,0,below the cut
+,Q61320,Colima,Mexico,0.2961,66013,67,0,0,below the cut
+,Q984603,Tiburon,United States,0.2961,63988,71,0,0,below the cut
+,Q171617,Campinas,Brazil,0.2952,55927,83,0,0,below the cut
+,Q174691,Shizuoka,Japan,0.2952,52571,90,0,0,below the cut
+,Q193367,Porvoo,Finland,0.295,55125,85,0,0,below the cut
+,Q104740,Radom,Poland,0.2946,56602,81,0,0,below the cut
+,Q495357,Antioch,United States,0.2945,68520,61,0,0,below the cut
+,Q180233,Pori,Finland,0.2944,49349,95,0,0,below the cut
+,Q220668,Roquebrune-Cap-Martin,France,0.294,67471,63,0,0,below the cut
+,Q671314,Elk Grove,United States,0.2938,67868,62,0,0,below the cut
+,Q3977,Elista,Russia,0.2935,45591,103,0,0,below the cut
+,Q192213,Holon,Israel,0.2932,66149,65,0,0,below the cut
+,Q203380,Napier,New Zealand,0.2932,67417,63,0,0,below the cut
+,Q13367,Forlì,Italy,0.2929,48230,97,0,0,below the cut
+,Q154835,Mahilyow,Belarus,0.2927,47717,98,0,0,below the cut
+,Q204439,El Alamein,Egypt,0.2926,66661,64,0,0,below the cut
+,Q75110,Dandong,China,0.2922,67059,63,0,0,below the cut
+,Q7253,Padang,Indonesia,0.2917,54450,85,0,0,below the cut
+,Q168648,Sopron,Hungary,0.2909,52175,88,0,0,below the cut
+,Q36214,Puerto Montt,Chile,0.2908,45876,101,0,0,below the cut
+,Q386991,Torreón,Mexico,0.2907,67875,60,0,0,below the cut
+,Q36307,Salta,Argentina,0.2901,56313,79,0,0,below the cut
+,Q39865,Spa,Belgium,0.2897,65562,64,0,0,below the cut
+,Q106583,Bielsko-Biała,Poland,0.2896,56062,79,0,0,below the cut
+,Q5968,Cuneo,Italy,0.2896,47369,97,0,0,below the cut
+,Q93910,Novokuznetsk,Russia,0.2896,54673,83,0,0,below the cut
+,Q2316,Kurów,Poland,0.2895,4124,237,0,0,below the cut
+,Q165995,Malatya,Türkiye,0.2894,53326,85,0,0,below the cut
+,Q193486,Dire Dawa,Ethiopia,0.2894,57649,76,0,0,below the cut
+,Q203370,Phra Nakhon Si Ayutthaya,Thailand,0.2894,51298,64,0,1,below the cut
+,Q373808,Khujand,Tajikistan,0.2894,55030,82,0,0,below the cut
+,Q264665,Kitzbühel,Austria,0.288,66810,61,0,0,below the cut
+,Q321475,Kollam,India,0.2878,62581,68,0,0,below the cut
+,Q5647,Sovetsk,Russia,0.2878,59966,71,0,0,below the cut
+,Q186237,Joensuu,Finland,0.2877,45887,99,0,0,below the cut
+,Q3933,Celle,Germany,0.287,56825,76,0,0,below the cut
+,Q239097,Deir ez-Zor,Syria,0.2868,59473,71,0,0,below the cut
+,Q14440,Iquique,Chile,0.2865,47484,95,0,0,below the cut
+,Q193226,Sarandë,Albania,0.2863,58849,72,0,0,below the cut
+,Q216075,Cần Thơ,Vietnam,0.2861,54140,82,0,0,below the cut
+,Q9934,Hilversum,Netherlands,0.2855,56475,76,0,0,below the cut
+,Q5470,Cheboksary,Russia,0.2854,42894,105,0,0,below the cut
+,Q919040,Gillette,United States,0.2853,64868,63,0,0,below the cut
+,Q483522,Villach,Austria,0.2851,50606,87,0,0,below the cut
+,Q156739,Rivne,Ukraine,0.2846,46332,96,0,0,below the cut
+,Q2203,Arica,Chile,0.2846,43992,102,0,0,below the cut
+,Q494728,West Covina,United States,0.2845,65081,62,0,0,below the cut
+,Q3167,Siegen,Germany,0.2842,48583,91,0,0,below the cut
+,Q271911,Dispur,India,0.284,54829,79,0,0,part of Guwahati
+,Q198989,Aktau,Kazakhstan,0.2838,52640,83,0,0,below the cut
+,Q201101,Rize,Türkiye,0.2838,55945,76,0,0,below the cut
+,Q160750,Pachuca,Mexico,0.2834,53185,82,0,0,below the cut
+,Q54108,Bahía Blanca,Argentina,0.2833,64760,62,0,0,below the cut
+,Q26234,Esbjerg,Denmark,0.2832,50148,87,0,0,below the cut
+,Q64027,Nyon,Switzerland,0.283,55786,76,0,0,below the cut
+,Q26515,Östersund,Sweden,0.2824,51251,84,0,0,below the cut
+,Q145972,Zamość,Poland,0.2823,43422,78,0,1,below the cut
+,Q179585,Ploiești,Romania,0.2822,50759,85,0,0,below the cut
+,Q158292,Kropyvnytskyi,Ukraine,0.2821,45295,97,0,0,below the cut
+,Q68965,Solothurn,Switzerland,0.2821,49122,88,0,0,below the cut
+,Q181578,Qazvin,Iran,0.282,55136,77,0,0,below the cut
+,Q134712,Šiauliai,Lithuania,0.2819,44942,98,0,0,below the cut
+,Q505208,Ouarzazate,Morocco,0.2818,64819,61,0,0,below the cut
+,Q369947,El Cajon,United States,0.2816,65293,60,0,0,below the cut
+,Q57906,Yangzhou,China,0.2812,63319,63,0,0,below the cut
+,Q208499,Uman,Ukraine,0.281,59891,67,0,0,below the cut
+,Q125905,Kimberley,South Africa,0.2807,50864,84,0,0,below the cut
+,Q214485,Kisumu,Kenya,0.2801,58865,68,0,0,below the cut
+,Q26881,Helsingør,Denmark,0.2801,51889,82,0,0,below the cut
+,Q502212,Khorramabad,Iran,0.2799,57224,71,0,0,below the cut
+,Q61944,Semey,Kazakhstan,0.2799,55098,76,0,0,below the cut
+,Q216847,Cúcuta,Colombia,0.2793,54832,76,0,0,below the cut
+,Q186349,Târgu Mureș,Romania,0.2791,55563,74,0,0,below the cut
+,Q59173,Huizhou,China,0.2791,64460,60,0,0,below the cut
+,Q213324,Matsumoto,Japan,0.2787,60306,65,0,0,below the cut
+,Q27393,Herning,Denmark,0.2787,61159,64,0,0,below the cut
+,Q3931,Brandenburg an der Havel,Germany,0.2784,49098,86,0,0,below the cut
+,Q191759,Ventimiglia,Italy,0.278,52262,80,0,0,below the cut
+,Q178168,Mitrovica,Kosovo,0.2776,58819,67,0,0,below the cut
+,Q115276,Bar,Montenegro,0.2772,60368,64,0,0,below the cut
+,Q63049,Abadan,Iran,0.2772,50193,83,0,0,below the cut
+,Q154801,Komsomolsk-on-Amur,Russia,0.277,50688,82,0,0,below the cut
+,Q189043,Petrópolis,Brazil,0.2766,56302,71,0,0,below the cut
+,Q486913,Atyrau,Kazakhstan,0.2766,50419,82,0,0,below the cut
+,Q15847,Manado,Indonesia,0.2762,57179,69,0,0,below the cut
+,Q932886,Kadıköy,Türkiye,0.276,62292,61,0,0,below the cut
+,Q5384,Kirov,Russia,0.2757,43897,97,0,0,below the cut
+,Q25457,Karlstad,Sweden,0.2751,45525,92,0,0,below the cut
+,Q57719,Xuzhou,China,0.2749,60926,62,0,0,below the cut
+,Q1404,Uetersen,Germany,0.2747,2820,226,0,0,below the cut
+,Q569766,Shahrisabz,Uzbekistan,0.2746,40576,80,0,1,below the cut
+,Q14950,Sinsheim,Germany,0.2743,57158,68,0,0,below the cut
+,Q200251,Kōchi-shi,Japan,0.2743,56534,69,0,0,below the cut
+,Q462804,Lakewood,United States,0.2735,57225,67,0,0,below the cut
+,Q181854,Lappeenranta,Finland,0.2732,49070,83,0,0,below the cut
+,Q131233,South Tarawa,Kiribati,0.2731,32396,98,1,0,below the cut
+,Q144983,Banská Bystrica,Slovakia,0.273,44855,93,0,0,below the cut
+,Q2143,Syktyvkar,Russia,0.273,43640,96,0,0,below the cut
+,Q26397,Nitra,Slovakia,0.273,47744,86,0,0,below the cut
+,Q188155,Gorgan,Iran,0.2726,52767,76,0,0,below the cut
+,Q180103,Ardabil,Iran,0.2724,48525,84,0,0,below the cut
+,Q184345,Viña del Mar,Chile,0.2724,53280,75,0,0,below the cut
+,Q193409,Tripoli,Greece,0.2724,58734,64,0,0,below the cut
+,Q500033,Shah Alam,Malaysia,0.2724,56513,68,0,0,below the cut
+,Q105037,Callao,Peru,0.2722,52061,77,0,0,below the cut
+,Q11935,Locarno,Switzerland,0.2722,50759,79,0,0,below the cut
+,Q3974,Landshut,Germany,0.272,47889,85,0,0,below the cut
+,Q243766,Bucaramanga,Colombia,0.2716,52960,75,0,0,below the cut
+,Q4174,Emden,Germany,0.2714,48590,83,0,0,below the cut
+,Q466216,Ta'izz,Yemen,0.2714,57189,66,0,0,below the cut
+,Q499401,Warren,United States,0.2714,57727,65,0,0,below the cut
+,Q179830,Jelgava,Latvia,0.2711,45361,90,0,0,below the cut
+,Q57970,Changzhou,China,0.2708,57416,65,0,0,below the cut
+,Q9966,Texel,Netherlands,0.2707,48917,82,0,0,below the cut
+,Q133057,Verkhoyansk,Russia,0.2706,57388,65,0,0,below the cut
+,Q214495,Bamyan,Afghanistan,0.2706,56947,66,0,0,below the cut
+,Q321079,Jos,Nigeria,0.2706,59673,61,0,0,below the cut
+,Q131612,Wiener Neustadt,Austria,0.2705,48888,82,0,0,below the cut
+,Q42108,Seongnam,South Korea,0.2704,58869,62,0,0,below the cut
+,Q486329,Fergana,Uzbekistan,0.2703,48877,82,0,0,below the cut
+,Q109374,Wonsan,North Korea,0.2698,58343,63,0,0,below the cut
+,Q109336,Chongjin,North Korea,0.2695,58284,63,0,0,below the cut
+,Q45798,Gifu,Japan,0.2691,49183,80,0,0,below the cut
+,Q163852,Kópavogur,Iceland,0.2689,46530,86,0,0,below the cut
+,Q174665,Alba Iulia,Romania,0.2685,52505,74,0,0,below the cut
+,Q3594268,Šiprage,Bosnia and Herzegovina,0.2685,1066,224,0,0,below the cut
+,Q209801,Himeji,Japan,0.2684,43642,69,0,1,below the cut
+,Q194332,Mogi das Cruzes,Brazil,0.2679,58829,61,0,0,below the cut
+,Q214173,Trujillo,Peru,0.2674,43424,93,0,0,below the cut
+,Q180921,Omdurman,Sudan,0.2666,54411,70,0,0,below the cut
+,Q68160,Vevey,Switzerland,0.2662,52848,72,0,0,below the cut
+,Q82960,Rottweil,Germany,0.2662,56582,64,0,0,below the cut
+,Q109356,Hamhung,North Korea,0.2654,55479,66,0,0,below the cut
+,Q207429,Tuxtla Gutiérrez,Mexico,0.2654,57372,62,0,0,below the cut
+,Q204475,Sombor,Serbia,0.2652,58455,60,0,0,below the cut
+,Q180810,Mtskheta,Georgia,0.2651,46849,83,0,0,below the cut
+,Q104725,Płock,Poland,0.2649,51080,74,0,0,below the cut
+,Q168929,Campo Grande,Brazil,0.2649,46106,85,0,0,below the cut
+,Q3896,Goslar,Germany,0.2649,46846,83,0,0,below the cut
+,Q209908,Marmaris,Türkiye,0.2643,50948,74,0,0,below the cut
+,Q4051,Friedrichshafen,Germany,0.2643,47661,81,0,0,below the cut
+,Q103892,Zabrze,Poland,0.2635,48364,79,0,0,below the cut
+,Q51432,Gniezno,Poland,0.2633,46458,83,0,0,below the cut
+,Q200740,Asahikawa,Japan,0.2631,53327,69,0,0,below the cut
+,Q203308,Shimonoseki,Japan,0.2631,54206,68,0,0,below the cut
+,Q205832,Corfu,Greece,0.2627,55204,65,0,0,below the cut
+,Q156719,Kamyanske,Ukraine,0.2625,53775,68,0,0,below the cut
+,Q2871,Hagen,Germany,0.2624,42394,92,0,0,below the cut
+,Q157024,Tetovo,North Macedonia,0.2622,49764,75,0,0,below the cut
+,Q26509,Falun,Sweden,0.2622,44947,86,0,0,below the cut
+,Q848638,Turkistan,Kazakhstan,0.2621,53563,68,0,0,below the cut
+,Q192961,Ramadi,Iraq,0.2619,56758,61,0,0,below the cut
+,Q274584,San Pedro Sula,Honduras,0.2614,55041,65,0,0,below the cut
+,Q200805,Aguascalientes City,Mexico,0.2612,48143,78,0,0,below the cut
+,Q212757,Qamishli,Syria,0.2608,57153,60,0,0,below the cut
+,Q210493,Yantai,China,0.2606,55164,64,0,0,below the cut
+,Q26119,Prešov,Slovakia,0.2597,43050,89,0,0,below the cut
+,Q103725,Hafnarfjörður,Iceland,0.2587,44065,86,0,0,below the cut
+,Q192606,Leskovac,Serbia,0.2583,53443,66,0,0,below the cut
+,Q41599,Świnoujście,Poland,0.2583,42258,90,0,0,below the cut
+,Q7077,Dachau,Germany,0.2581,45921,81,0,0,below the cut
+,Q193428,Sakai,Japan,0.258,40181,71,0,1,below the cut
+,Q2837,Kaluga,Russia,0.258,37402,103,0,0,below the cut
+,Q209423,Kirkenes,Norway,0.2577,55998,60,0,0,below the cut
+,Q14168,Pontianak,Indonesia,0.2569,53475,65,0,0,below the cut
+,Q242144,Bhilai,India,0.2567,55310,61,0,0,below the cut
+,Q27116,Vejle,Denmark,0.2562,47367,77,0,0,below the cut
+,Q4803,Surakarta,Indonesia,0.2562,48586,74,0,0,below the cut
+,Q171018,Zlín,Czechia,0.256,46222,79,0,0,below the cut
+,Q102762,Azov,Russia,0.2558,46211,79,0,0,below the cut
+,Q204271,San Luis Potosí,Mexico,0.2552,49712,71,0,0,below the cut
+,Q126321,Eisenstadt,Austria,0.2551,37446,101,0,0,below the cut
+,Q6066,Kemerovo,Russia,0.2547,38420,98,0,0,below the cut
+,Q189383,Damietta,Egypt,0.2544,49837,70,0,0,below the cut
+,Q188693,Blantyre,Malawi,0.2543,44972,81,0,0,below the cut
+,Q140561,Zahedan,Iran,0.2541,47574,75,0,0,below the cut
+,Q2722762,Alwar,India,0.254,54770,61,0,0,below the cut
+,Q72877,Datong,China,0.254,54509,62,0,0,below the cut
+,Q170313,Mbombela,South Africa,0.2537,45229,80,0,0,below the cut
+,Q167109,Eger,Hungary,0.2535,41197,90,0,0,below the cut
+,Q170762,Cuiabá,Brazil,0.2529,41829,88,0,0,below the cut
+,Q13410,Latina,Italy,0.2524,36532,102,0,0,below the cut
+,Q192176,Bender,Moldova,0.2521,47535,74,0,0,below the cut
+,Q466046,Salé,Morocco,0.2521,49120,70,0,0,below the cut
+,Q193241,Nesebar,Bulgaria,0.252,42297,62,0,1,below the cut
+,Q7436,Gatchina,Russia,0.2516,45436,78,0,0,below the cut
+,Q189969,Ulcinj,Montenegro,0.2515,51010,66,0,0,below the cut
+,Q174002,Colombes,France,0.2512,46680,75,0,0,below the cut
+,Q6869,Heidenheim an der Brenz,Germany,0.2512,46328,76,0,0,below the cut
+,Q217156,Ismailia,Egypt,0.251,48930,70,0,0,below the cut
+,Q273746,Urk,Netherlands,0.2509,54587,60,0,0,below the cut
+,Q7845134,Trojany,Poland,0.2509,193,214,0,0,below the cut
+,Q14155,Kupang,Indonesia,0.2506,46160,76,0,0,below the cut
+,Q25797,Žilina,Slovakia,0.2493,41317,87,0,0,below the cut
+,Q68124,La Chaux-de-Fonds,Switzerland,0.2491,41279,87,0,0,below the cut
+,Q204266,Toyama,Japan,0.249,46922,73,0,0,below the cut
+,Q6832,Ravensburg,Germany,0.2488,48413,70,0,0,below the cut
+,Q54452,Kumanovo,North Macedonia,0.2486,48659,69,0,0,below the cut
+,Q83965,Kocaeli Province,Türkiye,0.2485,41646,86,0,0,part of İzmit
+,Q251678,Aichach,Germany,0.2479,51571,63,0,0,below the cut
+,Q26476,Sundsvall,Sweden,0.2479,44267,79,0,0,below the cut
+,Q15757,Suzdal,Russia,0.2478,33606,84,0,1,below the cut
+,Q477232,Aktobe,Kazakhstan,0.2477,42402,83,0,0,below the cut
+,Q42007,Szombathely,Hungary,0.2475,39746,90,0,0,below the cut
+,Q145002,Trenčín,Slovakia,0.2471,43773,80,0,0,below the cut
+,Q51686,Peoria,United States,0.2469,51130,63,0,0,below the cut
+,Q26521,Halmstad,Sweden,0.2466,40619,87,0,0,below the cut
+,Q3117,Bergisch Gladbach,Germany,0.2466,39336,90,0,0,below the cut
+,Q2838,Oberhausen,Germany,0.2464,35578,101,0,0,below the cut
+,Q6697,Empoli,Italy,0.2462,43577,80,0,0,below the cut
+,Q192235,Ciudad del Este,Paraguay,0.2461,46672,72,0,0,below the cut
+,Q193920,Rueil-Malmaison,France,0.2458,45785,74,0,0,below the cut
+,Q1957,Vologda,Russia,0.2458,35175,102,0,0,below the cut
+,Q204434,Bihać,Bosnia and Herzegovina,0.2456,48422,68,0,0,below the cut
+,Q221051,Xalapa,Mexico,0.2456,45688,74,0,0,below the cut
+,Q467421,Americana,Brazil,0.2452,47822,69,0,0,below the cut
+,Q52101,Middelburg,Netherlands,0.2452,39958,88,0,0,below the cut
+,Q14467,La Serena,Chile,0.2451,34276,104,0,0,below the cut
+,Q37801,Bălți,Moldova,0.2451,34724,103,0,0,below the cut
+,Q211970,Entebbe,Uganda,0.245,51810,61,0,0,below the cut
+,Q202422,Salamis Island,Greece,0.2448,50115,64,0,0,below the cut
+,Q205922,Qiqihar,China,0.2446,50364,63,0,0,below the cut
+,Q106281,Tarnów,Poland,0.244,44554,76,0,0,below the cut
+,Q209779,Sagamihara,Japan,0.2438,46159,72,0,0,below the cut
+,Q39971,Gela,Italy,0.2437,34763,102,0,0,below the cut
+,Q1021,Kranj,Slovenia,0.2433,44000,77,0,0,below the cut
+,Q243325,Khulna,Bangladesh,0.2432,49050,65,0,0,below the cut
+,Q6022566,Monte Águila,Chile,0.2432,731,206,0,0,below the cut
+,Q34205,Cockburn Town,United Kingdom,0.2431,44274,76,0,0,below the cut
+,Q156819,Joinville,Brazil,0.243,50969,61,0,0,below the cut
+,Q211952,Kuşadası,Türkiye,0.2428,49195,64,0,0,below the cut
+,Q170967,Denizli,Türkiye,0.2423,37866,92,0,0,below the cut
+,Q3544,Tambov,Russia,0.242,36791,95,0,0,below the cut
+,Q459360,Cabinda,Angola,0.2409,46960,68,0,0,below the cut
+,Q3750,Gera,Germany,0.2406,35644,97,0,0,below the cut
+,Q221436,Maiduguri,Nigeria,0.2402,46517,69,0,0,below the cut
+,Q2948,Neuss,Germany,0.2402,36047,96,0,0,below the cut
+,Q322155,Rajshahi,Bangladesh,0.2401,49583,62,0,0,below the cut
+,Q14859,Ansbach,Germany,0.24,41578,81,0,0,below the cut
+,Q190499,Severodvinsk,Russia,0.24,45157,72,0,0,below the cut
+,Q23551,Mérida,Venezuela,0.2391,29233,118,0,0,below the cut
+,Q139398,Longueuil,Canada,0.2388,50186,60,0,0,below the cut
+,Q202852,Bled,Slovenia,0.2388,46913,67,0,0,below the cut
+,Q28287,Ystad,Sweden,0.2388,49741,61,0,0,below the cut
+,Q156717,Khmelnytskyi,Ukraine,0.2387,36059,95,0,0,below the cut
+,Q236083,Suwałki,Poland,0.2386,46132,69,0,0,below the cut
+,Q3617,Karlovac,Croatia,0.2386,42697,77,0,0,below the cut
+,Q44255,San Miguel de Tucumán,Argentina,0.2386,43069,76,0,0,below the cut
+,Q44244,Santa Fe,Argentina,0.2384,43064,76,0,0,below the cut
+,Q14891,Suhl,Germany,0.2377,42967,76,0,0,below the cut
+,Q161176,Fukushima,Japan,0.2369,39399,84,0,0,below the cut
+,Q238217,Daraa,Syria,0.2369,47531,65,0,0,below the cut
+,Q4178,Wetzlar,Germany,0.2366,35272,96,0,0,below the cut
+,Q190583,Mikkeli,Finland,0.2365,41890,78,0,0,below the cut
+,Q622,Ludwigsburg,Germany,0.2365,38732,86,0,0,below the cut
+,Q104712,Elbląg,Poland,0.2363,42417,76,0,0,below the cut
+,Q243327,Changwon,South Korea,0.2361,48070,63,0,0,below the cut
+,Q4165,Bad Homburg vor der Höhe,Germany,0.2361,46978,65,0,0,below the cut
+,Q170415,Stara Zagora,Bulgaria,0.2356,39478,83,0,0,below the cut
+,Q26175,Trnava,Slovakia,0.2354,37865,88,0,0,below the cut
+,Q184184,Nouadhibou,Mauritania,0.2352,37403,65,0,1,below the cut
+,Q489898,Nukus,Uzbekistan,0.2346,37571,88,0,0,below the cut
+,Q504657,Idlib,Syria,0.2346,44976,69,0,0,below the cut
+,Q17139,Akita,Japan,0.2344,40510,80,0,0,below the cut
+,Q1719466,Panevėžys,Lithuania,0.234,37271,89,0,0,below the cut
+,Q590849,Arvada,United States,0.234,47555,63,0,0,below the cut
+,Q798,Assen,Netherlands,0.2339,33557,100,0,0,below the cut
+,Q193821,Saumur,France,0.2338,41963,76,0,0,below the cut
+,Q8738,Meissen,Germany,0.2338,38840,84,0,0,below the cut
+,Q10393,Bogor,Indonesia,0.2334,42617,74,0,0,below the cut
+,Q26569,Zahlé,Lebanon,0.2334,48629,60,0,0,below the cut
+,Q3085,Reutlingen,Germany,0.2333,33993,98,0,0,below the cut
+,Q185332,Satu Mare,Romania,0.2332,42240,75,0,0,below the cut
+,Q162548,Oskemen,Kazakhstan,0.233,42176,75,0,0,below the cut
+,Q39526,Sliema,Malta,0.2326,46592,64,0,0,below the cut
+,Q5713,Mary,Turkmenistan,0.2326,44156,70,0,0,below the cut
+,Q2630,Ivanovo,Russia,0.2325,33851,98,0,0,below the cut
+,Q4197,Cuxhaven,Germany,0.2325,40694,78,0,0,below the cut
+,Q183002,Surgut,Russia,0.2323,41706,76,0,0,below the cut
+,Q1959,Końskowola,Poland,0.2322,1119,199,0,0,below the cut
+,Q156974,Ústí nad Labem,Czechia,0.2321,39422,81,0,0,below the cut
+,Q200077,Morioka,Japan,0.2321,40665,78,0,0,below the cut
+,Q221734,Rason,North Korea,0.2307,47948,60,0,0,below the cut
+,Q147739,Izmail,Ukraine,0.2303,43657,70,0,0,below the cut
+,Q146456,Mukachevo,Ukraine,0.2301,44870,67,0,0,below the cut
+,Q3639,Verbania,Italy,0.23,35967,90,0,0,below the cut
+,Q105060,Sosnowiec,Poland,0.2296,35756,90,0,0,below the cut
+,Q26518,Södertälje,Sweden,0.2296,43033,71,0,0,below the cut
+,Q15758,Anapa,Russia,0.2294,39113,80,0,0,below the cut
+,Q193898,Severomorsk,Russia,0.2292,44971,66,0,0,below the cut
+,Q103011,Corinth,Greece,0.229,33849,96,0,0,below the cut
+,Q204150,Pinsk,Belarus,0.2286,44458,67,0,0,below the cut
+,Q166824,Afyonkarahisar,Türkiye,0.2284,38100,83,0,0,below the cut
+,Q201095,Giresun,Türkiye,0.2282,41389,74,0,0,below the cut
+,Q26152,Växjö,Sweden,0.228,37367,85,0,0,below the cut
+,Q52981,Faenza,Italy,0.228,38372,82,0,0,below the cut
+,Q204382,Kouvola,Finland,0.2277,34160,70,0,1,below the cut
+,Q486792,Aranjuez,Spain,0.2275,30462,82,0,1,below the cut
+,Q488987,Türkmenbaşy,Turkmenistan,0.2274,44071,67,0,0,below the cut
+,Q104720,Zielona Góra,Poland,0.2273,38189,82,0,0,below the cut
+,Q46400,Suceava,Romania,0.2272,42298,71,0,0,below the cut
+,Q6986,Gotha,Germany,0.2267,40222,76,0,0,below the cut
+,Q178948,Khajuraho,India,0.2265,33607,71,0,1,below the cut
+,Q192155,Kotka,Finland,0.2265,35784,88,0,0,below the cut
+,Q25789,Karlskrona,Sweden,0.2265,35270,90,0,0,below the cut
+,Q207801,Bijeljina,Bosnia and Herzegovina,0.2263,44767,65,0,0,below the cut
+,Q207998,Fethiye,Türkiye,0.2261,43904,67,0,0,below the cut
+,Q328518,Armenia,Colombia,0.2261,44203,66,0,0,below the cut
+,Q335322,Pointe-à-Pitre,France,0.2261,45356,63,0,0,below the cut
+,Q1382,Piran,Slovenia,0.2259,41777,72,0,0,below the cut
+,Q44253,Santiago del Estero,Argentina,0.2259,42946,69,0,0,below the cut
+,Q98967,Nizhny Tagil,Russia,0.2257,39076,78,0,0,below the cut
+,Q12172,Canton of Basel-Stadt,Switzerland,0.2256,33346,96,0,0,part of Basel
+,Q10392,Bekasi,Indonesia,0.2255,38118,81,0,0,below the cut
+,Q5420,Varaždin,Croatia,0.2253,40441,75,0,0,below the cut
+,Q190897,Fier,Albania,0.225,28282,114,0,0,below the cut
+,Q185134,Tlemcen,Algeria,0.2249,45014,63,0,0,below the cut
+,Q178382,Jūrmala,Latvia,0.2248,33671,94,0,0,below the cut
+,Q115329,Camagüey,Cuba,0.2244,31890,76,0,1,below the cut
+,Q193802,Oujda,Morocco,0.2244,40051,75,0,0,below the cut
+,Q62337,Vanadzor,Armenia,0.2244,37558,82,0,0,below the cut
+,Q13625,Vibo Valentia,Italy,0.2242,36897,84,0,0,below the cut
+,Q7042,Amberg,Germany,0.2242,40031,75,0,0,below the cut
+,Q52842,Kalisz,Poland,0.224,40690,73,0,0,below the cut
+,Q112813,Victoria de Durango,Mexico,0.2238,41677,71,0,0,below the cut
+,Q14835,Bautzen,Germany,0.2238,35630,87,0,0,below the cut
+,Q13318,Imperia,Italy,0.2234,34253,91,0,0,below the cut
+,Q36989,Pardubice,Czechia,0.2232,37652,81,0,0,below the cut
+,Q196163,Łobez,Poland,0.2229,2525,191,0,0,below the cut
+,Q206760,Kyrenia,Cyprus,0.2224,43780,65,0,0,below the cut
+,Q18021,Biella,Italy,0.2223,36068,85,0,0,below the cut
+,Q196479,Staraya Russa,Russia,0.2222,43312,66,0,0,below the cut
+,Q205119,Cajamarca,Peru,0.222,44891,62,0,0,below the cut
+,Q38811,Nasiriyah,Iraq,0.222,44041,64,0,0,below the cut
+,Q139242,Zacatecas,Mexico,0.2213,33875,67,0,1,below the cut
+,Q275635,Massawa,Eritrea,0.2212,44682,62,0,0,below the cut
+,Q262684,Füssen,Germany,0.2211,40788,71,0,0,below the cut
+,Q201125,Zrenjanin,Serbia,0.221,44572,62,0,0,below the cut
+,Q2899,Mülheim an der Ruhr,Germany,0.2205,33260,93,0,0,below the cut
+,Q200797,Polatsak,Belarus,0.2202,33486,68,0,1,below the cut
+,Q12886,Anderlecht,Belgium,0.2201,41901,68,0,0,below the cut
+,Q151831,Eupen,Belgium,0.2201,44328,62,0,0,below the cut
+,Q2592,Kostroma,Russia,0.22,32098,97,0,0,below the cut
+,Q30980,Flying Fish Cove,Australia,0.2199,42471,66,0,0,below the cut
+,Q83062,Donaueschingen,Germany,0.2197,43926,63,0,0,below the cut
+,Q212628,Arak,Iran,0.2195,37960,78,0,0,below the cut
+,Q143782,North Las Vegas,United States,0.2193,42110,67,0,0,below the cut
+,Q489890,Qoʻqon,Uzbekistan,0.2193,38602,76,0,0,below the cut
+,Q131323,البيضاء,Libya,0.2186,38477,76,0,0,below the cut
+,Q182009,Tekirdağ,Türkiye,0.2184,37692,78,0,0,below the cut
+,Q335506,Salto,Uruguay,0.218,41341,68,0,0,below the cut
+,Q4126,Schweinfurt,Germany,0.218,38909,74,0,0,below the cut
+,Q126415,Aïn al-Arab,Syria,0.2178,43459,63,0,0,below the cut
+,Q200733,Nikšić,Montenegro,0.2178,38664,75,0,0,below the cut
+,Q260320,Steyr,Austria,0.2174,38871,74,0,0,below the cut
+,Q169247,Doboj,Bosnia and Herzegovina,0.2172,42701,64,0,0,below the cut
+,Q179431,Road Town,United Kingdom,0.2168,38990,73,0,0,below the cut
+,Q875,Abakan,Russia,0.2163,29413,103,0,0,below the cut
+,Q3771,Gütersloh,Germany,0.2157,40494,69,0,0,below the cut
+,Q189546,Bizerte,Tunisia,0.2155,40459,69,0,0,below the cut
+,Q6494,Salekhard,Russia,0.2155,36439,80,0,0,below the cut
+,Q26040,Borås,Sweden,0.2143,36090,80,0,0,below the cut
+,Q14808,Oranienburg,Germany,0.2141,42340,63,0,0,below the cut
+,Q234184,Chełm,Poland,0.2141,41272,66,0,0,below the cut
+,Q16010,Esch-sur-Alzette,Luxembourg,0.2132,36595,78,0,0,below the cut
+,Q219583,El Jadida,Morocco,0.213,33127,65,0,1,below the cut
+,Q54880,Valencia,Venezuela,0.213,38704,72,0,0,below the cut
+,Q158903,Shusha,Azerbaijan,0.2128,38267,73,0,0,below the cut
+,Q10127,Tangerang,Indonesia,0.2126,38878,71,0,0,below the cut
+,Q34993,Courmayeur,Italy,0.2124,36521,78,0,0,below the cut
+,Q104302,Chorzów,Poland,0.2122,37264,76,0,0,below the cut
+,Q106274,Legnica,Poland,0.212,38105,73,0,0,below the cut
+,Q82858,Sigmaringen,Germany,0.212,41936,63,0,0,below the cut
+,Q136217,Erzincan,Türkiye,0.2118,35000,82,0,0,below the cut
+,Q106896,Ísafjörður,Iceland,0.2116,39329,69,0,0,below the cut
+,Q4011,Wesel,Germany,0.2116,41128,65,0,0,below the cut
+,Q178531,Vidin,Bulgaria,0.2112,39773,68,0,0,below the cut
+,Q59975,Béjaïa,Algeria,0.211,39109,69,0,0,below the cut
+,Q7786,Pekanbaru,Indonesia,0.211,38252,72,0,0,below the cut
+,Q243853,Nishinomiya,Japan,0.2108,42100,62,0,0,below the cut
+,Q44239,Neuquén,Argentina,0.2106,41261,64,0,0,below the cut
+,Q748336,Battambang,Cambodia,0.2104,40642,65,0,0,below the cut
+,Q13470,Barletta,Italy,0.2103,33240,87,0,0,below the cut
+,Q54339,Trollhättan,Sweden,0.2103,36719,76,0,0,below the cut
+,Q200707,Takamatsu,Japan,0.2101,38460,71,0,0,below the cut
+,Q33342,Bila Tserkva,Ukraine,0.2101,37114,75,0,0,below the cut
+,Q494299,Landsberg am Lech,Germany,0.2101,41189,64,0,0,below the cut
+,Q5449,Yoshkar-Ola,Russia,0.2099,31060,94,0,0,below the cut
+,Q173277,Blagoevgrad,Bulgaria,0.2097,38005,72,0,0,below the cut
+,Q208725,Bat Yam,Israel,0.2097,40948,64,0,0,below the cut
+,Q191754,Hendaye,France,0.2095,41822,62,0,0,below the cut
+,Q37792,Sint-Truiden,Belgium,0.2094,28500,104,0,0,below the cut
+,Q569907,Baotou,China,0.2091,39982,66,0,0,below the cut
+,Q11445,Malang,Indonesia,0.2089,39044,68,0,0,below the cut
+,Q37013,Rauma,Finland,0.2084,32609,64,0,1,below the cut
+,Q178582,Wels,Austria,0.208,35264,79,0,0,below the cut
+,Q595550,El Monte,United States,0.2079,42116,60,0,0,below the cut
+,Q3922,Detmold,Germany,0.2078,35260,79,0,0,below the cut
+,Q162890,Xanten,Germany,0.2077,40499,64,0,0,below the cut
+,Q334577,Quetzaltenango,Guatemala,0.2072,39969,65,0,0,below the cut
+,Q171223,Nyíregyháza,Hungary,0.2061,31573,90,0,0,below the cut
+,Q108155,Kunduz,Afghanistan,0.2057,34775,79,0,0,below the cut
+,Q180215,Macapá,Brazil,0.2051,36372,74,0,0,below the cut
+,Q171357,Kecskemét,Hungary,0.2049,30212,94,0,0,below the cut
+,Q6329,Khanty-Mansiysk,Russia,0.2049,32075,88,0,0,below the cut
+,Q193719,Cheb,Czechia,0.2047,39168,65,0,0,below the cut
+,Q185280,Baia Mare,Romania,0.2041,35386,76,0,0,below the cut
+,Q651131,Kota Bharu,Malaysia,0.2041,38580,67,0,0,below the cut
+,Q331584,Kralendijk,Netherlands,0.2033,40182,62,0,0,below the cut
+,Q272093,Sanandaj,Iran,0.2031,36318,73,0,0,below the cut
+,Q4709,Barquisimeto,Venezuela,0.2029,37310,70,0,0,below the cut
+,Q204308,Miyazaki,Japan,0.202,37842,68,0,0,below the cut
+,Q488379,Petropavl,Kazakhstan,0.202,38806,65,0,0,below the cut
+,Q159818,Travnik,Bosnia and Herzegovina,0.2018,38743,65,0,0,below the cut
+,Q155557,Blumenau,Brazil,0.2016,39846,62,0,0,below the cut
+,Q52465,West Valley City,United States,0.2016,40586,60,0,0,below the cut
+,Q194452,Karakol,Kyrgyzstan,0.2014,34981,76,0,0,below the cut
+,Q208403,Komotini,Greece,0.2014,39841,62,0,0,below the cut
+,Q675960,Arlon,Belgium,0.2012,35743,73,0,0,below the cut
+,Q153969,Lindau,Germany,0.201,37309,69,0,0,below the cut
+,Q190005,Cienfuegos,Cuba,0.2007,29194,71,0,1,below the cut
+,Q168843,Sari,Iran,0.2006,33742,79,0,0,below the cut
+,Q33345,Yevpatoriya,Ukraine,0.2005,33002,82,0,0,below the cut
+,Q178725,Niterói,Brazil,0.2004,37129,69,0,0,below the cut
+,Q104731,Gorzów Wielkopolski,Poland,0.2001,33728,79,0,0,below the cut
+,Q200589,Utsunomiya,Japan,0.2,38086,66,0,0,below the cut
+,Q188478,Brăila,Romania,0.1999,33992,78,0,0,below the cut
+,Q192508,Bergen op Zoom,Netherlands,0.1998,37003,69,0,0,below the cut
+,Q190235,Horsens,Denmark,0.1997,34193,77,0,0,below the cut
+,Q33292,Berdiansk,Ukraine,0.1993,35673,72,0,0,below the cut
+,Q3846,Minden,Germany,0.1993,37547,67,0,0,below the cut
+,Q170457,Aydın,Türkiye,0.1991,32675,82,0,0,below the cut
+,Q46639,Mozdok,Russia,0.1987,39399,61,0,0,below the cut
+,Q59132,Jiangmen,China,0.1987,39011,62,0,0,below the cut
+,Q58584,Baoding,China,0.1985,39941,60,0,0,below the cut
+,Q202158,Hämeenlinna,Finland,0.1979,33399,79,0,0,below the cut
+,Q474868,Alor Setar,Malaysia,0.1979,38908,62,0,0,below the cut
+,Q198748,Engels,Russia,0.1972,35112,73,0,0,below the cut
+,Q104036,Ventspils,Latvia,0.1966,29710,90,0,0,below the cut
+,Q3874,Giessen,Germany,0.1966,34200,75,0,0,below the cut
+,Q3490,Lipetsk,Russia,0.1951,27125,100,0,0,below the cut
+,Q200908,Rethymno,Greece,0.195,38924,60,0,0,below the cut
+,Q14499,Samarinda,Indonesia,0.1946,36963,66,0,0,below the cut
+,Q332319,Mekele,Ethiopia,0.1946,35520,70,0,0,below the cut
+,Q222279,Bukavu,Dem. Rep. of the Congo,0.1942,36828,66,0,0,below the cut
+,Q160584,Siverskodonetsk,Ukraine,0.1933,34678,72,0,0,below the cut
+,Q161741,1st arrondissement of Paris,France,0.1933,37017,65,0,0,below the cut
+,Q28301,Olinda,Brazil,0.1932,27088,75,0,1,below the cut
+,Q235190,Manizales,Colombia,0.1931,36592,66,0,0,below the cut
+,Q487439,Oral,Kazakhstan,0.1931,33130,77,0,0,below the cut
+,Q6842,Kleve,Germany,0.1923,38541,60,0,0,below the cut
+,Q2386011,Bochotnica,Poland,0.1922,368,175,0,0,below the cut
+,Q196934,Ussuriysk,Russia,0.1921,35282,69,0,0,below the cut
+,Q41970,Pyatigorsk,Russia,0.1916,31387,82,0,0,below the cut
+,Q486545,Taraz,Kazakhstan,0.1916,33155,76,0,0,below the cut
+,Q110011,Kołobrzeg,Poland,0.1914,35544,68,0,0,below the cut
+,Q171612,Rio Branco,Brazil,0.1914,30357,85,0,0,below the cut
+,Q3786,Esslingen am Neckar,Germany,0.1914,31050,83,0,0,below the cut
+,Q206484,Abeokuta,Nigeria,0.191,37916,61,0,0,below the cut
+,Q168376,Vitória,Brazil,0.1908,32445,78,0,0,below the cut
+,Q165247,Maywood,United States,0.1906,35307,68,0,0,below the cut
+,Q191805,Mladá Boleslav,Czechia,0.1904,36374,65,0,0,below the cut
+,Q199723,Balıkesir,Türkiye,0.1894,33100,75,0,0,below the cut
+,Q21181,Fredericia,Denmark,0.1892,37536,61,0,0,below the cut
+,Q170693,Keflavík,Iceland,0.1889,32439,77,0,0,below the cut
+,Q326956,Uji,Japan,0.1887,30258,60,0,1,below the cut
+,Q169160,Lezhë,Albania,0.1885,29314,87,0,0,below the cut
+,Q230628,Erdenet,Mongolia,0.1881,34666,69,0,0,below the cut
+,Q3200,Salzgitter,Germany,0.1879,30342,83,0,0,below the cut
+,Q260911,Chiclayo,Peru,0.1877,34632,69,0,0,below the cut
+,Q5323,Poreč,Croatia,0.1876,28749,66,0,1,below the cut
+,Q165420,Pleven,Bulgaria,0.1875,30327,83,0,0,below the cut
+,Q105035,Beslan,Russia,0.1873,33515,72,0,0,below the cut
+,Q58422,Tangshan,China,0.1873,34118,70,0,0,below the cut
+,Q843138,Bhaktapur,Nepal,0.1873,37511,60,0,0,below the cut
+,Q234783,Shaki,Azerbaijan,0.1872,22834,86,0,1,below the cut
+,Q77433,Leganés,Spain,0.1869,32626,75,0,0,below the cut
+,Q182481,Tourcoing,France,0.1862,29629,84,0,0,below the cut
+,Q206900,Çorum,Türkiye,0.1858,30951,80,0,0,below the cut
+,Q4686,Slavonski Brod,Croatia,0.1858,33085,73,0,0,below the cut
+,Q10737004,Bacău,Romania,0.1856,32124,76,0,0,below the cut
+,Q4122,Wolfenbüttel,Germany,0.1852,36608,61,0,0,below the cut
+,Q102350,Bytom,Poland,0.185,30713,80,0,0,below the cut
+,Q131266,Krems,Austria,0.1846,34641,67,0,0,below the cut
+,Q9783,Roermond,Netherlands,0.1846,36280,62,0,0,below the cut
+,Q185345,Poti,Georgia,0.1844,31555,77,0,0,below the cut
+,Q26498,Eskilstuna,Sweden,0.1843,30023,82,0,0,below the cut
+,Q109386,Nampo,North Korea,0.1842,35121,65,0,0,below the cut
+,Q148062,Zarqa,Jordan,0.1836,35597,63,0,0,below the cut
+,Q208318,Kaduna,Nigeria,0.1834,36342,61,0,0,below the cut
+,Q489911,Breisach,Germany,0.183,36549,60,0,0,below the cut
+,Q207589,Val-d'Isère,France,0.1827,35400,63,0,0,below the cut
+,Q211572,La Louvière,Belgium,0.1822,29071,61,0,1,below the cut
+,Q13121,Aalst,Belgium,0.1821,31401,76,0,0,below the cut
+,Q174060,Elazığ,Türkiye,0.1821,29487,82,0,0,below the cut
+,Q211055,Mahikeng,South Africa,0.1821,32635,72,0,0,below the cut
+,Q205432,Pančevo,Serbia,0.1817,34987,64,0,0,below the cut
+,Q68155,Schwyz,Switzerland,0.1811,32247,73,0,0,below the cut
+,Q956911,Otrar,Kazakhstan,0.181,27789,0,1,0,below the cut
+,Q185156,Guantánamo,Cuba,0.1806,31489,75,0,0,below the cut
+,Q483331,Iğdır,Türkiye,0.1796,29412,81,0,0,below the cut
+,Q7072,Halberstadt,Germany,0.1794,33367,68,0,0,below the cut
+,Q181056,Boa Vista,Brazil,0.179,31231,75,0,0,below the cut
+,Q26432,Zoetermeer,Netherlands,0.179,30290,78,0,0,below the cut
+,Q133838,Votkinsk,Russia,0.1788,33491,67,0,0,below the cut
+,Q18970,Ambon,Indonesia,0.1788,35613,60,0,0,below the cut
+,Q28327,Örnsköldsvik,Sweden,0.1788,35103,62,0,0,below the cut
+,Q62868,Koszalin,Poland,0.1788,30447,77,0,0,below the cut
+,Q82128,Temuco,Chile,0.1787,24363,101,0,0,below the cut
+,Q74957,Anshan,China,0.178,34190,64,0,0,below the cut
+,Q187938,Pitești,Romania,0.1779,30052,78,0,0,below the cut
+,Q191015,Trakai,Lithuania,0.1777,30472,76,0,0,below the cut
+,Q192119,Sisak,Croatia,0.1777,32720,69,0,0,below the cut
+,Q26937,Kristianstad,Sweden,0.1777,33563,66,0,0,below the cut
+,Q15906,Ptuj,Slovenia,0.1769,32429,70,0,0,below the cut
+,Q54344,Skellefteå,Sweden,0.1769,34699,62,0,0,below the cut
+,Q147934,Jelenia Góra,Poland,0.1763,34861,61,0,0,below the cut
+,Q204249,Mito,Japan,0.1763,32782,68,0,0,below the cut
+,Q948129,Westminster,United States,0.1761,34800,61,0,0,below the cut
+,Q168668,Dobrich,Bulgaria,0.176,29093,81,0,0,below the cut
+,Q7047,Bad Kreuznach,Germany,0.1759,34541,62,0,0,below the cut
+,Q188179,Kuressaare,Estonia,0.1756,28385,84,0,0,below the cut
+,Q201618,Fukui,Japan,0.175,32879,67,0,0,below the cut
+,Q6998,Freising,Germany,0.1748,30655,74,0,0,below the cut
+,Q802,Nowy Sącz,Poland,0.1742,31887,70,0,0,below the cut
+,Q110732,Wałbrzych,Poland,0.174,31829,70,0,0,below the cut
+,Q202907,Otsu,Japan,0.1739,25462,70,0,1,below the cut
+,Q204905,Elefsina,Greece,0.1738,34066,62,0,0,below the cut
+,Q46135,Créteil,France,0.1738,28909,81,0,0,below the cut
+,Q207294,Babruysk,Belarus,0.1736,30441,74,0,0,below the cut
+,Q240475,Kashan,Iran,0.1736,33162,65,0,0,below the cut
+,Q25082,Borkum,Germany,0.1736,32987,66,0,0,below the cut
+,Q156724,Kremenchuk,Ukraine,0.1733,28893,81,0,0,below the cut
+,Q188894,Kütahya,Türkiye,0.1727,27193,86,0,0,below the cut
+,Q194164,Krujë,Albania,0.1723,32640,66,0,0,below the cut
+,Q2144,Cherepovets,Russia,0.1723,29078,79,0,0,below the cut
+,Q13486,Andria,Italy,0.1722,18252,95,0,1,below the cut
+,Q14910,Schwäbisch Hall,Germany,0.1709,34129,60,0,0,below the cut
+,Q1018,Nova Gorica,Slovenia,0.1705,31808,68,0,0,below the cut
+,Q14912,Saarlouis,Germany,0.1705,32437,66,0,0,below the cut
+,Q197582,Khimki,Russia,0.1705,29319,76,0,0,below the cut
+,Q672990,Bilhorod-Dnistrovskyi,Ukraine,0.1705,33739,61,0,0,below the cut
+,Q179833,Sumgait,Azerbaijan,0.1704,26267,89,0,0,below the cut
+,Q42117,Ansan,South Korea,0.1699,33941,60,0,0,below the cut
+,Q2047414,Palanga,Lithuania,0.1698,31649,68,0,0,below the cut
+,Q211590,Santa Clara,Cuba,0.1698,31383,69,0,0,below the cut
+,Q59473,Užice,Serbia,0.1696,32291,66,0,0,below the cut
+,Q223920,Pointe-Noire,Republic of the Congo,0.1694,30963,70,0,0,below the cut
+,Q1884,Düren,Germany,0.1692,31239,69,0,0,below the cut
+,Q21176,Viborg,Denmark,0.1692,29364,75,0,0,below the cut
+,Q157032,Prilep,North Macedonia,0.169,30820,70,0,0,below the cut
+,Q34615,Adria,Italy,0.1688,31219,69,0,0,below the cut
+,Q200731,Tottori,Japan,0.1686,31397,68,0,0,below the cut
+,Q250984,Bad Ischl,Austria,0.1686,31788,67,0,0,below the cut
+,Q194165,Irbid,Jordan,0.1684,33430,61,0,0,below the cut
+,Q486282,Pavlodar,Kazakhstan,0.1682,28530,79,0,0,below the cut
+,Q206116,Gebze,Türkiye,0.1676,31534,67,0,0,part of Kocaeli Province
+,Q280491,Bad Tölz,Germany,0.1672,32117,65,0,0,below the cut
+,Q6647,Lalitpur,Nepal,0.1672,32991,62,0,0,below the cut
+,Q473914,Ibiza,Spain,0.1669,31174,68,0,0,below the cut
+,Q200951,Bolu,Türkiye,0.1667,29064,76,0,0,below the cut
+,Q192387,Londrina,Brazil,0.1665,33404,60,0,0,below the cut
+,Q239421,Nakuru,Kenya,0.1665,32869,62,0,0,below the cut
+,Q500189,M'banza-Kongo,Angola,0.1665,26869,60,0,1,below the cut
+,Q3050,Recklinghausen,Germany,0.1663,25043,91,0,0,below the cut
+,Q3951,Aalen,Germany,0.1663,27235,82,0,0,below the cut
+,Q187826,Móstoles,Spain,0.1661,28952,76,0,0,below the cut
+,Q262579,Karaman,Türkiye,0.1655,28290,78,0,0,below the cut
+,Q81551,Konya Province,Türkiye,0.1652,20427,82,0,1,part of Konya
+,Q6949,Stade,Germany,0.1649,32036,64,0,0,below the cut
+,Q186142,Garðabær,Iceland,0.1647,31951,64,0,0,below the cut
+,Q232842,Puno,Peru,0.1647,32487,62,0,0,below the cut
+,Q76493,Dzerzhinsk,Russia,0.164,30453,68,0,0,below the cut
+,Q155569,Krasnogorsk,Russia,0.1636,29069,74,0,0,below the cut
+,Q182521,Rustavi,Georgia,0.1636,27716,79,0,0,below the cut
+,Q146317,Veszprém,Hungary,0.1632,25912,86,0,0,below the cut
+,Q208038,Čačak,Serbia,0.163,31368,65,0,0,below the cut
+,Q216912,Muğla,Türkiye,0.163,30997,66,0,0,below the cut
+,Q4149,Neustadt an der Weinstraße,Germany,0.1628,32455,61,0,0,below the cut
+,Q158604,Bakhchysarai,Russia,0.1625,26118,85,0,0,below the cut
+,Q1013474,Bucha,Ukraine,0.1622,30768,66,0,0,below the cut
+,Q544003,Izium,Ukraine,0.1622,30275,68,0,0,below the cut
+,Q175452,Novocherkassk,Russia,0.1617,29187,72,0,0,below the cut
+,Q184409,Guarulhos,Brazil,0.1617,29426,70,0,0,below the cut
+,Q3172,Fehmarn,Germany,0.1613,29248,71,0,0,below the cut
+,Q163935,Nazran,Russia,0.1611,27807,77,0,0,below the cut
+,Q331078,Amol,Iran,0.1607,26963,80,0,0,below the cut
+,Q27119,Kolding,Denmark,0.1605,28687,74,0,0,below the cut
+,Q184539,Ordu,Türkiye,0.1603,28901,73,0,0,below the cut
+,Q199609,Ōita-shi,Japan,0.1603,29189,71,0,0,below the cut
+,Q183111,Jihlava,Czechia,0.1601,29283,70,0,0,below the cut
+,Q200747,Wakayama,Japan,0.1599,29251,70,0,0,below the cut
+,Q249884,Saint-Pierre,France,0.1599,32325,60,0,0,below the cut
+,Q491879,Termez,Uzbekistan,0.1599,29630,68,0,0,below the cut
+,Q2174,Naryan-Mar,Russia,0.1596,25870,84,0,0,below the cut
+,Q1305,Wageningen,Netherlands,0.1593,32183,60,0,0,below the cut
+,Q132732,Bratsk,Russia,0.1592,26976,79,0,0,below the cut
+,Q205942,Yalova,Türkiye,0.1584,27690,76,0,0,below the cut
+,Q3865,Villingen-Schwenningen,Germany,0.1578,29380,68,0,0,below the cut
+,Q63931,Stans,Switzerland,0.1578,29588,67,0,0,below the cut
+,Q12062,Torgau,Germany,0.1576,29553,67,0,0,below the cut
+,Q182428,Silistra,Bulgaria,0.1576,29091,70,0,0,below the cut
+,Q459553,Chetumal,Mexico,0.157,29481,67,0,0,below the cut
+,Q61936,Starnberg,Germany,0.1568,31769,60,0,0,below the cut
+,Q183104,Feldkirch,Austria,0.1567,27309,76,0,0,below the cut
+,Q488708,Neckarsulm,Germany,0.1559,30008,65,0,0,below the cut
+,Q202188,Ardahan,Türkiye,0.1555,27363,75,0,0,below the cut
+,Q156658,Nakhodka,Russia,0.1549,26599,78,0,0,below the cut
+,Q223587,Mansoura,Egypt,0.1547,30613,62,0,0,below the cut
+,Q184403,São Bernardo do Campo,Brazil,0.1545,30338,63,0,0,below the cut
+,Q38968,Liuzhou,China,0.1545,31354,60,0,0,below the cut
+,Q105048,Słupsk,Poland,0.1543,28417,71,0,0,below the cut
+,Q13379,Kurgan,Russia,0.1542,24895,84,0,0,below the cut
+,Q207972,Tepic,Mexico,0.1541,29854,64,0,0,below the cut
+,Q193445,Artvin,Türkiye,0.154,27183,75,0,0,below the cut
+,Q186576,Pazardzhik,Bulgaria,0.1537,30759,61,0,0,below the cut
+,Q178067,Toamasina,Madagascar,0.1535,30399,62,0,0,below the cut
+,Q34112,Gustavia,France,0.1532,28891,69,0,0,below the cut
+,Q4031,Rüsselsheim am Main,Germany,0.1532,30103,63,0,0,below the cut
+,Q492552,Namangan,Uzbekistan,0.1532,27264,74,0,0,below the cut
+,Q285879,Bingen am Rhein,Germany,0.1524,29539,64,0,0,below the cut
+,Q273880,Beppu,Japan,0.1522,29749,63,0,0,below the cut
+,Q14182,Banjarmasin,Indonesia,0.1518,26429,77,0,0,below the cut
+,Q14819,Freiberg,Germany,0.1514,28789,68,0,0,below the cut
+,Q15775,Gelendzhik,Russia,0.1514,29007,67,0,0,below the cut
+,Q183651,Tokat,Türkiye,0.1509,24612,83,0,0,below the cut
+,Q27007,Bardejov,Slovakia,0.1509,21508,69,0,1,below the cut
+,Q7052,Landau in der Pfalz,Germany,0.1508,29328,64,0,0,below the cut
+,Q133026,Kolomna,Russia,0.1505,23605,86,0,0,below the cut
+,Q450625,Alytus,Lithuania,0.1505,23028,87,0,0,below the cut
+,Q153676,Kislovodsk,Russia,0.1503,26444,76,0,0,below the cut
+,Q155915,Kastamonu,Türkiye,0.1501,28017,70,0,0,below the cut
+,Q3952,Plauen,Germany,0.1501,26623,75,0,0,below the cut
+,Q4019,Sindelfingen,Germany,0.1499,27658,71,0,0,below the cut
+,Q155993,Kladno,Czechia,0.1493,26851,74,0,0,below the cut
+,Q180176,Kozani,Greece,0.1493,29219,64,0,0,below the cut
+,Q206317,Kraljevo,Serbia,0.1491,28747,67,0,0,below the cut
+,Q192870,Nokia,Finland,0.1487,29712,61,0,0,below the cut
+,Q208110,Banská Štiavnica,Slovakia,0.1482,21370,68,0,1,below the cut
+,Q108672,Dąbrowa Górnicza,Poland,0.148,27870,69,0,0,below the cut
+,Q31002,Mata-Utu,France,0.1476,26546,74,0,0,below the cut
+,Q44840,Viljandi,Estonia,0.1476,23670,84,0,0,below the cut
+,Q170578,Aracaju,Brazil,0.1474,24391,82,0,0,below the cut
+,Q266230,Oberstdorf,Germany,0.1474,28133,68,0,0,below the cut
+,Q3958,Neubrandenburg,Germany,0.1466,25050,79,0,0,below the cut
+,Q82500,St. Pölten,Austria,0.1465,18822,101,0,0,below the cut
+,Q319660,Mbuji-Mayi,Dem. Rep. of the Congo,0.1464,29121,63,0,0,below the cut
+,Q323986,Prijedor,Bosnia and Herzegovina,0.146,28941,64,0,0,below the cut
+,Q63912,Glarus,Switzerland,0.1459,25576,77,0,0,below the cut
+,Q26393,Poprad,Slovakia,0.1457,25566,77,0,0,below the cut
+,Q213296,Sinaia,Romania,0.1449,29172,62,0,0,below the cut
+,Q3183470,Sigtuna,Sweden,0.1449,29020,63,0,0,below the cut
+,Q5660,Baltiysk,Russia,0.1449,27941,67,0,0,below the cut
+,Q68956,Martigny,Switzerland,0.1443,28147,66,0,0,below the cut
+,Q1130,Iserlohn,Germany,0.1441,27364,68,0,0,below the cut
+,Q193722,Sergiyev Posad,Russia,0.1441,26539,72,0,0,below the cut
+,Q187205,Bistrița,Romania,0.1439,26955,70,0,0,below the cut
+,Q55115,Monaco-Ville,Monaco,0.1439,29192,61,0,0,below the cut
+,Q11977,Tychy,Poland,0.1437,25169,77,0,0,below the cut
+,Q214956,Znojmo,Czechia,0.1435,28535,64,0,0,below the cut
+,Q210886,Villahermosa,Mexico,0.1431,27617,67,0,0,below the cut
+,Q319813,Siedlce,Poland,0.1429,28425,64,0,0,below the cut
+,Q3967,Neuwied,Germany,0.1429,28778,63,0,0,below the cut
+,Q430449,Gmunden,Austria,0.1428,26977,69,0,0,below the cut
+,Q16017,Zweibrücken,Germany,0.1425,28929,62,0,0,below the cut
+,Q172512,Porto Velho,Brazil,0.1424,24867,77,0,0,below the cut
+,Q4582,Rancagua,Chile,0.1424,22585,84,0,0,below the cut
+,Q23520,Paltoga,Russia,0.142,237,144,0,0,below the cut
+,Q4072,Göppingen,Germany,0.142,27333,67,0,0,below the cut
+,Q491123,Kyzylorda,Kazakhstan,0.1418,26000,73,0,0,below the cut
+,Q135466,Dubna,Russia,0.1414,25286,75,0,0,below the cut
+,Q157260,Horlivka,Ukraine,0.1406,25758,73,0,0,below the cut
+,Q16106,Eisenhüttenstadt,Germany,0.14,28179,63,0,0,below the cut
+,Q92277,Jilin City,China,0.1398,28170,63,0,0,below the cut
+,Q13135,Macerata,Italy,0.1395,23712,79,0,0,below the cut
+,Q6025,Gorno-Altaysk,Russia,0.1395,22599,82,0,0,below the cut
+,Q3069,Bottrop,Germany,0.1393,21004,88,0,0,below the cut
+,Q204709,Schiedam,Netherlands,0.1391,26826,68,0,0,below the cut
+,Q336250,Lienz,Austria,0.1391,27766,64,0,0,below the cut
+,Q27168,Randers,Denmark,0.1389,26054,71,0,0,below the cut
+,Q478207,Kenitra,Morocco,0.1387,28044,63,0,0,below the cut
+,Q605021,Maragheh,Iran,0.1387,20641,0,1,0,below the cut
+,Q101825,Velikiye Luki,Russia,0.1385,27107,66,0,0,below the cut
+,Q171031,Isparta,Türkiye,0.1385,24522,76,0,0,below the cut
+,Q228811,Lankaran,Azerbaijan,0.1385,23365,79,0,0,below the cut
+,Q488346,Bad Kissingen,Germany,0.1383,26155,70,0,0,below the cut
+,Q215633,Łomża,Poland,0.1381,27046,66,0,0,below the cut
+,Q146363,Most,Czechia,0.1379,26135,70,0,0,below the cut
+,Q487684,Türkmenabat,Turkmenistan,0.1379,24950,74,0,0,below the cut
+,Q203619,Kemi,Finland,0.1377,27472,64,0,0,below the cut
+,Q95041,Naberezhnye Chelny,Russia,0.1376,23975,77,0,0,below the cut
+,Q223966,Piura,Peru,0.1373,27727,63,0,0,below the cut
+,Q272471,Matanzas,Cuba,0.1373,27153,65,0,0,below the cut
+,Q647543,Arrecife,Spain,0.1373,28061,62,0,0,below the cut
+,Q27425,Hillerød,Denmark,0.1371,28586,60,0,0,below the cut
+,Q146699,Zanjan,Iran,0.1368,26180,69,0,0,below the cut
+,Q201442,Kruševac,Serbia,0.1368,26891,66,0,0,below the cut
+,Q217040,Tamale,Ghana,0.1368,28214,61,0,0,below the cut
+,Q185336,Zugdidi,Georgia,0.1362,25276,72,0,0,below the cut
+,Q25302,Racibórz,Poland,0.1361,16963,103,0,0,below the cut
+,Q1351046,Marijampolė,Russia,0.1349,24772,73,0,0,below the cut
+,Q501661,Schleswig,Germany,0.1348,26598,66,0,0,below the cut
+,Q321197,Cieszyn,Poland,0.1346,28159,60,0,0,below the cut
+,Q3132,Moers,Germany,0.1343,20390,88,0,0,below the cut
+,Q11585,Tulcea,Romania,0.1337,24555,73,0,0,below the cut
+,Q14945,Merseburg,Germany,0.1337,26697,65,0,0,below the cut
+,Q201932,Kofu,Japan,0.1337,26208,67,0,0,below the cut
+,Q271771,Tanta,Egypt,0.1333,26888,64,0,0,below the cut
+,Q40868,Tirano,Italy,0.1331,26324,66,0,0,below the cut
+,Q6157,Seinäjoki,Finland,0.1329,23990,74,0,0,below the cut
+,Q2321929,Sopore,India,0.1327,19954,0,1,0,below the cut
+,Q210197,Kukës,Albania,0.1326,19972,89,0,0,below the cut
+,Q7027,Straubing,Germany,0.1325,26270,66,0,0,below the cut
+,Q75026,Fushun,China,0.1321,26895,63,0,0,below the cut
+,Q182025,Aksaray,Türkiye,0.1318,21924,80,0,0,below the cut
+,Q192926,Kazanlak,Bulgaria,0.1314,20749,60,0,1,below the cut
+,Q193180,Kajaani,Finland,0.1314,25633,68,0,0,below the cut
+,Q487522,Klosterneuburg,Austria,0.1314,23757,74,0,0,below the cut
+,Q251231,Amstetten,Austria,0.1312,24454,72,0,0,below the cut
+,Q73639,Pogradec,Albania,0.1312,27494,60,0,0,below the cut
+,Q108037,Valmiera,Latvia,0.131,24447,72,0,0,below the cut
+,Q188892,Ribeirão Preto,Brazil,0.131,27184,61,0,0,below the cut
+,Q187895,Zonguldak,Türkiye,0.1306,23868,73,0,0,below the cut
+,Q35784,Al Bayda,Libya,0.1305,18985,91,0,0,below the cut
+,Q47166,Orsk,Russia,0.13,24085,72,0,0,below the cut
+,Q106636,Bam,Iran,0.1297,18800,67,0,1,below the cut
+,Q207876,Yamaguchi,Japan,0.1292,25782,66,0,0,below the cut
+,Q237512,Lubin,Poland,0.129,26771,62,0,0,below the cut
+,Q181830,Shumen,Bulgaria,0.1285,23793,72,0,0,below the cut
+,Q39583,Birkirkara,Malta,0.1285,24264,71,0,0,below the cut
+,Q104557,Balashikha,Russia,0.1279,21736,78,0,0,below the cut
+,Q193890,Drobeta-Turnu Severin,Romania,0.1279,26295,63,0,0,below the cut
+,Q72704,Sudzha,Russia,0.1279,26854,61,0,0,below the cut
+,Q165341,Teresina,Brazil,0.1277,21004,81,0,0,below the cut
+,Q6855,Lörrach,Germany,0.1277,26292,63,0,0,below the cut
+,Q181276,Szolnok,Hungary,0.1272,20144,85,0,0,below the cut
+,Q172657,Nizhnekamsk,Russia,0.1271,25745,65,0,0,below the cut
+,Q5326,Cherkessk,Russia,0.127,20668,82,0,0,below the cut
+,Q106268,Stargard,Poland,0.1269,24775,68,0,0,below the cut
+,Q4140,Waiblingen,Germany,0.1262,25869,64,0,0,below the cut
+,Q6938,Hof,Germany,0.1262,24714,68,0,0,below the cut
+,Q207321,Matsue,Japan,0.1254,25449,65,0,0,below the cut
+,Q490058,Andernach,Germany,0.1252,25702,64,0,0,below the cut
+,Q15826,Palu,Indonesia,0.125,25323,65,0,0,below the cut
+,Q376903,Valledupar,Colombia,0.125,26398,61,0,0,below the cut
+,Q27587,Sandnes Municipality,Norway,0.1248,26141,62,0,0,below the cut
+,Q7033,Nordhausen,Germany,0.1248,22235,75,0,0,below the cut
+,Q272009,Makarska,Croatia,0.1246,25617,64,0,0,below the cut
+,Q9918,Enkhuizen,Netherlands,0.1246,26577,60,0,0,below the cut
+,Q472925,Urgench,Uzbekistan,0.1242,26094,62,0,0,below the cut
+,Q211073,Matadi,Dem. Rep. of the Congo,0.124,26478,60,0,0,below the cut
+,Q71727,Irpin,Ukraine,0.1238,24811,66,0,0,below the cut
+,Q3810,Coyhaique,Chile,0.1237,21200,78,0,0,below the cut
+,Q206879,Nevşehir,Türkiye,0.1227,22413,73,0,0,below the cut
+,Q644008,Qarshi,Uzbekistan,0.1227,25832,62,0,0,below the cut
+,Q157134,Makiivka,Ukraine,0.1221,22524,72,0,0,below the cut
+,Q178855,Botoșani,Romania,0.1221,22806,71,0,0,below the cut
+,Q193177,Sandomierz,Poland,0.1221,23489,69,0,0,below the cut
+,Q333559,Granville,France,0.1221,26023,61,0,0,below the cut
+,Q489685,Günzburg,Germany,0.1219,25377,63,0,0,below the cut
+,Q10396,Depok,Indonesia,0.1217,22796,71,0,0,below the cut
+,Q486450,Baden,Austria,0.1217,23787,68,0,0,below the cut
+,Q501715,Port-Gentil,Gabon,0.1217,25674,62,0,0,below the cut
+,Q3994,Kempten,Germany,0.1214,20236,81,0,0,below the cut
+,Q156080,Opava,Czechia,0.1212,22124,73,0,0,below the cut
+,Q488990,Kostanay,Kazakhstan,0.1212,22874,70,0,0,below the cut
+,Q271417,Funabashi,Japan,0.1211,25265,63,0,0,below the cut
+,Q147756,Khasavyurt,Russia,0.121,21712,74,0,0,below the cut
+,Q14424,Nagykanizsa,Hungary,0.1206,24829,64,0,0,below the cut
+,Q186254,Haskovo,Bulgaria,0.1204,24345,66,0,0,below the cut
+,Q44811,Gagra,Georgia,0.12,18624,86,0,0,below the cut
+,Q486341,Kufstein,Austria,0.12,22986,69,0,0,below the cut
+,Q244004,Sétif,Algeria,0.1194,22867,69,0,0,below the cut
+,Q10006,Hengelo,Netherlands,0.1192,23941,66,0,0,below the cut
+,Q110017,Caxias do Sul,Brazil,0.1192,25241,62,0,0,below the cut
+,Q178385,Sliven,Bulgaria,0.1185,21138,75,0,0,below the cut
+,Q235571,Darkhan,Mongolia,0.1173,25191,61,0,0,below the cut
+,Q241122,Comrat,Moldova,0.1173,24568,63,0,0,below the cut
+,Q487921,Calw,Germany,0.1171,23848,65,0,0,below the cut
+,Q106681,Włocławek,Poland,0.1167,23787,65,0,0,below the cut
+,Q118995,Muş,Türkiye,0.1167,20044,79,0,0,below the cut
+,Q244154,Holguin,Cuba,0.1165,24474,63,0,0,below the cut
+,Q68150,Altdorf,Switzerland,0.1162,19041,82,0,0,below the cut
+,Q207322,Huambo,Angola,0.1161,22086,70,0,0,below the cut
+,Q180379,Rēzekne,Latvia,0.116,20746,75,0,0,below the cut
+,Q210796,Komárno,Slovakia,0.1159,24597,62,0,0,below the cut
+,Q1679567,Jakobstad,Finland,0.1153,25123,60,0,0,below the cut
+,Q68129,Olten,Switzerland,0.115,24495,62,0,0,below the cut
+,Q207999,Kuusamo,Finland,0.1148,24766,61,0,0,below the cut
+,Q193413,Rybinsk,Russia,0.1144,20510,75,0,0,below the cut
+,Q181314,Wavre,Belgium,0.1142,23643,64,0,0,below the cut
+,Q189134,Uşak,Türkiye,0.114,21233,72,0,0,below the cut
+,Q214248,Benguela,Angola,0.1136,22805,66,0,0,below the cut
+,Q222755,Ibagué,Colombia,0.1136,23009,65,0,0,below the cut
+,Q107398,Akranes,Iceland,0.1134,22245,68,0,0,below the cut
+,Q212546,Akhaltsikhe,Georgia,0.1134,23303,64,0,0,below the cut
+,Q207309,Tokushima,Japan,0.1132,21545,70,0,0,below the cut
+,Q83531,Bitlis,Türkiye,0.1129,20617,74,0,0,below the cut
+,Q146342,Teplice,Czechia,0.1127,21270,71,0,0,below the cut
+,Q485294,Leoben,Austria,0.1125,20993,72,0,0,below the cut
+,Q175651,Obninsk,Russia,0.1123,22575,66,0,0,below the cut
+,Q192501,Safranbolu,Türkiye,0.1123,16844,65,0,1,below the cut
+,Q44241,San Juan,Argentina,0.1121,23025,64,0,0,below the cut
+,Q168197,Adıyaman,Türkiye,0.1119,17854,84,0,0,below the cut
+,Q198419,Elektrostal,Russia,0.1117,22452,66,0,0,below the cut
+,Q200605,Marigot,France,0.1115,22445,66,0,0,below the cut
+,Q41997,Talcahuano,Chile,0.1115,18121,83,0,0,below the cut
+,Q140304,Zagazig,Egypt,0.1113,23206,63,0,0,below the cut
+,Q19869,Breinigerberg,Germany,0.1111,389,125,0,0,below the cut
+,Q52193,Kolomyia,Ukraine,0.1111,22597,65,0,0,below the cut
+,Q15982,Wernigerode,Germany,0.1109,22839,64,0,0,below the cut
+,Q335135,Popayán,Colombia,0.1109,23113,63,0,0,below the cut
+,Q197018,Ukhta,Russia,0.1107,21624,68,0,0,below the cut
+,Q175323,Adapazarı,Türkiye,0.11,18160,82,0,0,below the cut
+,Q243319,Morogoro,Tanzania,0.1099,24022,60,0,0,below the cut
+,Q124110,Loreto,Italy,0.1096,21026,70,0,0,below the cut
+,Q201729,Sanok,Poland,0.1096,22425,65,0,0,below the cut
+,Q15986,Naumburg,Germany,0.1093,16513,65,0,1,below the cut
+,Q60037,Zalaegerszeg,Hungary,0.1092,18769,79,0,0,below the cut
+,Q388620,Bandar Lengeh,Iran,0.1084,16387,0,1,0,below the cut
+,Q123511,Grudziądz,Poland,0.1082,23212,61,0,0,below the cut
+,Q191106,Haapsalu,Estonia,0.1082,19720,75,0,0,below the cut
+,Q3097,Remscheid,Germany,0.1077,16365,89,0,0,below the cut
+,Q146307,Děčín,Czechia,0.1071,20892,69,0,0,below the cut
+,Q15256,Ivangorod,Russia,0.1071,21607,66,0,0,below the cut
+,Q207891,Kokkola,Finland,0.1071,21410,67,0,0,below the cut
+,Q14849,Pirmasens,Germany,0.1069,22495,63,0,0,below the cut
+,Q15976,Altenburg,Germany,0.1069,18823,77,0,0,below the cut
+,Q162677,Murom,Russia,0.1069,18679,78,0,0,below the cut
+,Q3912,Arnsberg,Germany,0.1065,20410,71,0,0,below the cut
+,Q467501,Khorugh,Tajikistan,0.1065,22909,61,0,0,below the cut
+,Q202351,Giurgiu,Romania,0.1061,23172,60,0,0,below the cut
+,Q10866,Narni,Italy,0.1057,22345,63,0,0,below the cut
+,Q202195,Tunceli,Türkiye,0.1057,19927,73,0,0,below the cut
+,Q19300,Molfetta,Italy,0.1055,18849,76,0,0,below the cut
+,Q270041,Al Hudaydah,Yemen,0.1055,22288,63,0,0,below the cut
+,Q201613,Maebashi,Japan,0.1042,20372,70,0,0,below the cut
+,Q145507,Kaspiysk,Russia,0.104,20678,68,0,0,below the cut
+,Q206895,Hakkâri,Türkiye,0.1036,19179,74,0,0,below the cut
+,Q6477,Pirna,Germany,0.1034,21560,64,0,0,below the cut
+,Q9844,Helmond,Netherlands,0.1034,19827,72,0,0,below the cut
+,Q3879,Neumünster,Germany,0.1032,18566,76,0,0,below the cut
+,Q951051,Ramsar,Iran,0.1032,22732,60,0,0,below the cut
+,Q336438,Takasaki,Japan,0.103,21277,65,0,0,below the cut
+,Q158004,Piotrków Trybunalski,Poland,0.1026,21238,65,0,0,below the cut
+,Q13127,Sint-Niklaas,Belgium,0.1024,21503,64,0,0,below the cut
+,Q54755,Ängelholm,Sweden,0.1024,21998,62,0,0,below the cut
+,Q208863,Hachiōji-shi,Japan,0.1022,21980,62,0,0,part of Tokyo
+,Q189361,Klaksvík,Denmark,0.102,22263,61,0,0,below the cut
+,Q14925,Mühlhausen/Thuringia,Germany,0.1017,21043,65,0,0,below the cut
+,Q185084,Siirt,Türkiye,0.1017,18412,76,0,0,below the cut
+,Q15767,Armavir,Russia,0.1013,18564,75,0,0,below the cut
+,Q15339,Shlisselburg,Russia,0.1009,22385,60,0,0,below the cut
+,Q187945,Piatra Neamț,Romania,0.1009,22048,61,0,0,below the cut
+,Q5640,Koprivnica,Croatia,0.1003,21569,62,0,0,below the cut
+,Q75634,Reșița,Romania,0.1003,21403,63,0,0,below the cut
+,Q206903,Kırklareli,Türkiye,0.1001,19827,70,0,0,below the cut
+,Q7082,Stendal,Germany,0.1001,21917,61,0,0,below the cut
+,Q487801,Barakaldo,Spain,0.0999,20782,65,0,0,below the cut
+,Q487958,Leonding,Austria,0.0999,20624,66,0,0,below the cut
+,Q44206,Resistencia,Argentina,0.0997,20232,68,0,0,below the cut
+,Q31583,Kapan,Armenia,0.0994,19340,71,0,0,below the cut
+,Q146497,Berehove,Ukraine,0.0993,21699,61,0,0,below the cut
+,Q178993,Palmas,Brazil,0.0982,18811,72,0,0,below the cut
+,Q209009,Telavi,Georgia,0.0982,19996,68,0,0,below the cut
+,Q44208,Rawson,Argentina,0.0982,21901,60,0,0,below the cut
+,Q147243,Štip,North Macedonia,0.098,21536,61,0,0,below the cut
+,Q2454236,Nowshera,India,0.098,14420,0,1,0,below the cut
+,Q3774,Chillán,Chile,0.0979,14640,88,0,0,below the cut
+,Q172637,Nizhnevartovsk,Russia,0.0972,19906,68,0,0,below the cut
+,Q44211,Corrientes,Argentina,0.0972,20432,65,0,0,below the cut
+,Q109535,Zutphen,Netherlands,0.0968,20426,65,0,0,below the cut
+,Q208011,Schiermonnikoog,Netherlands,0.0968,20836,63,0,0,below the cut
+,Q202362,Sfântu Gheorghe,Romania,0.0961,21532,60,0,0,below the cut
+,Q207748,Sillamäe,Estonia,0.0959,20190,66,0,0,below the cut
+,Q6874,Rastatt,Germany,0.0957,20453,64,0,0,below the cut
+,Q44213,Paraná,Argentina,0.0951,17660,75,0,0,below the cut
+,Q6931,Böblingen,Germany,0.0951,21381,60,0,0,below the cut
+,Q271000,Bouaké,Côte d'Ivoire,0.0949,21041,61,0,0,below the cut
+,Q61301,San Francisco de Campeche,Mexico,0.0947,18295,72,0,0,below the cut
+,Q7830,Sudak,Russia,0.0947,20617,63,0,0,below the cut
+,Q13122,Dendermonde,Belgium,0.0943,20730,62,0,0,below the cut
+,Q158821,Drohobych,Ukraine,0.0939,20140,65,0,0,below the cut
+,Q21168,Varberg,Sweden,0.0939,20294,64,0,0,below the cut
+,Q19313,Barysaw,Belarus,0.0938,19556,67,0,0,below the cut
+,Q6149,Soest,Germany,0.0934,20245,64,0,0,below the cut
+,Q15220504,Coreca,Italy,0.0931,502,114,0,0,below the cut
+,Q156760,Nikopol,Ukraine,0.0928,19607,66,0,0,below the cut
+,Q336431,Toyohashi,Japan,0.0924,20969,60,0,0,below the cut
+,Q25304,Pichilemu,Chile,0.0923,9330,103,0,0,below the cut
+,Q4037,Schwäbisch Gmünd,Germany,0.092,20846,60,0,0,below the cut
+,Q20352,Neustrelitz,Germany,0.0918,20633,61,0,0,below the cut
+,Q16026,Limburg an der Lahn,Germany,0.0914,19973,64,0,0,below the cut
+,Q186569,Yambol,Bulgaria,0.0914,20404,62,0,0,below the cut
+,Q213318,Amagasaki,Japan,0.0914,19384,66,0,0,below the cut
+,Q26906,Ciudad Bolívar,Venezuela,0.091,20466,61,0,0,below the cut
+,Q211020,Imatra,Finland,0.0897,19648,64,0,0,below the cut
+,Q23185,Mytishchi,Russia,0.0891,17541,72,0,0,below the cut
+,Q52892,Leszno,Poland,0.0887,20291,61,0,0,below the cut
+,Q211828,Bayburt,Türkiye,0.0886,17238,73,0,0,below the cut
+,Q743218,Jonava,Lithuania,0.0884,13897,85,0,0,below the cut
+,Q231554,La Ciotat,France,0.0882,19427,64,0,0,below the cut
+,Q178188,Pereslavl-Zalessky,Russia,0.0878,11527,92,0,0,below the cut
+,Q191889,Rakvere,Estonia,0.0876,15903,78,0,0,below the cut
+,Q210292,Yozgat,Türkiye,0.0876,18264,68,0,0,below the cut
+,Q107094,Rybnik,Poland,0.0874,17765,70,0,0,below the cut
+,Q7050,Weinheim,Germany,0.0874,20328,60,0,0,below the cut
+,Q184998,Kaposvár,Hungary,0.0872,15667,78,0,0,below the cut
+,Q203027,Tsu,Japan,0.0872,19208,64,0,0,below the cut
+,Q986984,Prudnik,Poland,0.0872,17737,70,0,0,below the cut
+,Q110218,Mwanza,Tanzania,0.087,18423,67,0,0,below the cut
+,Q156558,Fayzabad,Afghanistan,0.087,19871,62,0,0,below the cut
+,Q15270,Kingisepp,Russia,0.0868,17201,72,0,0,below the cut
+,Q178878,Békéscsaba,Hungary,0.0868,16200,77,0,0,below the cut
+,Q683512,Savonlinna,Finland,0.0866,19140,64,0,0,below the cut
+,Q185066,Cholet,France,0.0863,16367,76,0,0,below the cut
+,Q191914,Hachinohe,Japan,0.0862,20214,60,0,0,below the cut
+,Q206881,Kilis,Türkiye,0.0862,17378,71,0,0,below the cut
+,Q199575,Ağrı,Türkiye,0.0861,16713,74,0,0,below the cut
+,Q223154,Peshkopi,Albania,0.0861,13382,85,0,0,below the cut
+,Q28516,Tarnobrzeg,Poland,0.0861,12208,89,0,0,below the cut
+,Q132931,Buynaksk,Russia,0.0858,19270,63,0,0,below the cut
+,Q158459,Żagań,Poland,0.0858,18750,65,0,0,below the cut
+,Q155281,Kuldīga,Latvia,0.0857,17897,68,0,0,below the cut
+,Q187821,Tatabánya,Hungary,0.0853,16429,75,0,0,below the cut
+,Q202954,Verviers,Belgium,0.0853,20078,60,0,0,below the cut
+,Q207935,Chilpancingo de los Bravo,Mexico,0.0843,17768,68,0,0,below the cut
+,Q490643,Kokshetau,Kazakhstan,0.0843,19015,63,0,0,below the cut
+,Q44217,San Salvador de Jujuy,Argentina,0.0835,19442,61,0,0,below the cut
+,Q14805,Kaufbeuren,Germany,0.083,17818,67,0,0,below the cut
+,Q16083,Deggendorf,Germany,0.0828,18551,64,0,0,below the cut
+,Q15899,Murska Sobota,Slovenia,0.0826,19285,61,0,0,below the cut
+,Q194067,Serpukhov,Russia,0.0826,17591,68,0,0,below the cut
+,Q388224,Shamakhi,Azerbaijan,0.0826,19605,60,0,0,below the cut
+,Q201404,Buzău,Romania,0.0824,18516,64,0,0,below the cut
+,Q210661,Musashino,Japan,0.0824,19585,60,0,0,part of Tokyo
+,Q2904,Herne,Germany,0.0824,12939,84,0,0,below the cut
+,Q196486,Stary Oskol,Russia,0.0822,16844,71,0,0,below the cut
+,Q44238,Posadas,Argentina,0.0822,18478,64,0,0,below the cut
+,Q15928,Velenje,Slovenia,0.082,18164,65,0,0,below the cut
+,Q3764,Witten,Germany,0.082,15646,75,0,0,below the cut
+,Q3791,Ratingen,Germany,0.082,19472,60,0,0,below the cut
+,Q3828,Dessau-Roßlau,Germany,0.0819,12573,61,0,1,below the cut
+,Q272795,Tacna,Peru,0.0812,19032,61,0,0,below the cut
+,Q61909,Weil am Rhein,Germany,0.0812,18797,62,0,0,below the cut
+,Q241767,Plasencia,Spain,0.081,17342,68,0,0,below the cut
+,Q27541,Ružomberok,Slovakia,0.0805,12589,60,0,1,below the cut
+,Q68972,Liestal,Switzerland,0.0805,16277,73,0,0,below the cut
+,Q15922,Škofja Loka,Slovenia,0.0802,19177,60,0,0,below the cut
+,Q103565,Angarsk,Russia,0.0801,16408,72,0,0,below the cut
+,Q3868,Copiapó,Chile,0.0801,14548,78,0,0,below the cut
+,Q34267,Międzyrzec Podlaski,Poland,0.08,5067,102,0,0,below the cut
+,Q54356,Nyköping,Sweden,0.0799,16147,73,0,0,below the cut
+,Q193905,Valga,Estonia,0.0795,16514,71,0,0,below the cut
+,Q4469,Talca,Chile,0.0793,14729,76,0,0,below the cut
+,Q158239,Kroměříž,Czechia,0.0792,12169,61,0,1,below the cut
+,Q22636,Wissembourg,France,0.0791,17330,67,0,0,below the cut
+,Q27001,Martin,Slovakia,0.0787,16429,71,0,0,below the cut
+,Q270704,Třebíč,Czechia,0.0786,12093,61,0,1,below the cut
+,Q7197090,Piotrowice,Poland,0.0786,199,106,0,0,below the cut
+,Q37672,Campora San Giovanni,Italy,0.0782,1429,104,0,0,below the cut
+,Q66013,Głogów,Poland,0.0781,18104,63,0,0,below the cut
+,Q11994,Miranda de Ebro,Spain,0.0779,17601,65,0,0,below the cut
+,Q2222616,Telšiai,Lithuania,0.0779,18292,62,0,0,below the cut
+,Q487328,Marktl,Germany,0.0779,16961,68,0,0,below the cut
+,Q242478,Levoča,Slovakia,0.0778,10940,64,0,1,below the cut
+,Q3890,Rheine,Germany,0.0777,18522,61,0,0,below the cut
+,Q208006,Bilecik,Türkiye,0.0772,16606,69,0,0,below the cut
+,Q209932,Biała Podlaska,Poland,0.0772,18718,60,0,0,below the cut
+,Q208472,Bingöl,Türkiye,0.0768,12866,81,0,0,below the cut
+,Q1023574,Vrahovice,Czechia,0.0767,584,104,0,0,below the cut
+,Q145810,Kizlyar,Russia,0.076,16704,68,0,0,below the cut
+,Q30317,Ecser,Hungary,0.0759,830,103,0,0,below the cut
+,Q5707,Bjelovar,Croatia,0.0758,16861,67,0,0,below the cut
+,Q208352,Borjomi,Georgia,0.0756,18220,61,0,0,below the cut
+,Q4433,Zichyújfalu,Hungary,0.0753,639,103,0,0,below the cut
+,Q157200,Zittau,Germany,0.075,18356,60,0,0,below the cut
+,Q237655,Baranavichy,Belarus,0.0748,17605,63,0,0,below the cut
+,Q158936,Mineralnye Vody,Russia,0.0745,17096,65,0,0,below the cut
+,Q252772,Eichstätt,Germany,0.0745,17769,62,0,0,below the cut
+,Q188901,Sorocaba,Brazil,0.0743,17949,61,0,0,below the cut
+,Q14839,Aurich,Germany,0.0741,17049,65,0,0,below the cut
+,Q208609,Vorsha,Belarus,0.0741,15452,71,0,0,below the cut
+,Q3907,Delmenhorst,Germany,0.0741,13452,77,0,0,below the cut
+,Q4120,Neu-Ulm,Germany,0.0741,16454,68,0,0,below the cut
+,Q122044,Lubango,Angola,0.0739,17870,61,0,0,below the cut
+,Q661038,Fukuyama,Japan,0.0737,17518,63,0,0,below the cut
+,Q68120,Frauenfeld,Switzerland,0.0737,14650,73,0,0,below the cut
+,Q11874,Zvolen,Slovakia,0.0735,16595,67,0,0,below the cut
+,Q16937,Muggia,Italy,0.0735,17850,61,0,0,below the cut
+,Q16069,Biberach an der Riß,Germany,0.0733,17653,62,0,0,below the cut
+,Q490670,Bad Ems,Germany,0.0733,17820,61,0,0,below the cut
+,Q5655,Chernyakhovsk,Russia,0.0729,18103,60,0,0,below the cut
+,Q498078,Bad Arolsen,Germany,0.0722,9847,0,1,0,below the cut
+,Q107582,Cēsis,Latvia,0.0718,17511,62,0,0,below the cut
+,Q192758,Râmnicu Vâlcea,Romania,0.0716,17172,63,0,0,below the cut
+,Q216990,Blida,Algeria,0.0716,17504,62,0,0,below the cut
+,Q25232,Benetice,Czechia,0.0715,149,102,0,0,below the cut
+,Q124375,Hódmezővásárhely,Hungary,0.0714,17472,62,0,0,below the cut
+,Q230932,Mingachevir,Azerbaijan,0.0714,14422,73,0,0,below the cut
+,Q4083,Eschweiler,Germany,0.0711,8953,91,0,0,below the cut
+,Q9954,Purmerend,Netherlands,0.071,17075,63,0,0,below the cut
+,Q14872,Bensheim,Germany,0.0706,17291,62,0,0,below the cut
+,Q203892,Visaginas,Lithuania,0.0704,17718,60,0,0,below the cut
+,Q35135,Catalão,Brazil,0.0699,3714,97,0,0,below the cut
+,Q639839,Pereiaslav,Ukraine,0.0698,16963,63,0,0,below the cut
+,Q103789,Arzamas,Russia,0.0697,14181,73,0,0,below the cut
+,Q63896,Delémont,Switzerland,0.0697,13392,75,0,0,below the cut
+,Q33280,Lysychansk,Ukraine,0.0693,15078,69,0,0,below the cut
+,Q2292517,Skikda,Algeria,0.0689,17524,60,0,0,below the cut
+,Q272040,Liptovský Mikuláš,Slovakia,0.0689,17016,62,0,0,below the cut
+,Q180131,Gabrovo,Bulgaria,0.0687,14977,69,0,0,below the cut
+,Q167839,Čakovec,Croatia,0.0683,16733,63,0,0,below the cut
+,Q185289,Pernik,Bulgaria,0.0681,17165,61,0,0,below the cut
+,Q135650,Yelabuga,Russia,0.0677,16347,65,0,0,below the cut
+,Q214655,Çorlu,Türkiye,0.0671,16829,62,0,0,below the cut
+,Q45114,Paide,Estonia,0.0671,16602,63,0,0,below the cut
+,Q39569,Dilijan,Armenia,0.0669,16993,61,0,0,below the cut
+,Q140087,Zlatoust,Russia,0.0668,14967,68,0,0,below the cut
+,Q209766,Saga,Japan,0.0664,16097,65,0,0,below the cut
+,Q487929,Milazzo,Italy,0.0662,15997,65,0,0,below the cut
+,Q208764,Katwijk,Netherlands,0.066,16921,61,0,0,below the cut
+,Q487278,Meiningen,Germany,0.0658,16318,64,0,0,below the cut
+,Q474697,Tczew,Poland,0.0654,17009,60,0,0,below the cut
+,Q31493,Abovyan,Armenia,0.065,16991,60,0,0,below the cut
+,Q35246,Oruro,Bolivia,0.065,16544,62,0,0,below the cut
+,Q606564,Bukan,Iran,0.0649,10540,82,0,0,below the cut
+,Q15984,Leer,Germany,0.0648,16721,61,0,0,below the cut
+,Q8336,Hockenheim,Germany,0.0648,15583,65,0,0,below the cut
+,Q193342,Rostov Veliky,Russia,0.0643,11155,79,0,0,below the cut
+,Q156704,Kovel,Ukraine,0.0642,16681,61,0,0,below the cut
+,Q189157,Utena,Lithuania,0.0641,14605,68,0,0,below the cut
+,Q193019,Juiz de Fora,Brazil,0.0635,16764,60,0,0,below the cut
+,Q204091,Paldiski,Estonia,0.0635,15112,65,0,0,below the cut
+,Q189328,Lovech,Bulgaria,0.0633,15096,65,0,0,below the cut
+,Q201391,Kohtla-Järve,Estonia,0.0633,14280,69,0,0,below the cut
+,Q256669,Altötting,Germany,0.0633,14646,67,0,0,below the cut
+,Q63946,Yverdon-les-Bains,Switzerland,0.0627,16347,62,0,0,below the cut
+,Q25253,Nowy Dwór Królewski,Poland,0.0626,281,96,0,0,below the cut
+,Q155309,Korolyov,Russia,0.0625,15046,65,0,0,below the cut
+,Q213555,Corte,France,0.0623,15391,64,0,0,below the cut
+,Q205327,Kananga,Dem. Rep. of the Congo,0.0619,15625,63,0,0,below the cut
+,Q181379,Osmaniye,Türkiye,0.0618,11331,77,0,0,below the cut
+,Q2880,Hamm,Germany,0.0616,2368,93,0,0,below the cut
+,Q383622,Pāksē,Laos,0.0615,16525,60,0,0,below the cut
+,Q72125,Giugliano in Campania,Italy,0.0614,10096,82,0,0,below the cut
+,Q320015,Pasto,Colombia,0.061,16347,61,0,0,below the cut
+,Q348972,Saqqez,Iran,0.061,15488,63,0,0,below the cut
+,Q192265,Focșani,Romania,0.0606,16445,60,0,0,below the cut
+,Q194146,Niğde,Türkiye,0.0606,13451,69,0,0,below the cut
+,Q478675,Riobamba,Ecuador,0.0604,16253,61,0,0,below the cut
+,Q311321,Hasakah,Syria,0.06,15618,62,0,0,below the cut
+,Q3893,Lüdenscheid,Germany,0.0598,14913,64,0,0,below the cut
+,Q203045,Semnan,Iran,0.0596,15082,63,0,0,below the cut
+,Q53742,Donauwörth,Germany,0.0596,14799,64,0,0,below the cut
+,Q196489,Sterlitamak,Russia,0.0594,12390,72,0,0,below the cut
+,Q21159,Husum,Germany,0.0594,14412,66,0,0,below the cut
+,Q540107,Waldeck,Germany,0.0593,5603,0,1,0,below the cut
+,Q7059,Bruchsal,Germany,0.059,14573,65,0,0,below the cut
+,Q101530,Wieluń,Poland,0.0585,13172,69,0,0,below the cut
+,Q22642,Sarreguemines,France,0.0585,14648,64,0,0,below the cut
+,Q23968,Norderney,Germany,0.0583,14920,63,0,0,below the cut
+,Q46001,Alushta,Russia,0.0583,12509,71,0,0,below the cut
+,Q158923,Stryi,Ukraine,0.0581,15087,62,0,0,below the cut
+,Q205271,Võru,Estonia,0.0581,11567,74,0,0,below the cut
+,Q15918,Slovenj Gradec,Slovenia,0.0575,15711,60,0,0,below the cut
+,Q158006,Jaworzno,Poland,0.0573,13263,68,0,0,below the cut
+,Q72248,Vitry-sur-Seine,France,0.0571,13946,66,0,0,below the cut
+,Q49663,Balzers,Liechtenstein,0.0567,14500,64,0,0,below the cut
+,Q193925,Armentières,France,0.0564,11197,74,0,0,below the cut
+,Q3917,Bocholt,Germany,0.0563,13640,66,0,0,below the cut
+,Q490457,Rendsburg,Germany,0.0563,15531,60,0,0,below the cut
+,Q159548,Ingelheim am Rhein,Germany,0.0556,15040,61,0,0,below the cut
+,Q187812,Dunaújváros,Hungary,0.0556,14357,64,0,0,below the cut
+,Q2219,Syzran,Russia,0.0554,14321,64,0,0,below the cut
+,Q44214,Formosa,Argentina,0.0554,15164,60,0,0,below the cut
+,Q210987,Salo,Finland,0.0552,14316,64,0,0,below the cut
+,Q488513,Anklam,Germany,0.0544,14609,62,0,0,below the cut
+,Q7066653,Nowhatta,India,0.0544,1863,0,1,0,below the cut
+,Q102667,Biysk,Russia,0.0542,10217,77,0,0,below the cut
+,Q383129,Yasuj,Iran,0.054,14677,61,0,0,below the cut
+,Q49651,Triesenberg,Liechtenstein,0.053,14624,61,0,0,below the cut
+,Q191793,Karviná,Czechia,0.0529,14155,63,0,0,below the cut
+,Q63970,Herisau,Switzerland,0.0529,13006,66,0,0,below the cut
+,Q16910,Los Ángeles,Chile,0.0527,12964,66,0,0,below the cut
+,Q64032,Uster,Switzerland,0.0525,14686,60,0,0,below the cut
+,Q233733,Ferney-Voltaire,France,0.0523,13977,63,0,0,below the cut
+,Q5222,Magas,Russia,0.0521,8736,80,0,0,below the cut
+,Q131495,Şırnak,Türkiye,0.0513,12688,66,0,0,below the cut
+,Q487672,Daşoguz,Turkmenistan,0.0513,12393,67,0,0,below the cut
+,Q31610,Hrazdan,Armenia,0.0511,13554,63,0,0,below the cut
+,Q161144,Alchevsk,Ukraine,0.0509,12641,66,0,0,below the cut
+,Q196397,Sortavala,Russia,0.0509,14404,61,0,0,below the cut
+,Q487689,Manas,Kyrgyzstan,0.0508,11146,71,0,0,below the cut
+,Q205526,Yamagata,Japan,0.0506,11684,69,0,0,below the cut
+,Q189502,Vratsa,Bulgaria,0.0505,14571,60,0,0,below the cut
+,Q319735,Goris,Armenia,0.0505,13200,64,0,0,below the cut
+,Q3949,Unna,Germany,0.0502,13437,63,0,0,below the cut
+,Q108679,Ruda Śląska,Poland,0.05,11592,69,0,0,below the cut
+,Q386649,Shahr-e Kord,Iran,0.05,13166,64,0,0,below the cut
+,Q207799,Puri,India,0.0496,10281,74,0,0,below the cut
+,Q111048,Veliky Ustyug,Russia,0.0494,13997,61,0,0,below the cut
+,Q62367,Ijevan,Armenia,0.0492,12357,66,0,0,below the cut
+,Q189697,Karabük,Türkiye,0.0486,11045,70,0,0,below the cut
+,Q33544,Volodymyr,Ukraine,0.0484,13890,61,0,0,below the cut
+,Q102307,Vyazma,Russia,0.0482,12694,64,0,0,below the cut
+,Q103483,Almetyevsk,Russia,0.0481,9408,76,0,0,below the cut
+,Q192904,Havířov,Czechia,0.0478,13379,62,0,0,below the cut
+,Q320934,Kurume,Japan,0.0476,13981,60,0,0,below the cut
+,Q208005,Kırşehir,Türkiye,0.0475,10447,72,0,0,below the cut
+,Q206885,Düzce,Türkiye,0.0471,10574,71,0,0,below the cut
+,Q162083,Konotop,Ukraine,0.0467,12722,63,0,0,below the cut
+,Q8775,Riesa,Germany,0.0467,13430,61,0,0,below the cut
+,Q487527,Wolfsberg,Austria,0.0465,13808,60,0,0,below the cut
+,Q491102,Taldyqorğan,Kazakhstan,0.0465,10730,70,0,0,below the cut
+,Q9306,Eberswalde,Germany,0.0465,13084,62,0,0,below the cut
+,Q494693,Torrelavega,Spain,0.0459,13311,61,0,0,below the cut
+,Q133175,Volgodonsk,Russia,0.0457,12916,62,0,0,below the cut
+,Q192269,Vaslui,Romania,0.0455,13439,60,0,0,below the cut
+,Q3822,Lünen,Germany,0.0455,12338,64,0,0,below the cut
+,Q735138,Kėdainiai,Lithuania,0.0455,12130,65,0,0,below the cut
+,Q141358,Lyubertsy,Russia,0.0453,11610,66,0,0,below the cut
+,Q15336,Tikhvin,Russia,0.045,11328,67,0,0,below the cut
+,Q211811,Burdur,Türkiye,0.045,12075,65,0,0,below the cut
+,Q44236,La Rioja,Argentina,0.0444,11985,65,0,0,below the cut
+,Q720937,Qaem Shahr,Iran,0.0442,8492,76,0,0,below the cut
+,Q202565,Coutances,France,0.044,12627,62,0,0,below the cut
+,Q10126,Serang,Indonesia,0.0438,12904,61,0,0,below the cut
+,Q39560,Artashat,Armenia,0.0438,9620,73,0,0,below the cut
+,Q45197,Świętochłowice,Poland,0.0438,6347,79,0,0,below the cut
+,Q16048,Crailsheim,Germany,0.0428,12652,61,0,0,below the cut
+,Q193806,Birjand,Iran,0.0428,12182,63,0,0,below the cut
+,Q15771,Armavir,Armenia,0.0424,12343,62,0,0,below the cut
+,Q34111,Pozzallo,Italy,0.0419,12287,62,0,0,below the cut
+,Q317946,Bojnord,Iran,0.0415,12049,63,0,0,below the cut
+,Q54756,Sandviken,Sweden,0.0415,12497,61,0,0,below the cut
+,Q172601,Neftekamsk,Russia,0.0407,10816,66,0,0,below the cut
+,Q6905,Frankenthal,Germany,0.0407,12159,62,0,0,below the cut
+,Q175742,Odintsovo,Russia,0.0405,11431,64,0,0,below the cut
+,Q241298,Albenga,Italy,0.0405,10196,69,0,0,below the cut
+,Q48194,Frýdek-Místek,Czechia,0.0405,11672,63,0,0,below the cut
+,Q191120,Jēkabpils,Latvia,0.0401,11042,65,0,0,below the cut
+,Q3240427,Härnösand,Sweden,0.0397,12036,62,0,0,below the cut
+,Q172470,Neryungri,Russia,0.0394,11516,63,0,0,below the cut
+,Q3015863,Piranshahr,Iran,0.0394,10659,66,0,0,below the cut
+,Q132806,Bugulma,Russia,0.0392,11810,62,0,0,below the cut
+,Q189769,Salgótarján,Hungary,0.0384,9004,71,0,0,below the cut
+,Q648567,Bokhtar,Tajikistan,0.0384,12233,60,0,0,below the cut
+,Q464763,Augustów,Poland,0.0382,12226,60,0,0,below the cut
+,Q93323,Chrzanów,Poland,0.0382,7395,74,0,0,below the cut
+,Q214843,Tipaza,Algeria,0.038,11190,63,0,0,below the cut
+,Q841026,Brovary,Ukraine,0.0376,11468,62,0,0,below the cut
+,Q145457,Kasimov,Russia,0.0374,9896,68,0,0,below the cut
+,Q16147,Güstrow,Germany,0.0374,11063,63,0,0,below the cut
+,Q203675,Mažeikiai,Lithuania,0.0367,10742,64,0,0,below the cut
+,Q102346,Yelets,Russia,0.0363,10472,65,0,0,below the cut
+,Q13661,Iglesias,Italy,0.0361,7850,72,0,0,below the cut
+,Q104232,Achinsk,Russia,0.0355,7642,72,0,0,below the cut
+,Q214303,Gümüşhane,Türkiye,0.0355,11059,62,0,0,below the cut
+,Q490665,Arnstadt,Germany,0.0347,10956,62,0,0,below the cut
+,Q864827,Hlukhiv,Ukraine,0.0341,11451,60,0,0,below the cut
+,Q56134,Salamanca,Chile,0.034,1761,77,0,0,below the cut
+,Q191652,Santo André,Brazil,0.0336,10339,64,0,0,below the cut
+,Q19344,San Pedro de la Paz,Chile,0.0336,2405,76,0,0,below the cut
+,Q80004,Coronel Fabriciano,Brazil,0.0332,2203,76,0,0,below the cut
+,Q1020637,Jahrom,Iran,0.0328,5942,73,0,0,below the cut
+,Q136435,Zhukovsky,Russia,0.0326,10647,62,0,0,below the cut
+,Q320007,Puławy,Poland,0.0326,10897,61,0,0,below the cut
+,Q206891,Kırıkkale,Türkiye,0.0324,9265,67,0,0,below the cut
+,Q338844,Batna,Algeria,0.0322,10411,63,0,0,below the cut
+,Q211059,Jõhvi,Estonia,0.032,9842,65,0,0,below the cut
+,Q176636,Orekhovo-Zuyevo,Russia,0.0318,9833,65,0,0,below the cut
+,Q1796771,Köthen,Germany,0.0318,10292,63,0,0,below the cut
+,Q189761,Szekszárd,Hungary,0.0318,9004,67,0,0,below the cut
+,Q207851,Vlieland,Netherlands,0.0316,10988,60,0,0,below the cut
+,Q185346,Ceyhan,Türkiye,0.0311,10275,63,0,0,below the cut
+,Q209925,Çankırı,Türkiye,0.0311,9751,65,0,0,below the cut
+,Q175161,Novomoskovsk,Russia,0.0305,10787,60,0,0,below the cut
+,Q146356,Chomutov,Czechia,0.0303,10572,61,0,0,below the cut
+,Q14938,Bernburg,Germany,0.0303,10743,60,0,0,below the cut
+,Q63964,Sarnen,Switzerland,0.0301,8710,67,0,0,below the cut
+,Q105455,Miass,Russia,0.0299,9812,64,0,0,below the cut
+,Q25462,Mölnlycke,Sweden,0.0299,4503,72,0,0,below the cut
+,Q39565,Gavar,Armenia,0.0299,10511,61,0,0,below the cut
+,Q146453,Kalush,Ukraine,0.0297,10715,60,0,0,below the cut
+,Q487500,Spittal an der Drau,Austria,0.0297,10002,63,0,0,below the cut
+,Q105002,Berezniki,Russia,0.0295,10469,61,0,0,below the cut
+,Q167744,Gryfice,Poland,0.0295,6661,70,0,0,below the cut
+,Q7977,Priozersk,Russia,0.0293,9965,63,0,0,below the cut
+,Q16087,Zeitz,Germany,0.0291,10625,60,0,0,below the cut
+,Q155455,Kotlas,Russia,0.0282,8569,66,0,0,below the cut
+,Q193050,Érd,Hungary,0.028,9406,64,0,0,below the cut
+,Q20188,Mondovì,Italy,0.0278,8945,65,0,0,below the cut
+,Q107106,Jastrzębie-Zdrój,Poland,0.0276,9730,63,0,0,below the cut
+,Q136834,Zvenigorod,Russia,0.0274,10198,61,0,0,below the cut
+,Q193443,Salavat,Russia,0.0274,6433,69,0,0,below the cut
+,Q210470,Katerini,Greece,0.0274,665,74,0,0,below the cut
+,Q333074,Moundou,Chad,0.0274,10431,60,0,0,below the cut
+,Q104560,Balakovo,Russia,0.0272,8153,66,0,0,below the cut
+,Q161978,Dzhankoi,Ukraine,0.027,10162,61,0,0,below the cut
+,Q494504,Bludenz,Austria,0.0268,9561,63,0,0,below the cut
+,Q488315,Lustenau,Austria,0.0266,10291,60,0,0,below the cut
+,Q43136,Giurtelecu Șimleului,Romania,0.0265,106,75,0,0,below the cut
+,Q57944,Annaberg-Buchholz,Germany,0.0264,9774,62,0,0,below the cut
+,Q134433,Glazov,Russia,0.0262,9970,61,0,0,below the cut
+,Q39510,Ashtarak,Armenia,0.0259,7819,66,0,0,below the cut
+,Q490025,Ratzeburg,Germany,0.0255,9847,61,0,0,below the cut
+,Q196786,Uglich,Russia,0.0253,9080,63,0,0,below the cut
+,Q179407,Pechory,Russia,0.0251,10161,60,0,0,below the cut
+,Q104407,Zgierz,Poland,0.0249,8985,63,0,0,below the cut
+,Q255684,Hallein,Austria,0.0249,7989,65,0,0,below the cut
+,Q102334,Dmitrov,Russia,0.0247,8539,64,0,0,below the cut
+,Q12292,Villarreal,Spain,0.0245,2086,71,0,0,below the cut
+,Q143376,Ishimbay,Russia,0.0245,2829,70,0,0,below the cut
+,Q103661,Apatity,Russia,0.0241,9644,61,0,0,below the cut
+,Q175480,Noginsk,Russia,0.0228,7327,65,0,0,below the cut
+,Q10780,Grimma,Germany,0.0226,9730,60,0,0,below the cut
+,Q6910,Dülmen,Germany,0.0226,8803,62,0,0,below the cut
+,Q135285,Dimitrovgrad,Russia,0.0222,7170,65,0,0,below the cut
+,Q221914,Moçâmedes,Angola,0.022,9572,60,0,0,below the cut
+,Q244747,Tudela,Spain,0.022,8733,62,0,0,below the cut
+,Q80074,Babsk,Poland,0.022,1516,70,0,0,below the cut
+,Q211805,Bartın,Türkiye,0.0214,7954,63,0,0,below the cut
+,Q259893,Bruck an der Mur,Austria,0.0212,9350,60,0,0,below the cut
+,Q14889,Schwabach,Germany,0.0206,9186,60,0,0,below the cut
+,Q98995,Volzhsky,Russia,0.0203,8105,62,0,0,below the cut
+,Q102445,Kovrov,Russia,0.0201,7468,63,0,0,below the cut
+,Q103377,Alexandrov,Russia,0.0197,5992,65,0,0,below the cut
+,Q103273,Aldan,Russia,0.0193,7253,63,0,0,below the cut
+,Q206555,Maardu,Estonia,0.0191,7780,62,0,0,below the cut
+,Q254165,Bischofshofen,Austria,0.0191,8459,61,0,0,below the cut
+,Q311946,Naryn,Kyrgyzstan,0.0191,8754,60,0,0,below the cut
+,Q144170,Kamyshin,Russia,0.0189,7170,63,0,0,below the cut
+,Q103212,Alapayevsk,Russia,0.0187,7632,62,0,0,below the cut
+,Q196384,Solikamsk,Russia,0.0179,8520,60,0,0,below the cut
+,Q122869,Dziecinów,Poland,0.0174,213,69,0,0,below the cut
+,Q104649,Bataysk,Russia,0.0168,4712,64,0,0,below the cut
+,Q198369,Shchyolkovo,Russia,0.0168,8054,60,0,0,below the cut
+,Q39538,Yeghegnadzor,Armenia,0.0164,7359,61,0,0,below the cut
+,Q64058,Köniz,Switzerland,0.0164,6667,62,0,0,below the cut
+,Q134693,Gudermes,Russia,0.0158,7171,61,0,0,below the cut
+,Q242593,Gudauta,Georgia,0.0154,7057,61,0,0,below the cut
+,Q193380,Rubtsovsk,Russia,0.0152,6976,61,0,0,below the cut
+,Q47585,Garda,Italy,0.0147,4430,63,0,0,below the cut
+,Q175433,Novocheboksarsk,Russia,0.0141,5544,62,0,0,below the cut
+,Q105444,Kamensk-Uralsky,Russia,0.0133,6975,60,0,0,below the cut
+,Q12052,Delitzsch,Germany,0.0129,4320,62,0,0,below the cut
+,Q155974,Kungur,Russia,0.0127,4157,62,0,0,below the cut
+,Q9536,Bad Doberan,Germany,0.0127,6462,60,0,0,below the cut
+,Q45100,Põlva,Estonia,0.0122,5282,61,0,0,below the cut
+,Q154002,Melekeok,Palau,0.012,6339,60,0,0,below the cut
+,Q241116,Shirvan,Azerbaijan,0.0118,6114,60,0,0,below the cut
+,Q104735,Belogorsk,Russia,0.0116,6076,60,0,0,below the cut
+,Q102521,Adygeysk,Russia,0.0098,2865,61,0,0,below the cut
+,Q102737,Agidel,Russia,0.0089,1673,62,0,0,below the cut
+,Q134396,Gdov,Russia,0.0089,4048,60,0,0,below the cut
+,Q174744,Villa Alemana,Chile,0.0087,3784,60,0,0,below the cut
+,Q274290,Wattrelos,France,0.0083,3114,60,0,0,below the cut
+,Q146509,Krzeszowice,Poland,0.0075,2731,60,0,0,below the cut
+,Q337636,Saint-Sébastien-sur-Loire,France,0.0064,2141,60,0,0,below the cut
+,Q101583,Thebes,Egypt,,,82,,,not a living city
+,Q10704,Tórshavn,,,,120,,,no country in the game
+,Q110601629,Nusantara,Indonesia,,,89,,,no population
+,Q11259,Times Square,United States,,,72,,,not a living city
+,Q1177750,City of David,Israel,,,60,,,not a living city
+,Q12245,Stanley,,,,92,,,no country in the game
+,Q129072,Persepolis,Iran,,,103,,,dissolved
+,Q129677,Chernobyl,Ukraine,,,106,,,not a living city
+,Q131013,Acropolis of Athens,Greece,,,97,,,no population
+,Q131243,Oranjestad,,,,96,,,no country in the game
+,Q131662,Polokwane,South Africa,,,83,,,no population
+,Q132564,Mycenae,Greece,,,91,,,not a living city
+,Q132679,Willemstad,,,,93,,,no country in the game
+,Q133274,Kremlin,Russia,,,97,,,no population
+,Q133575,Cave of Altamira,Spain,,,76,,,no population
+,Q13695,Tenochtitlan,Mexico,,,88,,,dissolved
+,Q147738,Saint Helier,,,,80,,,no country in the game
+,Q150996,Akkad,Iraq,,,64,,,not a living city
+,Q151198,Dachau concentration camp,,,,66,,,no country in the game
+,Q152010,Treblinka extermination camp,Poland,,,62,,,dissolved
+,Q152802,Buchenwald concentration camp,Germany,,,60,,,dissolved
+,Q159583,Holy See,Vatican City,,,92,,,no population
+,Q163490,Sidon,Lebanon,,,92,,,not a living city
+,Q163607,Angkor,Cambodia,,,91,,,not a living city
+,Q165422,Francistown,Botswana,,,64,,,no population
+,Q168518,Uruk,Iraq,,,75,,,not a living city
+,Q168652,Hargeisa,,,,95,,,no country in the game
+,Q16869,Constantinople,Türkiye,,,128,,,dissolved
+,Q169460,Miletus,Türkiye,,,73,,,dissolved
+,Q170047,Samarra,Iraq,,,92,,,not a living city
+,Q170456,Pripyat,Ukraine,,,86,,,not a living city
+,Q170482,Avarua,,,,81,,,no country in the game
+,Q172125,Lascaux,France,,,69,,,no population
+,Q172996,George Town,,,,74,,,no country in the game
+,Q173527,Knossos,Greece,,,71,,,no population
+,Q173532,Byblos,Lebanon,,,83,,,not a living city
+,Q174262,Saint Peter Port,,,,76,,,no country in the game
+,Q174916,Tartus,Syria,,,71,,,no population
+,Q178813,Herculaneum,Italy,,,72,,,dissolved
+,Q178835,Baalbek,Lebanon,,,86,,,not a living city
+,Q179839,Golden Horn,Türkiye,,,63,,,not a living city
+,Q180402,Yosemite National Park,United States,,,87,,,no population
+,Q180773,Susa,Iran,,,79,,,dissolved
+,Q182049,Rustenburg,South Africa,,,71,,,no population
+,Q185362,Saint Catherine Monastery,Egypt,,,75,,,no population
+,Q185591,Pietermaritzburg,South Africa,,,82,,,no population
+,Q18569,Douglas,,,,94,,,no country in the game
+,Q186115,Montmartre,France,,,65,,,not a living city
+,Q1877,Đồng Hới,Vietnam,,,231,,,dissolved
+,Q188395,Nippur,Iraq,,,69,,,not a living city
+,Q188694,Butrint,Albania,,,62,,,no population
+,Q189685,Abomey,Benin,,,69,,,no population
+,Q18986,Pergamon,Türkiye,,,72,,,not a living city
+,Q189960,Westminster,United Kingdom,,,65,,,no population
+,Q190774,Smederevo,Serbia,,,65,,,no population
+,Q191047,Ilulissat,,,,67,,,no country in the game
+,Q191369,Ugarit,Syria,,,66,,,dissolved
+,Q191504,Leptis Magna,Libya,,,69,,,dissolved
+,Q191687,Heliopolis,Egypt,,,63,,,not a living city
+,Q192134,Saqqara,Egypt,,,65,,,not a living city
+,Q192237,Ghadames,Libya,,,69,,,no population
+,Q192522,Çatalhöyük,Türkiye,,,70,,,dissolved
+,Q192541,Ctesiphon,Iraq,,,75,,,dissolved
+,Q193103,Herceg Novi,Montenegro,,,70,,,not a living city
+,Q19316,Biên Hòa,Vietnam,,,83,,,dissolved
+,Q193163,Temple Mount,Palestine,,,76,,,not a living city
+,Q193325,Merv,Turkmenistan,,,70,,,not a living city
+,Q193369,Prague Castle,Czechia,,,66,,,no population
+,Q19491,Nha Trang,Vietnam,,,158,,,dissolved
+,Q200119,Ujjain,India,,,80,,,not a living city
+,Q200200,Assur,Iraq,,,79,,,not a living city
+,Q200267,Kamakura,Japan,,,76,,,not a living city
+,Q200311,Mathura,India,,,78,,,no population
+,Q200441,Antioch,Türkiye,,,81,,,dissolved
+,Q202730,Copacabana,Brazil,,,62,,,no population
+,Q203979,Milos,Greece,,,65,,,no population
+,Q207330,Lagash,Iraq,,,61,,,dissolved
+,Q207590,Lalibela,Ethiopia,,,67,,,no population
+,Q208098,Sisimiut,,,,60,,,no country in the game
+,Q209217,Great Zimbabwe,Zimbabwe,,,75,,,not a living city
+,Q209533,Bhisho,South Africa,,,61,,,no population
+,Q209698,Kolhapur,India,,,65,,,no population
+,Q211560,Moscow International Business Center,Russia,,,60,,,no population
+,Q21194,Vũng Tàu,Vietnam,,,145,,,dissolved
+,Q212938,East Jerusalem,Palestine,,,82,,,not a living city
+,Q213274,Old City of Jerusalem,Palestine,,,83,,,no population
+,Q214944,Göbekli Tepe,Türkiye,,,78,,,dissolved
+,Q216243,Nalanda Mahavihara,India,,,72,,,not a living city
+,Q226,Nuuk,,,,148,,,no country in the game
+,Q22647,Troy,Türkiye,,,121,,,dissolved
+,Q230025,Pasargadae,Iran,,,66,,,not a living city
+,Q232771,Shaolin Monastery,China,,,61,,,no population
+,Q233576,Epidaurus,Greece,,,60,,,not a living city
+,Q23495,Moshchena,Ukraine,,,157,,,no population
+,Q236680,Toshima,Japan,,,63,,,not a living city
+,Q237128,Mesa Verde National Park,United States,,,60,,,not a living city
+,Q23725,Byzantium,,,,78,,,no country in the game
+,Q237614,Nimrud,Iraq,,,61,,,dissolved
+,Q242711,Kyiv Pechersk Lavra,Ukraine,,,67,,,no population
+,Q2429397,Ancient Carthage,,,,61,,,no country in the game
+,Q244159,Dhanbad,India,,,67,,,no population
+,Q25262,Cà Mau,Vietnam,,,107,,,dissolved
+,Q25281,Đà Lạt,Vietnam,,,104,,,dissolved
+,Q25315,Phan Thiết,Vietnam,,,97,,,dissolved
+,Q2693056,Vlamertinge,Belgium,,,62,,,no population
+,Q272153,Sigiriya,Sri Lanka,,,63,,,no population
+,Q272680,Bosra,Syria,,,62,,,not a living city
+,Q273030,Haridwar,India,,,72,,,no population
+,Q2749,Augsburg,Germany,,,124,,,not a living city
+,Q28471,Royal Monastery of San Lorenzo de El Escorial,Spain,,,82,,,no population
+,Q29317,Bagan,Myanmar,,,79,,,not a living city
+,Q29962,Asyut,Egypt,,,74,,,not a living city
+,Q309276,Northeast Greenland National Park,,,,61,,,no country in the game
+,Q309436,Aït Benhaddou,Morocco,,,68,,,no population
+,Q30958,Philipsburg,,,,67,,,no country in the game
+,Q30963,Kingston,Australia,,,66,,,no population
+,Q30966,Alofi,,,,96,,,no country in the game
+,Q30970,Jamestown,,,,81,,,no country in the game
+,Q30985,Hamilton,,,,92,,,no country in the game
+,Q30990,Plymouth,,,,70,,,no country in the game
+,Q30994,The Valley,,,,73,,,no country in the game
+,Q3138,Trier,Germany,,,129,,,not a living city
+,Q322986,Delfzijl,Netherlands,,,60,,,no population
+,Q323813,Jamestown,United States,,,60,,,no population
+,Q324394,Sarnath,India,,,60,,,no population
+,Q34006,Hollywood,United States,,,154,,,not a living city
+,Q351,Yellowstone National Park,United States,,,116,,,no population
+,Q36160,Hội An,Vietnam,,,62,,,dissolved
+,Q36175,Thanh Hóa,Vietnam,,,84,,,dissolved
+,Q36635,Bến Tre (city),Vietnam,,,82,,,dissolved
+,Q3766,Damascus,Syria,,,242,,,not a living city
+,Q38888,Olympia,Greece,,,89,,,no population
+,Q4044,Offenburg,Germany,,,68,,,not a living city
+,Q41150,Way of Saint James,Spain,,,78,,,no population
+,Q41283,Gwangju,South Korea,,,98,,,dissolved
+,Q41470,Kurdistan,Türkiye,,,152,,,no population
+,Q418096,Akihabara,Japan,,,60,,,not a living city
+,Q43332,Pompeii,Italy,,,122,,,not a living city
+,Q44112,Cyrene,Libya,,,75,,,not a living city
+,Q4523,Chogha Zanbil,Iran,,,66,,,not a living city
+,Q45240,Monte Carlo,Monaco,,,95,,,no population
+,Q463252,Daman,India,,,62,,,no population
+,Q466614,Hatra,Iraq,,,62,,,dissolved
+,Q47611,Ephesus,Türkiye,,,96,,,no population
+,Q48472,Köneürgenç,Turkmenistan,,,61,,,not a living city
+,Q487070,Dessau,Germany,,,71,,,dissolved
+,Q498153,Edinburgh of the Seven Seas,United Kingdom,,,60,,,no population
+,Q51681,Charlotte Amalie,,,,84,,,no country in the game
+,Q52285,Craco,Italy,,,63,,,not a living city
+,Q56037,East Berlin,,,,73,,,no country in the game
+,Q5680,Nineveh,Iraq,,,87,,,dissolved
+,Q5684,Babylon,Iraq,,,127,,,dissolved
+,Q5690,Sparta,Greece,,,108,,,dissolved
+,Q5699,Ur,Iraq,,,86,,,dissolved
+,Q5715,Memphis,Egypt,,,86,,,not a living city
+,Q5724,Anuradhapura,Sri Lanka,,,81,,,not a living city
+,Q5725,Mohenjo-daro,Pakistan,,,99,,,not a living city
+,Q5747,Palmyra,Syria,,,107,,,dissolved
+,Q5780,Meroë,Sudan,,,66,,,dissolved
+,Q5788,Petra,Jordan,,,117,,,not a living city
+,Q5826,Xi'an,China,,,142,,,not a living city
+,Q585026,Alappuzha,India,,,62,,,no population
+,Q5859,Chichen Itza,Mexico,,,110,,,dissolved
+,Q59174,Capernaum,Israel,,,67,,,not a living city
+,Q61750,Tiwanaku,Bolivia,,,70,,,not a living city
+,Q6343,Carthage,Tunisia,,,121,,,dissolved
+,Q638445,Chersonesus,Ukraine,,,65,,,not a living city
+,Q639421,Pondicherry,India,,,74,,,no population
+,Q676203,Machu Picchu,Peru,,,150,,,dissolved
+,Q7341,Auschwitz,Poland,,,128,,,dissolved
+,Q75459,Delphi,Greece,,,88,,,not a living city
+,Q787595,Pigazzano,Italy,,,66,,,no population
+,Q82070,Tyre,Lebanon,,,103,,,not a living city
+,Q85,Cairo,Egypt,,,261,,,not a living city
+,Q9694,Amsterdam Schiphol Airport,Netherlands,,,94,,,no population
+,Q131546626,Managua,Nicaragua,,,0,,,no English Wikipedia article
+,Q110800198,Chanderkot,India,,,0,,,no coordinates
