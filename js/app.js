@@ -1296,8 +1296,10 @@
 
   svg.addEventListener('pointerdown', function (ev) {
     if (ev.pointerType === 'mouse' && ev.button !== 0) return;
-    svg.setPointerCapture(ev.pointerId);
     touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+    // Some mobile browsers refuse capture for a second finger; a throw here
+    // would lose the pinch, so carry on without it.
+    try { svg.setPointerCapture(ev.pointerId); } catch (e) { /* uncaptured */ }
     if (touches.size === 1) {
       dragFrom = { x: ev.clientX, y: ev.clientY };
       tapFrom = { x: ev.clientX, y: ev.clientY };
@@ -1357,6 +1359,16 @@
     tapFrom = null;
     endPointer(ev);
   });
+
+  // iOS Safari zooms the whole page on a pinch whatever touch-action says,
+  // through its own gesture events and the touches under them. Hold both
+  // back over the stage so the pinch reaches the globe instead.
+  ['gesturestart', 'gesturechange', 'gestureend'].forEach(function (type) {
+    stage.addEventListener(type, function (ev) { ev.preventDefault(); });
+  });
+  stage.addEventListener('touchmove', function (ev) {
+    if (ev.touches.length > 1) ev.preventDefault();
+  }, { passive: false });
 
   svg.addEventListener('dblclick', function (ev) {
     zoomAbout(toMap(ev.clientX, ev.clientY), 2.4);

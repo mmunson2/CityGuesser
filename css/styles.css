@@ -130,7 +130,7 @@ button:disabled:active { transform: none; }
 /* -------------------------------------------------------------------- body */
 main { flex: 1; display: flex; min-height: 0; }
 
-.stage { position: relative; flex: 1; min-width: 0; background: var(--bg); }
+.stage { position: relative; flex: 1; min-width: 0; background: var(--bg); touch-action: none; }
 
 /* The globe is a canvas (js/app.js draws it, with the palette above read
    from these custom properties); pins and labels are an SVG laid over it,
